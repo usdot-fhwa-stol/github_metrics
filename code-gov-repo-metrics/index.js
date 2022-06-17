@@ -406,6 +406,16 @@ function getPullRequestMetaData(repo) {
     // Iterate through each pull request of the repo
     repo.repository.pullRequests.nodes.forEach(function(pullRequest) {
         // Add contributor to all time contributors list
+       if(pullRequest.author == null)
+        {
+            console.error("**************PR NULL LOGIN HERE****************");
+            console.log(pullRequest);
+            //there were some ghost users
+            /**
+             * https://github.com/usdot-jpo-ode/jpo-ode/pull/166
+             */
+            return;
+        }
         contributorsListAllTime.add(pullRequest.author.login);
 
         // Add contributor to all time internal/external contributor list
@@ -717,3 +727,4 @@ if (validateCommandLineArguments()) {
     // Start the main process
     fetchProcessAndWriteGitHubData();
 }
+   
