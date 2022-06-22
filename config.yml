@@ -6,7 +6,7 @@ jobs:
     working_directory: ~/repo
     environment:
       BRANCH: master
-      TARGET_REPO: andreagrandi/andreagrandi.github.io.git
+      TARGET_REPO: github.com/saikrishnabairamoni.github.io
       PELICAN_OUTPUT_FOLDER: output
     steps:
       - checkout
@@ -45,7 +45,7 @@ jobs:
               git config --global user.email "builds@circleci.com"
               git config --global user.name "CircleCI"
               #using token clone gh-pages branch
-              git clone --quiet --branch=$CIRCLE_BRANCH https://${GH_TOKEN}@github.com/$TARGET_REPO built_website > /dev/null
+              git clone --quiet --branch=$CIRCLE_BRANCH https://${ghp_UFSYtdn5nJldinSaLElL6kjvEuNq0qIDEkF}@github.com/$TARGET_REPO built_website > /dev/null
               # Installing rsync
               echo "Installing rsync"
               sudo apt-get -y install rsync
