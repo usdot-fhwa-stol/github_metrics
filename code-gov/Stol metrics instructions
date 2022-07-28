@@ -1,0 +1,153 @@
+This the step by step procedure for generation github metrics for stol org's
+
+
+Process to generate GitHub Metrics and GitHub traffic data for USDO-FHWA-STOL, USDOT-FHWA-OPS, USDOT-JPO-ODE.
+
+1. Process to generate Full GitHub metrics from Repository code (code-gov-github-metrics) 
+Step 1: Clone the above repository to your local (https://github.com/GSA/code-gov-github-metrics).
+Step 2: After cloning the entire repo, move into the repo's directory and folder and install the NPM dependencies.
+Commands: 
+cd code-gov-github-metrics/code-gov-repo-metrics
+npm install
+Step 3: Next, create a .env file based on the template.
+Commands:
+cp .env.example .env
+Step 4: Now, create a GitHub Personal Access Token. You should only need to enable the "repo" scope (the first checkbox) when creating your token. Once you have your token, insert it into the newly created .env file, replacing <INSERT YOUR PERSONAL ACCESS TOKEN HERE>. Don't include curved brackets (<>), spaces (" "), or quotes ("") in the .env file!
+Step 5: The main script will query the GitHub repositories specified in config.json. In this file, owner refers to the GitHub organization that owns the repositories (in this case, GSA) and repoList is the list of repositories to include in the report. This script should be reusable for different organizations/repositories by changing config.json accordingly.
+Step 6: To generate a report, run the following command
+Command: npm run start <START OF TIME PERIOD TO QUERY> <END OF TIME PERIOD TO QUERY>
+Example: npm run start 2018-12-01 2018-12-31
+ Running this script will create a .csv file report in the reports folder with the name <CURRENT DATE> | <START OF TIME PERIOD TO QUERY> -> <END OF TIME PERIOD TO QUERY>.csv. For instance, if you ran the script on July 9, 2019 to query data about the month of June 2019 (6/1/2019 - 7/1/2019), the report file name would be 2019-7-9 | 2019-6-1 -> 2019-7-1.csv.
+Note: An .xls version is provided for reference (see example_report_2020-5-2 | 2020-4-1 -> 2020-4-30.xls). Normal naming convention would exclude example_report_.
+The report contains a number of metrics about the repositories for all time and for the specified time period. The definitions of these metrics can be found in DATASCHEMA.
+Below are the Repository lists for Different organizations to include in Config.json.
+1.	USDOT-FHWA-STOL
+{
+  "owner": "usdot-fhwa-stol",
+  "repoList": [
+    "carma-platform",
+    "carma-msgs",
+    "carma-cloud",
+    "carma-base",
+    "carma-messenger",
+    "carma-web-ui",
+    "autoware.ai",
+    "carma-garmin-lidar-lite-v3-driver-wrapper",
+    "carma-ssc-interface-wrapper",
+    "novatel_gps_driver",
+    "carma-velodyne-lidar-driver",
+    "carma-vehicle-model-framework",
+    "carma-config",
+    "avt_vimba_camera",
+    "carma-analytics-fotda",
+    "carma-utils",
+    "carma-streets",
+    "opendrive2lanelet",
+    "carma-simulation",
+    "carma-delphi-esr-driver",
+    "carma-delphi-srr2-driver",
+    "carma-validation",
+    "carma-torc-pinpoint-driver",
+    "carma-cohda-dsrc-driver",
+    "CARMAConcept",
+    "carma-1-tenth",
+    "carma-rtk",
+    "carma-simulation",
+    "carma-torc-xgv-controller-driver", 
+    "carma-validation",
+    "cav-education",
+    "ads-traffic-regs",
+    "carma-analytics-fotda",
+    "carma-torc-pinpoint-driver",
+    "carma-cadillac-srx-2013-controller-driver",
+    "carma-lightbar-driver",
+    "carma-freightliner-2012-controller-driver",
+    "WxDE",
+    "c1t_razor_imu_m0_driver",
+    "c1t_rplidar_driver",
+    "c1t_vesc_driver",
+    "c1t_zed_driver"
+
+  ]
+
+}
+2.	USDOT-FHWA-OPS
+ {
+  "owner": "usdot-fhwa-OPS",
+  "repoList": [
+    "V2X-Hub",
+    "libwebsockets",
+    "qhttpengine"
+  ]
+
+}
+3.	USDOT-JPO-ODE
+{
+  "owner": "usdot-jpo-ode",
+  "repoList": [
+    "jpo-ode",
+    "ode-output-validator-library",
+    "scms-asn1",
+    "jpo-cvdp",
+    "asn1_codec",
+    "jpo-tim-builder",
+    "jpo-security-svcs",
+    "jpo-s3-deposit"
+  ]
+
+}
+2. Process to generate the GitHub Traffic Data from repository code()
+Step 1 – Above repo is to gather some metrics for the company Repositories. Its purpose is to collect metrics around an organization repositories, such as commits, forks, stars etc.
+It needs GitHub’s REST API v3 and PyGitHub to develop the Python scripts.
+In order to be able to run this project you have to
+1.	be a member of the organization you want to collect the metrics from
+2.	have a Github personal token (generate here: https://github.com/settings/tokens)
+Step 0 - Installing requirements
+1.	Clone this repo
+2.	Create a virtual environment (I use venv)
+3.	Activate your environment: $ source [ENVIRONMENT_NAME]/bin/activate
+4.	Install dependencies: $ pip install -r requirements.txt
+Using the repo
+There are 2 Python scripts. Their usage and purposes are described below.
+FIRST SCRIPT
+You execute the file on command line (terminal, bash, whatever you name it) by typing:
+$ python github_metrics.py -t [GITHUB-TOKEN] -o [ORGANIZATION NAME]
+And github_metrics.py script runs the functions:
+1) list_orgs(token)
+function that returns a list of the organizations the user belongs to.
+2) list_org_members(org, token)
+function that builds a list with the members of an organization inside GitHub. Only current members are listed. It returns one list with members names and other list with members logins (usernames).
+3) export_code_frequency(directory, org, token)
+function that gather statistics for all repositories in an organization, by week/user/repo, and returns a csv file with: name of the repository, week in question, number of additions, number of deletions, author of such commit and if the author is a member or not of the organization.
+4) list_unique_collaborators(directory, org, token)
+function that returns the number of unique collaborators of an organization (for all its repos), with the information if the collaborator is a member of the organization or not.
+5) export_community_engagement(directory, org, token)
+function that gather basic metrics for all repos of an organization, such as number of forks, stars, commits and collaborators. The function returns a csv file with these informations for each repo.
+SECOND SCRIPT
+You execute the file on command line by typing:
+$ python export_traffic.py -t [GITHUB-TOKEN] -o [ORGANIZATION NAME]
+And export_traffic.py runs the functions:
+1) test_push_access(org, token)
+function that will check which repositories your token has push access to, inside the specified organization. It returns two lists: one with the repositories that the token doesn't have push access to, and other with the repos the token has access to.
+2) export_traffic(directory, org, repos_ok, token)
+function that exports the traffic from GitHub repos that your token has push access to, for the last 14 days. It will create a csv file for the following metrics: traffic (views), clones, paths and referrers. Please check further documentation from GitHub.
+3) relevantrepos_noaccess(numstars, repos_noaccess, organization, authToken)
+function that checks which repositories over numstars your token doesn't have access to, and returns a dictionary with the name of the repo and its number of stars.
+Example commands to run the above code:
+ghp_UFSYtdn5nJldinSaLElL6kjvEuNq0qIDEkF ===============------> is an example Github token
+
+python3 -m venv my-project-env ----- to create virtual environment using python3.
+source my-project-env/bin/activate ------ activate the virtual environment.
+pip install pygithub -- install pygithub using pip
+python -m pip install pygithub - use this command if above command is not working.
+pip install pandas -- install pandas dependencies using pip
+
+Execute the below commands one by one to generate the metrics for each organization and metrics are generated in .csv files in output folder.
+python3 github_metrics.py –t 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 -o usdot-fhwa-stol
+python3 github_metrics.py -t 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 -o usdot-fhwa-OPS
+python3 github_metrics.py -t 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 -o usdot-jpo-ode
+
+
+python3 export_traffic.py -t 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 -o usdot-fhwa-stol
+python3 export_traffic.py -t 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 -o usdot-fhwa-OPS
+python3 export_traffic.py -t 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 -o usdot-jpo-ode
