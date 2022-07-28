@@ -55,7 +55,7 @@ jobs:
           command: |
             ls -la
             pwd
-            cd github_metrics
+            cd /home/circleci/project/metrics/github_metrics
             cd code-gov && cd code-gov-github-metrics
             ls -la
             pwd
@@ -73,7 +73,7 @@ jobs:
           command: |
             pwd 
             ls -la
-            cd github_metrics
+            cd /home/circleci/project/metrics/github_metrics
             cd traffic-metrics
             ls -la
             python3 -m pip install pygithub    
