@@ -28,7 +28,6 @@ jobs:
     # XTERM used for better make output        
     docker:
       - image: cimg/python:3.8.10-node  
-      - image: cimg/python:3.8.10-node
     environment:
       TERM: xterm  
     parallelism: 1  
@@ -37,16 +36,27 @@ jobs:
     steps:
       #setup remote docker
       - setup_remote_docker :
-          docker_layer_caching: true  
+          docker_layer_caching: true
+      - run:
+          name: Create src folder
+          command: |
+            mkdir src
+            cd src
+            mkdir metrics
+      - checkout:
+          path: src/metrics  
       - run: 
           name: install Deps
           command: |
             set -x
-            sudo apt-get update -y && sudo apt-get upgrade -y
-            echo GITHUB_TOKEN="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" >> "${BASH_ENV}"          
+            sudo apt-get update -y && sudo apt-get upgrade -y          
             sudo apt-get install sudo -y
             sudo apt-get install git wget tar npm -y
-      - run: git clone -b ci_setup https://github.com/SaikrishnaBairamoni/code-gov-github-metrics.git 
+            sudo apt-get -y -qq update
+            sudo apt-get -y install build-essential checkinstall
+            sudo apt-get -y install git-core curl zlib1g-dev build-essential libssl-dev libreadline-dev libyaml-dev libsqlite3-dev sqlite3 libxml2-dev libxslt1-dev libcurl4-openssl-dev libffi-dev
+            sudo apt install python3.8 -y
+            sudo apt install python3-pip -y
       - run:
           name: Copy env.example
           command: |
@@ -72,16 +82,7 @@ jobs:
             ls -la
             npm install dotenv
             npm audit fix
-            #npm run start 2022-06-01 2022-06-31
-      - run: git clone -b master https://github.com/SaikrishnaBairamoni/some-github-metrics.git
-      - run:
-          name: install python 3.8.10
-          command: |
-            sudo apt-get -y -qq update
-            sudo apt-get -y install build-essential checkinstall
-            sudo apt-get -y install git-core curl zlib1g-dev build-essential libssl-dev libreadline-dev libyaml-dev libsqlite3-dev sqlite3 libxml2-dev libxslt1-dev libcurl4-openssl-dev libffi-dev
-            sudo apt install python3.8 -y
-            sudo apt install python3-pip -y
+            npm run start 2022-06-01 2022-06-31
       - run:
           name: create virtual env
           command: |
@@ -106,9 +107,9 @@ jobs:
             ls -la
             cd some-github-metrics
             pip install pandas 
-            python3 github_metrics.py -t ${BASH_ENV} -o usdot-fhwa-stol
-            python3 github_metrics.py -t ${BASH_ENV} -o usdot-fhwa-OPS
-            python3 github_metrics.py -t ${BASH_ENV} -o usdot-jpo-ode
+            python3 github_metrics.py -t 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 -o usdot-fhwa-stol
+            python3 github_metrics.py -t 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 -o usdot-fhwa-OPS
+            python3 github_metrics.py -t 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 -o usdot-jpo-ode
       - run:
           name: RUN traffic metrics
           command: |
