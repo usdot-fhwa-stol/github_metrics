@@ -37,12 +37,6 @@ jobs:
       #setup remote docker
       - setup_remote_docker :
           docker_layer_caching: false
-      - run:
-          name: Create src folder
-          command: |
-            mkdir src
-            cd src
-            mkdir metrics
       - run: git clone -b develop https://github.com/usdot-fhwa-stol/github_metrics.git
       - run: 
          name: install Deps
@@ -61,6 +55,7 @@ jobs:
           command: |
             ls -la
             pwd
+            cd github_metrics
             cd code-gov && cd code-gov-github-metrics
             ls -la
             pwd
@@ -78,6 +73,7 @@ jobs:
           command: |
             pwd 
             ls -la
+            cd github_metrics
             cd traffic-metrics
             ls -la
             python3 -m pip install pygithub    
