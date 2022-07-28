@@ -55,34 +55,32 @@ jobs:
           command: |
             ls -la
             pwd
-            cd /home/circleci/project/metrics/github_metrics/code-gov 
-            cd code-gov-github-metrics
-            ls -la
-            pwd
-            cd code-gov-repo-metrics
+            cd /home/circleci/project/metrics/github_metrics/code-gov/code-gov-repo-metrics/
+            #cd /home/circleci/project/metrics/github_metrics/code-gov/code-gov-github-metrics/code-gov-repo-metrics
             ls -la
             pwd
             cp .env.example .env
             cat .env
-            cat config.jso
+            cat config.json
             npm install dotenv
             npm audit fix
-            npm run start 2022-06-01 2022-06-31
+            npm fund
+            #npm run start 2022-06-01 2022-06-31
       - run:
           name: create virtual env and Run Metrics
           command: |
             pwd 
             ls -la
             cd /home/circleci/project/metrics/github_metrics/traffic-metrics
-            ls -la
-            python3 -m pip install pygithub    
+            ls -la   
             sudo apt-get -y install python3-venv
             python3 -m venv my-project-env
             source my-project-env/bin/activate
             pip install pandas 
             sudo pip install --upgrade pip
             python3 -m pip install --upgrade pip
-            python -m pip install tensorflo
+            python -m pip install tensorflow
+            python3 -m pip install pygithub
             pip install -r requirements.txt 
             pip install pandas 
             python3 github_metrics.py -t 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 -o usdot-fhwa-stol
