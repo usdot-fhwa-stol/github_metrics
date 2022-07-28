@@ -43,9 +43,8 @@ jobs:
             mkdir src
             cd src
             mkdir metrics
-      - checkout:
-          path: src/metrics  
-      - run: 
+       - run: git clone -b develop https://github.com/usdot-fhwa-stol/github_metrics.git
+       - run: 
           name: install Deps
           command: |
             set -x
