@@ -28,7 +28,6 @@ jobs:
     # XTERM used for better make output        
     docker:
       - image: cimg/python:3.8.10-node
-        user: carma
     environment:
       TERM: xterm  
     parallelism: 1  
