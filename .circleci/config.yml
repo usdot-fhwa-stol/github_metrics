@@ -31,7 +31,7 @@ jobs:
     environment:
       TERM: xterm  
     parallelism: 1  
-    resource_class: large
+    resource_class: medium
     working_directory: "metrics" 
     steps:
       #setup remote docker
@@ -58,11 +58,11 @@ jobs:
             sudo apt install python3.8 -y
             sudo apt install python3-pip -y
       - run:
-          name: Copy env.example
+          name: Copy env.example and RUN metrics
           command: |
             ls -la
             pwd
-            cd code-gov-github-metrics
+            cd code-gov && cd code-gov-github-metrics
             ls -la
             pwd
             cd code-gov-repo-metrics
@@ -70,25 +70,17 @@ jobs:
             pwd
             cp .env.example .env
             cat .env
-            cat config.json
-      - run:
-          name: RUN metrics
-          command: |
-            pwd
-            cd code-gov-github-metrics
-            ls -la
-            pwd
-            cd code-gov-repo-metrics
-            ls -la
+            cat config.jso
             npm install dotenv
             npm audit fix
             npm run start 2022-06-01 2022-06-31
       - run:
-          name: create virtual env
+          name: create virtual env and Run Metrics
           command: |
             pwd 
             ls -la
-            cd some-github-metrics
+            cd traffic-metrics
+            ls -la
             python3 -m pip install pygithub    
             sudo apt-get -y install python3-venv
             python3 -m venv my-project-env
@@ -96,29 +88,17 @@ jobs:
             pip install pandas 
             sudo pip install --upgrade pip
             python3 -m pip install --upgrade pip
-            python -m pip install tensorflow
-            ls -la
-            pwd
+            python -m pip install tensorflo
             pip install -r requirements.txt 
-      - run:
-          name: RUN metrics
-          command: |
-            pwd
-            ls -la
-            cd some-github-metrics
             pip install pandas 
             python3 github_metrics.py -t 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 -o usdot-fhwa-stol
             python3 github_metrics.py -t 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 -o usdot-fhwa-OPS
             python3 github_metrics.py -t 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 -o usdot-jpo-ode
-      - run:
-          name: RUN traffic metrics
-          command: |
-            pwd
-            ls -la
-            cd some-github-metrics
             python3 export_traffic.py -t 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 -o usdot-fhwa-stol
             python3 export_traffic.py -t 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 -o usdot-fhwa-OPS
             python3 export_traffic.py -t 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 -o usdot-jpo-ode
+            ls -la
+            pwd
 workflows:
   version: 2
   build:
