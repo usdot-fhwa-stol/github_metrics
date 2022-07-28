@@ -43,19 +43,19 @@ jobs:
             mkdir src
             cd src
             mkdir metrics
-       - run: git clone -b develop https://github.com/usdot-fhwa-stol/github_metrics.git
-       - run: 
-          name: install Deps
-          command: |
-            set -x
-            sudo apt-get update -y && sudo apt-get upgrade -y          
-            sudo apt-get install sudo -y
-            sudo apt-get install git wget tar npm -y
-            sudo apt-get -y -qq update
-            sudo apt-get -y install build-essential checkinstall
-            sudo apt-get -y install git-core curl zlib1g-dev build-essential libssl-dev libreadline-dev libyaml-dev libsqlite3-dev sqlite3 libxml2-dev libxslt1-dev libcurl4-openssl-dev libffi-dev
-            sudo apt install python3.8 -y
-            sudo apt install python3-pip -y
+      - run: git clone -b develop https://github.com/usdot-fhwa-stol/github_metrics.git
+      - run: 
+         name: install Deps
+         command: |
+           set -x
+           sudo apt-get update -y && sudo apt-get upgrade -y          
+           sudo apt-get install sudo -y
+           sudo apt-get install git wget tar npm -y
+           sudo apt-get -y -qq update
+           sudo apt-get -y install build-essential checkinstall
+           sudo apt-get -y install git-core curl zlib1g-dev build-essential libssl-dev libreadline-dev libyaml-dev libsqlite3-dev sqlite3 libxml2-dev libxslt1-dev libcurl4-openssl-dev libffi-dev
+           sudo apt install python3.8 -y
+           sudo apt install python3-pip -y
       - run:
           name: Copy env.example and RUN metrics
           command: |
