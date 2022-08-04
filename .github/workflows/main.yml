@@ -1,0 +1,35 @@
+name: GitHub Metrics
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: "3.8"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install -r traffic-metrics/requirements.txt
+
+      - name: Run Metrics
+        run: |
+          python3 traffic-metrics/github_metrics.py -t ${{ secrets.A_GITHUB_TOKEN }} -o usdot-fhwa-stol
+          python3 traffic-metrics/github_metrics.py -t ${{ secrets.A_GITHUB_TOKEN }} -o usdot-fhwa-OPS
+          python3 traffic-metrics/github_metrics.py -t ${{ secrets.A_GITHUB_TOKEN }} -o usdot-jpo-ode
+          #python3 traffic-metrics/export_traffic.py -t ${{ secrets.A_GITHUB_TOKEN }} -o usdot-fhwa-stol
+          #python3 traffic-metrics/export_traffic.py -t ${{ secrets.A_GITHUB_TOKEN }} -o usdot-fhwa-OPS
+          #python3 traffic-metrics/export_traffic.py -t ${{ secrets.A_GITHUB_TOKEN }} -o usdot-jpo-ode
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "automatic update"
