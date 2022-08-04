@@ -1,0 +1,47 @@
+name: code-gov
+
+env:
+  ORGS: usdot-fhwa-OPS usdot-fhwa-stol usdot-jpo-ode
+
+on:
+  schedule:
+    - cron: "0 1 1 * *" # 1st of the month at 1AM
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 1
+
+      - name: Install code-gov
+        run: |
+          cd code-gov/code-gov-repo-metrics
+          npm install
+          echo "GITHUB_PERSONAL_ACCESS_TOKEN=${{ secrets.METRICS_GITHUB_TOKEN }}" > .env
+
+      - name: Run code-gov
+        run: |
+          LAST_MONTH_BEGIN=$(date -d "$(date +%Y-%m-01) -1 month" +%Y-%m-%d)
+          LAST_MONTH_END=$(date -d "$(date +%Y-%m-01) -1 day" +%Y-%m-%d)
+
+          cd code-gov/code-gov-repo-metrics
+
+          for ORG in $ORGS; do
+            cp "$ORG".config.json config.json
+            npm run start "$LAST_MONTH_BEGIN" "$LAST_MONTH_END"
+            mv reports/*.csv ${{ github.workspace }}/output/"$ORG"_"$LAST_MONTH_BEGIN"_"$LAST_MONTH_END".csv
+          done
+
+      - name: Clean up code-gov
+        run: |
+          rm code-gov/code-gov-repo-metrics/{config.json,.env}
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Automatic update"
+          commit_user_name: "Cody Garver"
+          commit_user_email: "dylan.garver@leidos.com"
