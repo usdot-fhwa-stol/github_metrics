@@ -20,7 +20,7 @@ jobs:
       - name: Install dependencies
         run: |
           echo 
-          #python -m pip install -r traffic-metrics/requirements.txt
+          python -m pip install -r traffic-metrics/requirements.txt
 
       - name: Run Metrics
         run: |
@@ -42,3 +42,5 @@ jobs:
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "automatic update"
+          commit_user_name: "Cody Garver"
+          commit_user_email: "dylan.garver@leidos.com"
