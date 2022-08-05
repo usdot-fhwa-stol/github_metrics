@@ -83,7 +83,7 @@ jobs:
             python3 github_metrics.py -t $METRICS_TOKEN -o usdot-fhwa-stol
             python3 github_metrics.py -t $METRICS_TOKEN -o usdot-fhwa-OPS
             export PYTHONUNBUFFERED=1
-            python3 github_metrics.py -t $METRICS_TOKEN -o usdot-jpo-ode
+            #python3 github_metrics.py -t $METRICS_TOKEN -o usdot-jpo-ode
             python3 export_traffic.py -t $METRICS_TOKEN -o usdot-fhwa-stol
             python3 export_traffic.py -t $METRICS_TOKEN -o usdot-fhwa-OPS
             python3 export_traffic.py -t $METRICS_TOKEN -o usdot-jpo-ode
