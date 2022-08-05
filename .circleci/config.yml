@@ -56,15 +56,13 @@ jobs:
             ls -la
             pwd
             cd /home/circleci/project/metrics/github_metrics/code-gov/code-gov-repo-metrics/
-            #cd /home/circleci/project/metrics/github_metrics/code-gov/code-gov-github-metrics/code-gov-repo-metrics
-            ls -la
-            pwd
             echo "GITHUB_PERSONAL_ACCESS_TOKEN=$METRICS_TOKEN" > .env
             cat config.json
             npm install dotenv
             npm audit fix
             npm fund
-            #npm run start 2022-06-01 2022-06-31
+            npm run start 2022-06-01 2022-06-31
+            rm -f .env
       - run:
           name: create virtual env and Run Metrics
           command: |
@@ -84,6 +82,7 @@ jobs:
             pip install pandas 
             python3 github_metrics.py -t $METRICS_TOKEN -o usdot-fhwa-stol
             python3 github_metrics.py -t $METRICS_TOKEN -o usdot-fhwa-OPS
+            export PYTHONUNBUFFERED=1
             python3 github_metrics.py -t $METRICS_TOKEN -o usdot-jpo-ode
             python3 export_traffic.py -t $METRICS_TOKEN -o usdot-fhwa-stol
             python3 export_traffic.py -t $METRICS_TOKEN -o usdot-fhwa-OPS
