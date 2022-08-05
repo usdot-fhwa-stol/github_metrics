@@ -87,9 +87,6 @@ typings/
 # DynamoDB Local files
 .dynamodb/
 
-# CSV reports
-*.csv
-
 # .DS_Store
 .DS_Store
 
@@ -102,13 +99,10 @@ credentials_google_drive.json
 bin/
 include/
 lib/
-output/
 pip-selfcheck.json
 pyvenv.cfg
 WIP/
 WIP/**
 metrics-env/
 metrics-env/**
-output/**
 update_gsheet.py
-*.csv
