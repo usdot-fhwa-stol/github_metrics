@@ -24,9 +24,9 @@ jobs:
 
       - name: Run Metrics
         run: |
-          #python3 traffic-metrics/github_metrics.py -t ${{ secrets.A_GITHUB_TOKEN }} -o usdot-fhwa-stol
-          #python3 traffic-metrics/github_metrics.py -t ${{ secrets.A_GITHUB_TOKEN }} -o usdot-fhwa-OPS
-          #python3 traffic-metrics/github_metrics.py -t ${{ secrets.A_GITHUB_TOKEN }} -o usdot-jpo-ode
+          python3 traffic-metrics/github_metrics.py -t ${{ secrets.A_GITHUB_TOKEN }} -o usdot-fhwa-stol
+          python3 traffic-metrics/github_metrics.py -t ${{ secrets.A_GITHUB_TOKEN }} -o usdot-fhwa-OPS
+          python3 traffic-metrics/github_metrics.py -t ${{ secrets.A_GITHUB_TOKEN }} -o usdot-jpo-ode
           #python3 traffic-metrics/export_traffic.py -t ${{ secrets.A_GITHUB_TOKEN }} -o usdot-fhwa-stol
           #python3 traffic-metrics/export_traffic.py -t ${{ secrets.A_GITHUB_TOKEN }} -o usdot-fhwa-OPS
           #python3 traffic-metrics/export_traffic.py -t ${{ secrets.A_GITHUB_TOKEN }} -o usdot-jpo-ode
