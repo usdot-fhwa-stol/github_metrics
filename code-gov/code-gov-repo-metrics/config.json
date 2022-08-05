@@ -43,6 +43,5 @@
     "c1t_rplidar_driver",
     "c1t_vesc_driver",
     "c1t_zed_driver"
-
   ]
 }
