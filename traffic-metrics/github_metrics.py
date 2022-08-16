@@ -12,12 +12,16 @@ socket.setdefaulttimeout(60 * 60)
 today = datetime.date.today()
 todaystr = str(today)
 
+
 def setup():
     parser = argparse.ArgumentParser()
-    parser.add_argument("-o", "--org", help="choose what company you what to see", required=True)
-    parser.add_argument("-t", "--token", help="OAuth token from GitHub", required=True)
+    parser.add_argument(
+        "-o", "--org", help="choose what company you what to see", required=True)
+    parser.add_argument(
+        "-t", "--token", help="OAuth token from GitHub", required=True)
     args = parser.parse_args()
     return args
+
 
 def list_orgs(authToken):
     g = Github(authToken)
@@ -25,6 +29,7 @@ def list_orgs(authToken):
     for orgs in g.get_user().get_orgs():
         orgslist.append(orgs.login)
     return orgslist
+
 
 def list_org_members(org, authToken):
     s = requests.Session()
@@ -58,6 +63,7 @@ def list_org_members(org, authToken):
             next
     return loginmembers, namesmembers
 
+
 def export_code_frequency(directory, organization, authToken):
     totalrepos = 0
     g = Github(authToken)
@@ -68,8 +74,8 @@ def export_code_frequency(directory, organization, authToken):
         if orgs.login == organization:
             for repo in orgs.get_repos():
                 if repo.fork == False and repo.private == False:
-                    totalrepos +=1
-    with open(directory + "/github_code_frequency_" + organization + "_" + today+ ".csv", 'w', encoding='utf-8') as csvfile:
+                    totalrepos += 1
+    with open(directory + "/github_code_frequency_" + organization + "_" + ".csv", 'w', encoding='utf-8') as csvfile:
         csvwriter = csv.writer(csvfile, delimiter=',')
         csvwriter.writerow(
             ["count", "org", "repo", "week", "additions", "deletions", "commits", "author", "is a member"])
@@ -87,13 +93,14 @@ def export_code_frequency(directory, organization, authToken):
                             stats = repo.get_stats_contributors()
                             for stat in stats:
                                 author = str(stat.author)
-                                author = (author.replace('NamedUser(login="', "")).replace('")', "")
+                                author = (author.replace(
+                                    'NamedUser(login="', "")).replace('")', "")
                                 for week in stat.weeks:
                                     if week.c != 0:
                                         date = str(week.w)
                                         date = date[:10]
                                         if author in loginmembers:
-                                            controws+=1
+                                            controws += 1
                                             try:
                                                 csvwriter.writerow(
                                                     [count, orgs.login, reponame, date, week.a, week.d, week.c, author,
@@ -108,12 +115,16 @@ def export_code_frequency(directory, organization, authToken):
                                                      "no"])
                                             except:
                                                 print("error2")
-                            print("[", str(count).zfill(2), "|", totalrepos, "] ", orgs.login, " | ", repo.name,  " | ", controws, " rows in the file")
+                            print("[", str(count).zfill(2), "|", totalrepos, "] ", orgs.login,
+                                  " | ", repo.name,  " | ", controws, " rows in the file")
                         except:
-                            print("[", str(count).zfill(2), "|", totalrepos, "] ", orgs.login, " | ", repo.name, "| none")
-                            csvwriter.writerow([count, orgs.login, reponame, 0, 0, 0, 0, 0, "n/a"])
+                            print("[", str(count).zfill(2), "|", totalrepos,
+                                  "] ", orgs.login, " | ", repo.name, "| none")
+                            csvwriter.writerow(
+                                [count, orgs.login, reponame, 0, 0, 0, 0, 0, "n/a"])
             else:
                 next
+
 
 def export_community_engagement(directory, organization, authToken):
     g = Github(authToken)
@@ -126,7 +137,7 @@ def export_community_engagement(directory, organization, authToken):
             for repo in orgs.get_repos():
                 if repo.fork == False and repo.private == False:
                     totalrepos += 1
-    with open(directory + "/github_community_engagement_" + organization + "_" + today+ ".csv", 'w', encoding='utf-8') as csvfile:
+    with open(directory + "/github_community_engagement_" + organization + "_" + ".csv", 'w', encoding='utf-8') as csvfile:
         csvwriter = csv.writer(csvfile, delimiter=',')
         csvwriter.writerow(
             ["date", "org", "repo", "forks", "stars", "commits", "collaborators"])
@@ -153,6 +164,7 @@ def export_community_engagement(directory, organization, authToken):
                         csvwriter.writerow(
                             [todaystr, organization, repo.name, repo.forks_count, repo.stargazers_count, countcommit,
                              countcollab])
+
 
 def list_unique_collaborators(directory, organization, authToken):
     g = Github(authToken)
@@ -186,8 +198,11 @@ def list_unique_collaborators(directory, organization, authToken):
                                     member = "yes"
                                 else:
                                     member = "no"
-                                print(str(count).zfill(2), "|", member, "|", collablogin, "|", collabname)
-                                csvwriter.writerow([count, collablogin, collabname, member])
+                                print(str(count).zfill(2), "|", member,
+                                      "|", collablogin, "|", collabname)
+                                csvwriter.writerow(
+                                    [count, collablogin, collabname, member])
+
 
 def main():
     args = setup()
