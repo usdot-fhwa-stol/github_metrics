@@ -194,7 +194,7 @@ def main():
     organization = args.org
     authToken = args.token
     g = Github(authToken)
-    directory = "output/" + organization
+    directory = "output/"
     if not os.path.exists(directory):
         os.makedirs(directory)
 
