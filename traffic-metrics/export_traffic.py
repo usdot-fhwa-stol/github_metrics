@@ -12,7 +12,6 @@ import pandas as pd
 end_date = date.today() - timedelta(days=1)
 start_date = end_date - timedelta(days=14)
 today = str(date.today())
-today = today.replace("-", "")
 
 def setup():
     parser = argparse.ArgumentParser()
@@ -99,7 +98,7 @@ def export_traffic(directory, organization, repos_ok, authtoken):
     df = df[(df.T != 0).any()]
     df['Date'] = pd.to_datetime(df.Date)
     sorteddf = df.sort_values(['Date', 'Repo'])
-    sorteddf.to_csv(directory + "/github_views_" + organization + "_" + today + ".csv", sep=',', encoding='utf-8', index=False)
+    sorteddf.to_csv(directory + "/github_views_" + organization + "_biweekly_" + today + ".csv", sep=',', encoding='utf-8', index=False)
 
     count=0
     countrow = 0
@@ -127,7 +126,7 @@ def export_traffic(directory, organization, repos_ok, authtoken):
     df = df[(df.T != 0).any()]
     df['Date'] = pd.to_datetime(df.Date)
     sorteddf = df.sort_values(['Date', 'Repo'])
-    sorteddf.to_csv(directory + "/github_clones_" + organization + "_" + today + ".csv", sep=',', encoding='utf-8', index=False)
+    sorteddf.to_csv(directory + "/github_clones_" + organization + "_biweekly_" + today + ".csv", sep=',', encoding='utf-8', index=False)
 
 
     count=0
@@ -141,7 +140,7 @@ def export_traffic(directory, organization, repos_ok, authtoken):
     paths_array[0, 5] = "Title"
     paths_array[0, 6] = "Count"
     paths_array[0, 7] = "Unique"
-    with open(directory + "/github_paths_" + organization + "_" + today + ".csv", 'w', encoding='utf-8') as csvfile:
+    with open(directory + "/github_paths_" + organization + "_biweekly_" + today + ".csv", 'w', encoding='utf-8') as csvfile:
         csvwriter = csv.writer(csvfile, delimiter=',')
         csvwriter.writerow(
             ["start date", "end date", "repo", "path", "title", "count", "uniques"])
@@ -163,7 +162,7 @@ def export_traffic(directory, organization, repos_ok, authtoken):
             paths_array[countrow, 7] = path["uniques"]
     df = pd.DataFrame(paths_array[1:], columns=paths_array[0])
     df = df[(df.T != 0).any()]
-    df.to_csv(directory + "/github_paths_" + organization + "_" + today + ".csv", sep=',', encoding='utf-8', index=False)
+    df.to_csv(directory + "/github_paths_" + organization + "_biweekly_" + today + ".csv", sep=',', encoding='utf-8', index=False)
 
 
     count=0
@@ -202,7 +201,7 @@ def main():
     s = requests.Session()
     s.headers.update({'Authorization': 'token ' + authToken})
     g = Github(authToken)
-    directory = "output/" + organization
+    directory = "output/"
     if not os.path.exists(directory):
         os.makedirs(directory)
     try:
