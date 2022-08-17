@@ -262,6 +262,7 @@ function getIssueMetaData(repo) {
 
     // Iterate through each issue of the repo
     repo.repository.issues.nodes.forEach(function(issue) {
+        require("child_process").execSync('sleep 0.2');
         // Add contributor to all time contributors list
         contributorsListAllTime.add(issue.author.login);
         
