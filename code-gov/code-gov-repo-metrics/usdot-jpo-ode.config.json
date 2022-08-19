@@ -1,0 +1,13 @@
+{
+  "owner": "usdot-jpo-ode",
+  "repoList": [
+    "asn1_codec",
+    "jpo-cvdp",
+    "jpo-ode",
+    "jpo-s3-deposit",
+    "jpo-security-svcs",
+    "jpo-tim-builder",
+    "ode-output-validator-library",
+    "scms-asn1"
+  ]
+}
