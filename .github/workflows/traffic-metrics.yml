@@ -1,0 +1,40 @@
+name: traffic-metrics
+
+env:
+  ORGS: usdot-fhwa-OPS usdot-fhwa-stol usdot-jpo-ode
+
+on:
+  schedule:
+    - cron: "0 4 1 * *" # 1st of the month at 4AM
+    - cron: "0 4 15 * *" # 15th of the month at 4AM
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: "3.8"
+
+      - name: Install traffic-metrics
+        run: python -m pip install -r traffic-metrics/requirements.txt
+
+      - name: Run traffic-metrics
+        run: |
+          for ORG in $ORGS; do
+            python3 traffic-metrics/export_traffic.py -t ${{ secrets.METRICS_GITHUB_TOKEN }} -o "$ORG"
+            python3 traffic-metrics/github_metrics.py -t ${{ secrets.METRICS_GITHUB_TOKEN }} -o "$ORG"
+          done
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Automatic update"
+          commit_user_name: "Cody Garver"
+          commit_user_email: "dylan.garver@leidos.com"
