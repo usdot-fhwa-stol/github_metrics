@@ -75,7 +75,7 @@ def export_code_frequency(directory, organization, authToken):
             for repo in orgs.get_repos():
                 if repo.fork == False and repo.private == False:
                     totalrepos += 1
-    with open(directory + "/github_code_frequency_" + organization + "_" + ".csv", 'w', encoding='utf-8') as csvfile:
+    with open(directory + "/github_code_frequency_" + organization + ".csv", 'w', encoding='utf-8') as csvfile:
         csvwriter = csv.writer(csvfile, delimiter=',')
         csvwriter.writerow(
             ["count", "org", "repo", "week", "additions", "deletions", "commits", "author", "is a member"])
@@ -137,7 +137,7 @@ def export_community_engagement(directory, organization, authToken):
             for repo in orgs.get_repos():
                 if repo.fork == False and repo.private == False:
                     totalrepos += 1
-    with open(directory + "/github_community_engagement_" + organization + "_" + ".csv", 'w', encoding='utf-8') as csvfile:
+    with open(directory + "/github_community_engagement_" + organization + ".csv", 'w', encoding='utf-8') as csvfile:
         csvwriter = csv.writer(csvfile, delimiter=',')
         csvwriter.writerow(
             ["date", "org", "repo", "forks", "stars", "commits", "collaborators"])
