@@ -525,6 +525,7 @@ count,org,repo,week,additions,deletions,commits,author,is a member
 11,usdot-jpo-ode,wzdx,2022-06-19,36,37,1,mark-mockett,no
 11,usdot-jpo-ode,wzdx,2022-08-07,4,4,1,mark-mockett,no
 11,usdot-jpo-ode,wzdx,2022-09-18,5042,3582,1,mark-mockett,no
+11,usdot-jpo-ode,wzdx,2022-10-02,6,2,1,mark-mockett,no
 11,usdot-jpo-ode,wzdx,2019-12-29,682,552,9,chuehlien,yes
 11,usdot-jpo-ode,wzdx,2020-09-06,276,147,27,chuehlien,yes
 11,usdot-jpo-ode,wzdx,2020-09-13,37,42,7,chuehlien,yes
@@ -642,6 +643,7 @@ count,org,repo,week,additions,deletions,commits,author,is a member
 11,usdot-jpo-ode,wzdx,2022-03-27,198,645,1,j-d-b,no
 11,usdot-jpo-ode,wzdx,2022-05-22,3,3,1,j-d-b,no
 11,usdot-jpo-ode,wzdx,2022-09-18,5042,3582,1,j-d-b,no
+11,usdot-jpo-ode,wzdx,2022-10-02,41,41,2,j-d-b,no
 12,usdot-jpo-ode,jpo-record-parser,2019-01-06,2300,0,2,mvs5465,yes
 13,usdot-jpo-ode,jpo-sdw-depositor,2019-01-27,1,1,1,hmusavi,yes
 13,usdot-jpo-ode,jpo-sdw-depositor,2019-02-10,19,16,2,hmusavi,yes
@@ -682,3 +684,5 @@ count,org,repo,week,additions,deletions,commits,author,is a member
 17,usdot-jpo-ode,jpo-geojsonconverter,2022-09-11,32,0,1,codygarver,yes
 17,usdot-jpo-ode,jpo-geojsonconverter,2022-09-18,1,2,1,codygarver,yes
 17,usdot-jpo-ode,jpo-geojsonconverter,2022-08-28,664,11,4,drewjj,no
+17,usdot-jpo-ode,jpo-geojsonconverter,2022-09-25,61,0,1,drewjj,no
+17,usdot-jpo-ode,jpo-geojsonconverter,2022-10-09,1224,1967,10,drewjj,no
