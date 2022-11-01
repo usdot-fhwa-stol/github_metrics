@@ -681,8 +681,13 @@ count,org,repo,week,additions,deletions,commits,author,is a member
 16,usdot-jpo-ode,TDx,2022-07-10,121,0,1,natedeshmukhtowery,yes
 16,usdot-jpo-ode,TDx,2022-07-10,1622,45,2,mark-mockett,no
 16,usdot-jpo-ode,TDx,2022-07-17,129,134,2,mark-mockett,no
+17,usdot-jpo-ode,jpo-geojsonconverter,2022-10-16,2,1,1,dependabot[bot],no
 17,usdot-jpo-ode,jpo-geojsonconverter,2022-09-11,32,0,1,codygarver,yes
 17,usdot-jpo-ode,jpo-geojsonconverter,2022-09-18,1,2,1,codygarver,yes
+17,usdot-jpo-ode,jpo-geojsonconverter,2022-10-16,8,1,2,codygarver,yes
 17,usdot-jpo-ode,jpo-geojsonconverter,2022-08-28,664,11,4,drewjj,no
 17,usdot-jpo-ode,jpo-geojsonconverter,2022-09-25,61,0,1,drewjj,no
-17,usdot-jpo-ode,jpo-geojsonconverter,2022-10-09,1224,1967,10,drewjj,no
+17,usdot-jpo-ode,jpo-geojsonconverter,2022-10-09,1699,2052,17,drewjj,no
+17,usdot-jpo-ode,jpo-geojsonconverter,2022-10-16,1030,47,3,drewjj,no
+17,usdot-jpo-ode,jpo-geojsonconverter,2022-10-23,340,68,3,drewjj,no
+18,usdot-jpo-ode,jpo-conflictmonitor,2022-10-16,1,0,1,SaikrishnaBairamoni,yes
