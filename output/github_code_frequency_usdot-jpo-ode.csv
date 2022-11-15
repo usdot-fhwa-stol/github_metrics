@@ -526,6 +526,7 @@ count,org,repo,week,additions,deletions,commits,author,is a member
 11,usdot-jpo-ode,wzdx,2022-08-07,4,4,1,mark-mockett,no
 11,usdot-jpo-ode,wzdx,2022-09-18,5042,3582,1,mark-mockett,no
 11,usdot-jpo-ode,wzdx,2022-10-02,6,2,1,mark-mockett,no
+11,usdot-jpo-ode,wzdx,2022-10-30,30,10,1,mark-mockett,no
 11,usdot-jpo-ode,wzdx,2019-12-29,682,552,9,chuehlien,yes
 11,usdot-jpo-ode,wzdx,2020-09-06,276,147,27,chuehlien,yes
 11,usdot-jpo-ode,wzdx,2020-09-13,37,42,7,chuehlien,yes
@@ -682,12 +683,17 @@ count,org,repo,week,additions,deletions,commits,author,is a member
 16,usdot-jpo-ode,TDx,2022-07-10,1622,45,2,mark-mockett,no
 16,usdot-jpo-ode,TDx,2022-07-17,129,134,2,mark-mockett,no
 17,usdot-jpo-ode,jpo-geojsonconverter,2022-10-16,2,1,1,dependabot[bot],no
+17,usdot-jpo-ode,jpo-geojsonconverter,2022-11-06,18,3,1,John-Wiens,no
+17,usdot-jpo-ode,jpo-geojsonconverter,2022-11-13,1,1,1,John-Wiens,no
 17,usdot-jpo-ode,jpo-geojsonconverter,2022-09-11,32,0,1,codygarver,yes
 17,usdot-jpo-ode,jpo-geojsonconverter,2022-09-18,1,2,1,codygarver,yes
 17,usdot-jpo-ode,jpo-geojsonconverter,2022-10-16,8,1,2,codygarver,yes
+17,usdot-jpo-ode,jpo-geojsonconverter,2022-10-02,5,460,2,iyourshaw,no
+17,usdot-jpo-ode,jpo-geojsonconverter,2022-10-30,17793,179,9,iyourshaw,no
 17,usdot-jpo-ode,jpo-geojsonconverter,2022-08-28,664,11,4,drewjj,no
 17,usdot-jpo-ode,jpo-geojsonconverter,2022-09-25,61,0,1,drewjj,no
 17,usdot-jpo-ode,jpo-geojsonconverter,2022-10-09,1699,2052,17,drewjj,no
 17,usdot-jpo-ode,jpo-geojsonconverter,2022-10-16,1030,47,3,drewjj,no
 17,usdot-jpo-ode,jpo-geojsonconverter,2022-10-23,340,68,3,drewjj,no
+17,usdot-jpo-ode,jpo-geojsonconverter,2022-10-30,248,139,1,drewjj,no
 18,usdot-jpo-ode,jpo-conflictmonitor,2022-10-16,1,0,1,SaikrishnaBairamoni,yes
