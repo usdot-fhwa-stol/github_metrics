@@ -1,12 +1,14 @@
 count,org,repo,week,additions,deletions,commits,author,is a member
+1,usdot-fhwa-OPS,V2X-Hub,2022-11-27,1,1,1,saina-ramyar,no
 1,usdot-fhwa-OPS,V2X-Hub,2022-02-20,74,58,1,ajloughr-leidos,yes
 1,usdot-fhwa-OPS,V2X-Hub,2021-01-03,45,55,1,afrye51,no
 1,usdot-fhwa-OPS,V2X-Hub,2019-05-19,3,1,1,MatthewJMcAllister,no
-1,usdot-fhwa-OPS,V2X-Hub,2022-10-30,12,12,1,jwillmartin,yes
-1,usdot-fhwa-OPS,V2X-Hub,2022-11-06,28,28,1,jwillmartin,yes
 1,usdot-fhwa-OPS,V2X-Hub,2022-03-27,1,1,1,dependabot[bot],no
 1,usdot-fhwa-OPS,V2X-Hub,2022-06-19,1,1,1,dependabot[bot],no
 1,usdot-fhwa-OPS,V2X-Hub,2022-04-17,36,29,2,msmcconnell,no
+1,usdot-fhwa-OPS,V2X-Hub,2022-10-30,12,12,1,jwillmartin,yes
+1,usdot-fhwa-OPS,V2X-Hub,2022-11-06,28,28,1,jwillmartin,yes
+1,usdot-fhwa-OPS,V2X-Hub,2022-11-20,27,27,1,jwillmartin,yes
 1,usdot-fhwa-OPS,V2X-Hub,2022-10-30,16,16,3,jwilliammartin,no
 1,usdot-fhwa-OPS,V2X-Hub,2022-05-08,737,88,1,abey-yoseph,yes
 1,usdot-fhwa-OPS,V2X-Hub,2022-05-15,46,30,2,abey-yoseph,yes

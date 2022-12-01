@@ -1,0 +1,86 @@
+Start date,End date,Org,Repo,Path,Title,Count,Unique
+2022-11-16,2022-11-30,usdot-jpo-ode,asn1_codec,/usdot-jpo-ode/asn1_codec,usdot-jpo-ode/asn1_codec: Module to encode and decode ASN.1 streams of messag...,9,7
+2022-11-16,2022-11-30,usdot-jpo-ode,asn1_codec,/usdot-jpo-ode/asn1_codec/tree/b7398925e7399888719e06f37bf25abf04a6be27,usdot-jpo-ode/asn1_codec at b7398925e7399888719e06f37bf25abf04a6be27,5,3
+2022-11-16,2022-11-30,usdot-jpo-ode,asn1_codec,/usdot-jpo-ode/asn1_codec/pull/22,Confluent Cloud Integration by dmccoystephenson · Pull Request #22 · usdot-jp...,4,2
+2022-11-16,2022-11-30,usdot-jpo-ode,asn1_codec,/usdot-jpo-ode/asn1_codec/blob/master/docs/interface.md,asn1_codec/interface.md at master · usdot-jpo-ode/asn1_codec · GitHub,3,1
+2022-11-16,2022-11-30,usdot-jpo-ode,asn1_codec,/usdot-jpo-ode/asn1_codec/pull/22/commits/84a8116958afa2e89281ed2dbf17d4f91849eab0,Confluent Cloud Integration by dmccoystephenson · Pull Request #22 · usdot-jp...,2,1
+2022-11-16,2022-11-30,usdot-jpo-ode,asn1_codec,/usdot-jpo-ode/asn1_codec/pulls,Pull requests · usdot-jpo-ode/asn1_codec,2,1
+2022-11-16,2022-11-30,usdot-jpo-ode,asn1_codec,/usdot-jpo-ode/asn1_codec/tree/b7398925e7399888719e06f37bf25abf04a6be27/src,asn1_codec/src at b7398925e7399888719e06f37bf25abf04a6be27 · usdot-jpo-ode/as...,2,1
+2022-11-16,2022-11-30,usdot-jpo-ode,asn1_codec,/usdot-jpo-ode/asn1_codec/blob/b7398925e7399888719e06f37bf25abf04a6be27/asn1c_combined/SEMI_v2.3.0_070616.asn,asn1_codec/SEMI_v2.3.0_070616.asn at b7398925e7399888719e06f37bf25abf04a6be27...,1,1
+2022-11-16,2022-11-30,usdot-jpo-ode,asn1_codec,/usdot-jpo-ode/asn1_codec/blob/master/docs/configuration.md,asn1_codec/configuration.md at master · usdot-jpo-ode/asn1_codec,1,1
+2022-11-16,2022-11-30,usdot-jpo-ode,asn1_codec,/usdot-jpo-ode/asn1_codec/find/master,File Finder · GitHub,1,1
+2022-11-16,2022-11-30,usdot-jpo-ode,jpo-conflictmonitor,/usdot-jpo-ode/jpo-conflictmonitor,usdot-jpo-ode/jpo-conflictmonitor,7,2
+2022-11-16,2022-11-30,usdot-jpo-ode,jpo-conflictmonitor,/usdot-jpo-ode/jpo-conflictmonitor/tree/broadcast-rates/jpo-conflictmonitor/src/main/java/us/dot/its/jpo/conflictmonitor/monitor/algorithms/broadcast_rate/map,jpo-conflictmonitor/jpo-conflictmonitor/src/main/java/us/dot/its/jpo/conflict...,5,1
+2022-11-16,2022-11-30,usdot-jpo-ode,jpo-conflictmonitor,/usdot-jpo-ode/jpo-conflictmonitor/tree/broadcast-rates/jpo-conflictmonitor/src/main/java/us/dot/its/jpo/conflictmonitor/monitor/algorithms/broadcast_rate,jpo-conflictmonitor/jpo-conflictmonitor/src/main/java/us/dot/its/jpo/conflict...,4,1
+2022-11-16,2022-11-30,usdot-jpo-ode,jpo-conflictmonitor,/usdot-jpo-ode/jpo-conflictmonitor/tree/broadcast-rates,usdot-jpo-ode/jpo-conflictmonitor at broadcast-rates,3,1
+2022-11-16,2022-11-30,usdot-jpo-ode,jpo-conflictmonitor,/usdot-jpo-ode/jpo-conflictmonitor/tree/broadcast-rates/jpo-conflictmonitor/src/main/java/us/dot/its/jpo/conflictmonitor/monitor,jpo-conflictmonitor/jpo-conflictmonitor/src/main/java/us/dot/its/jpo/conflict...,3,1
+2022-11-16,2022-11-30,usdot-jpo-ode,jpo-conflictmonitor,/usdot-jpo-ode/jpo-conflictmonitor/tree/broadcast-rates/jpo-conflictmonitor/src/main/java/us/dot/its/jpo/conflictmonitor/monitor/algorithms,jpo-conflictmonitor/jpo-conflictmonitor/src/main/java/us/dot/its/jpo/conflict...,3,1
+2022-11-16,2022-11-30,usdot-jpo-ode,jpo-conflictmonitor,/usdot-jpo-ode/jpo-conflictmonitor/blob/broadcast-rates/jpo-conflictmonitor/src/main/java/us/dot/its/jpo/conflictmonitor/monitor/algorithms/broadcast_rate/map/MapBroadcastRateAlgorithm.java,jpo-conflictmonitor/MapBroadcastRateAlgorithm.java at broadcast-rates · usdot...,2,1
+2022-11-16,2022-11-30,usdot-jpo-ode,jpo-conflictmonitor,/usdot-jpo-ode/jpo-conflictmonitor/tree/broadcast-rates/jpo-conflictmonitor,jpo-conflictmonitor/jpo-conflictmonitor at broadcast-rates · usdot-jpo-ode/jp...,2,1
+2022-11-16,2022-11-30,usdot-jpo-ode,jpo-conflictmonitor,/usdot-jpo-ode/jpo-conflictmonitor/tree/broadcast-rates/jpo-conflictmonitor/src,jpo-conflictmonitor/jpo-conflictmonitor/src at broadcast-rates · usdot-jpo-od...,2,1
+2022-11-16,2022-11-30,usdot-jpo-ode,jpo-conflictmonitor,/usdot-jpo-ode/jpo-conflictmonitor/tree/broadcast-rates/jpo-conflictmonitor/src/main,jpo-conflictmonitor/jpo-conflictmonitor/src/main at broadcast-rates · usdot-j...,2,1
+2022-11-16,2022-11-30,usdot-jpo-ode,jpo-cvdp,/usdot-jpo-ode/jpo-cvdp,GitHub - usdot-jpo-ode/jpo-cvdp: SUBMODULE: Connected Vehicle Data Privacy mo...,4,4
+2022-11-16,2022-11-30,usdot-jpo-ode,jpo-cvdp,/usdot-jpo-ode/jpo-cvdp/tree/fa9c0ab7044cfc51bc0b30712bca72a7d5cd9321,usdot-jpo-ode/jpo-cvdp at fa9c0ab7044cfc51bc0b30712bca72a7d5cd9321,1,1
+2022-11-16,2022-11-30,usdot-jpo-ode,jpo-cvdp,/usdot-jpo-ode/jpo-cvdp/tree/master,usdot-jpo-ode/jpo-cvdp: SUBMODULE: Connected Vehicle Data Privacy module for ...,1,1
+2022-11-16,2022-11-30,usdot-jpo-ode,jpo-cvdp,/usdot-jpo-ode/jpo-cvdp/wiki,Home · usdot-jpo-ode/jpo-cvdp Wiki,1,1
+2022-11-16,2022-11-30,usdot-jpo-ode,jpo-geojsonconverter,/usdot-jpo-ode/jpo-geojsonconverter,usdot-jpo-ode/jpo-geojsonconverter,22,7
+2022-11-16,2022-11-30,usdot-jpo-ode,jpo-geojsonconverter,/usdot-jpo-ode/jpo-geojsonconverter/tree/develop/jpo-geojsonconverter,jpo-geojsonconverter/jpo-geojsonconverter at develop · usdot-jpo-ode/jpo-geoj...,10,3
+2022-11-16,2022-11-30,usdot-jpo-ode,jpo-geojsonconverter,/usdot-jpo-ode/jpo-geojsonconverter/tree/develop/jpo-geojsonconverter/src,jpo-geojsonconverter/jpo-geojsonconverter/src at develop · usdot-jpo-ode/jpo-...,10,3
+2022-11-16,2022-11-30,usdot-jpo-ode,jpo-geojsonconverter,/usdot-jpo-ode/jpo-geojsonconverter/tree/develop/jpo-geojsonconverter/src/main,jpo-geojsonconverter/jpo-geojsonconverter/src/main at develop · usdot-jpo-ode...,9,3
+2022-11-16,2022-11-30,usdot-jpo-ode,jpo-geojsonconverter,/usdot-jpo-ode/jpo-geojsonconverter/tree/develop/jpo-geojsonconverter/src/main/java/us/dot/its/jpo/geojsonconverter,jpo-geojsonconverter/jpo-geojsonconverter/src/main/java/us/dot/its/jpo/geojso...,9,3
+2022-11-16,2022-11-30,usdot-jpo-ode,jpo-geojsonconverter,/usdot-jpo-ode/jpo-geojsonconverter/tree/develop/jpo-geojsonconverter/src/main/java/us/dot/its/jpo/geojsonconverter/pojos,jpo-geojsonconverter/jpo-geojsonconverter/src/main/java/us/dot/its/jpo/geojso...,4,3
+2022-11-16,2022-11-30,usdot-jpo-ode,jpo-geojsonconverter,/usdot-jpo-ode/jpo-geojsonconverter/blob/map-pojo-update/jpo-geojsonconverter/src/main/java/us/dot/its/jpo/geojsonconverter/pojos/geojson/map/MapProperties.java,jpo-geojsonconverter/MapProperties.java at map-pojo-update · usdot-jpo-ode/jp...,4,1
+2022-11-16,2022-11-30,usdot-jpo-ode,jpo-geojsonconverter,/usdot-jpo-ode/jpo-geojsonconverter/pulls,Pull requests · usdot-jpo-ode/jpo-geojsonconverter,3,2
+2022-11-16,2022-11-30,usdot-jpo-ode,jpo-geojsonconverter,/usdot-jpo-ode/jpo-geojsonconverter/pull/11,Processed SPaT Conversion by Michael7371 · Pull Request #11 · usdot-jpo-ode/j...,3,1
+2022-11-16,2022-11-30,usdot-jpo-ode,jpo-geojsonconverter,/usdot-jpo-ode/jpo-geojsonconverter/tree/map-pojo-update/jpo-geojsonconverter,jpo-geojsonconverter/jpo-geojsonconverter at map-pojo-update · usdot-jpo-ode/...,3,1
+2022-11-16,2022-11-30,usdot-jpo-ode,jpo-ode,/usdot-jpo-ode/jpo-ode,usdot-jpo-ode/jpo-ode: US Department of Transportation (USDOT) Intelligent Tr...,30,16
+2022-11-16,2022-11-30,usdot-jpo-ode,jpo-ode,/usdot-jpo-ode/jpo-ode/blob/master/docs/Architecture.md,jpo-ode/Architecture.md at master · usdot-jpo-ode/jpo-ode · GitHub,7,3
+2022-11-16,2022-11-30,usdot-jpo-ode,jpo-ode,/usdot-jpo-ode/jpo-ode/blob/dev/docs/UserGuide.md,jpo-ode/UserGuide.md at dev · usdot-jpo-ode/jpo-ode · GitHub,6,4
+2022-11-16,2022-11-30,usdot-jpo-ode,jpo-ode,/usdot-jpo-ode/jpo-ode/issues/266,Error: MessageProducer -Error Sending record.org.apache.kafka.common.errors.T...,3,3
+2022-11-16,2022-11-30,usdot-jpo-ode,jpo-ode,/usdot-jpo-ode/jpo-ode/tree/dev/docs,jpo-ode/docs at dev · usdot-jpo-ode/jpo-ode · GitHub,3,3
+2022-11-16,2022-11-30,usdot-jpo-ode,jpo-ode,/usdot-jpo-ode/jpo-ode/tree/master/docs,jpo-ode/docs at master · usdot-jpo-ode/jpo-ode · GitHub,3,2
+2022-11-16,2022-11-30,usdot-jpo-ode,jpo-ode,/usdot-jpo-ode/jpo-ode/wiki/ODE-Confluent-Cloud-Support,ODE Confluent Cloud Support · usdot-jpo-ode/jpo-ode Wiki · GitHub,3,2
+2022-11-16,2022-11-30,usdot-jpo-ode,jpo-ode,/usdot-jpo-ode/jpo-ode/blob/dev/docs/images/readme/figure1.png,jpo-ode/figure1.png at dev · usdot-jpo-ode/jpo-ode · GitHub,2,2
+2022-11-16,2022-11-30,usdot-jpo-ode,jpo-ode,/usdot-jpo-ode/jpo-ode/pull/477,Confluent Cloud Integration by dmccoystephenson · Pull Request #477 · usdot-j...,2,2
+2022-11-16,2022-11-30,usdot-jpo-ode,jpo-ode,/usdot-jpo-ode/jpo-ode/blob/dev/docs/Kubernetes.md,jpo-ode/Kubernetes.md at dev · usdot-jpo-ode/jpo-ode · GitHub,2,1
+2022-11-16,2022-11-30,usdot-jpo-ode,jpo-s3-deposit,/usdot-jpo-ode/jpo-s3-deposit/blob/master/src/main/java/us/dot/its/jpo/ode/aws/depositor/AwsDepositor.java,jpo-s3-deposit/AwsDepositor.java at master · usdot-jpo-ode/jpo-s3-deposit · G...,1,1
+2022-11-16,2022-11-30,usdot-jpo-ode,jpo-security,/usdot-jpo-ode/jpo-security/blob/master/src/main/java/gov/usdot/cv/security/crypto/ECDSAProvider.java,jpo-security/ECDSAProvider.java at master · usdot-jpo-ode/jpo-security,9,1
+2022-11-16,2022-11-30,usdot-jpo-ode,jpo-security,/usdot-jpo-ode/jpo-security/tree/master/src/main/java/gov/usdot/cv/security,jpo-security/src/main/java/gov/usdot/cv/security at master · usdot-jpo-ode/jp...,2,1
+2022-11-16,2022-11-30,usdot-jpo-ode,jpo-security,/usdot-jpo-ode/jpo-security,usdot-jpo-ode/jpo-security: SUBMODULE: 1609.2 Java Security Library for handl...,1,1
+2022-11-16,2022-11-30,usdot-jpo-ode,jpo-security,/usdot-jpo-ode/jpo-security/blob/master/src/main/java/gov/usdot/cv/security/crypto/EcdsaP256SignatureWrapper.java,jpo-security/EcdsaP256SignatureWrapper.java at master · usdot-jpo-ode/jpo-sec...,1,1
+2022-11-16,2022-11-30,usdot-jpo-ode,jpo-security,/usdot-jpo-ode/jpo-security/blob/master/src/main/java/gov/usdot/cv/security/crypto/Ieee1609dot2Mac1.java,jpo-security/Ieee1609dot2Mac1.java at master · usdot-jpo-ode/jpo-security,1,1
+2022-11-16,2022-11-30,usdot-jpo-ode,jpo-security,/usdot-jpo-ode/jpo-security/blob/master/src/main/java/gov/usdot/cv/security/msg/IEEE1609p2Message.java,jpo-security/IEEE1609p2Message.java at master · usdot-jpo-ode/jpo-security · ...,1,1
+2022-11-16,2022-11-30,usdot-jpo-ode,jpo-security,/usdot-jpo-ode/jpo-security/tree/master/src,jpo-security/src at master · usdot-jpo-ode/jpo-security,1,1
+2022-11-16,2022-11-30,usdot-jpo-ode,jpo-security,/usdot-jpo-ode/jpo-security/tree/master/src/main,jpo-security/src/main at master · usdot-jpo-ode/jpo-security,1,1
+2022-11-16,2022-11-30,usdot-jpo-ode,jpo-security,/usdot-jpo-ode/jpo-security/tree/master/src/main/java/gov/usdot/cv/security/cert,jpo-security/src/main/java/gov/usdot/cv/security/cert at master · usdot-jpo-o...,1,1
+2022-11-16,2022-11-30,usdot-jpo-ode,jpo-security,/usdot-jpo-ode/jpo-security/tree/master/src/main/java/gov/usdot/cv/security/crypto,jpo-security/src/main/java/gov/usdot/cv/security/crypto at master · usdot-jpo...,1,1
+2022-11-16,2022-11-30,usdot-jpo-ode,jpo-security-svcs,/usdot-jpo-ode/jpo-security-svcs/commits,Commits · usdot-jpo-ode/jpo-security-svcs,2,1
+2022-11-16,2022-11-30,usdot-jpo-ode,jpo-security-svcs,/usdot-jpo-ode/jpo-security-svcs,usdot-jpo-ode/jpo-security-svcs: This module exposes a RESTful API for perfor...,1,1
+2022-11-16,2022-11-30,usdot-jpo-ode,jpo-security-svcs,/usdot-jpo-ode/jpo-security-svcs/tree/master/src/main,jpo-security-svcs/src/main at master · usdot-jpo-ode/jpo-security-svcs,1,1
+2022-11-16,2022-11-30,usdot-jpo-ode,jpo-security-svcs,/usdot-jpo-ode/jpo-security-svcs/tree/master/src/main/java/us/dot/its/jpo/sec,jpo-security-svcs/src/main/java/us/dot/its/jpo/sec at master · usdot-jpo-ode/...,1,1
+2022-11-16,2022-11-30,usdot-jpo-ode,jpo-security-svcs,/usdot-jpo-ode/jpo-security-svcs/tree/master/src/main/java/us/dot/its/jpo/sec/controllers,jpo-security-svcs/src/main/java/us/dot/its/jpo/sec/controllers at master · us...,1,1
+2022-11-16,2022-11-30,usdot-jpo-ode,jpo-security-svcs,/usdot-jpo-ode/jpo-security-svcs/tree/master/src/main/resources,jpo-security-svcs/src/main/resources at master · usdot-jpo-ode/jpo-security-s...,1,1
+2022-11-16,2022-11-30,usdot-jpo-ode,scms-asn1,/usdot-jpo-ode/scms-asn1/blob/master/psid-and-ssps.txt,scms-asn1/psid-and-ssps.txt at master · usdot-jpo-ode/scms-asn1 · GitHub,3,3
+2022-11-16,2022-11-30,usdot-jpo-ode,scms-asn1,/usdot-jpo-ode/scms-asn1/tree/887b9c218ba90e89d623727c28fb32e45353fe3e,usdot-jpo-ode/scms-asn1 at 887b9c218ba90e89d623727c28fb32e45353fe3e,2,2
+2022-11-16,2022-11-30,usdot-jpo-ode,scms-asn1,/usdot-jpo-ode/scms-asn1/blob/master/scms-policy.asn,scms-asn1/scms-policy.asn at master · usdot-jpo-ode/scms-asn1 · GitHub,1,1
+2022-11-16,2022-11-30,usdot-jpo-ode,scms-asn1,/usdot-jpo-ode/scms-asn1/tree/master,usdot-jpo-ode/scms-asn1: This repository contains the ASN.1 definitions for d...,1,1
+2022-11-16,2022-11-30,usdot-jpo-ode,TDx,/usdot-jpo-ode/TDx,usdot-jpo-ode/TDx: Transportation Data Exchanges,6,5
+2022-11-16,2022-11-30,usdot-jpo-ode,TDx,/usdot-jpo-ode/TDx/discussions,Discussions · usdot-jpo-ode/TDx · GitHub,5,2
+2022-11-16,2022-11-30,usdot-jpo-ode,TDx,/usdot-jpo-ode/TDx/pull/14/files,Update shared content from WZDx v4.1 by mark-mockett · Pull Request #14 · usd...,4,1
+2022-11-16,2022-11-30,usdot-jpo-ode,TDx,/usdot-jpo-ode/TDx/pull/3/files,Add Road Incident Feed by mark-mockett · Pull Request #3 · usdot-jpo-ode/TDx,4,1
+2022-11-16,2022-11-30,usdot-jpo-ode,TDx,/usdot-jpo-ode/TDx/tree/main/spec-content,TDx/spec-content at main · usdot-jpo-ode/TDx · GitHub,3,2
+2022-11-16,2022-11-30,usdot-jpo-ode,TDx,/usdot-jpo-ode/TDx/blob/main/spec-content/objects/RoadEventFeature.md,TDx/RoadEventFeature.md at main · usdot-jpo-ode/TDx,3,1
+2022-11-16,2022-11-30,usdot-jpo-ode,TDx,/usdot-jpo-ode/TDx/blob/main/spec-content/objects/RoadRestrictionFeed.md,TDx/RoadRestrictionFeed.md at main · usdot-jpo-ode/TDx,2,1
+2022-11-16,2022-11-30,usdot-jpo-ode,TDx,/usdot-jpo-ode/TDx/tree/feature/update-shared-WZDx-v4.1,usdot-jpo-ode/TDx at feature/update-shared-WZDx-v4.1,2,1
+2022-11-16,2022-11-30,usdot-jpo-ode,TDx,/usdot-jpo-ode/TDx/actions,Actions · usdot-jpo-ode/TDx,1,1
+2022-11-16,2022-11-30,usdot-jpo-ode,TDx,/usdot-jpo-ode/TDx/blob/main/spec-content/enumerated-types/RestrictionType.md,TDx/RestrictionType.md at main · usdot-jpo-ode/TDx,1,1
+2022-11-16,2022-11-30,usdot-jpo-ode,wzdx,/usdot-jpo-ode/wzdx,usdot-jpo-ode/wzdx: The Work Zone Data Exchange (WZDx) Specification aims to ...,177,88
+2022-11-16,2022-11-30,usdot-jpo-ode,wzdx,/usdot-jpo-ode/wzdx/pull/326,Add CDS reference by jlarsonOmahaNE · Pull Request #326 · usdot-jpo-ode/wzdx ...,57,37
+2022-11-16,2022-11-30,usdot-jpo-ode,wzdx,/usdot-jpo-ode/wzdx/pulls,Pull requests · usdot-jpo-ode/wzdx · GitHub,56,12
+2022-11-16,2022-11-30,usdot-jpo-ode,wzdx,/usdot-jpo-ode/wzdx/pull/358,Clarify use of LineString and MultiPoint in road event geometry by j-d-b · Pu...,40,28
+2022-11-16,2022-11-30,usdot-jpo-ode,wzdx,/usdot-jpo-ode/wzdx/pull/352,Allow providing current velocity for a field device by j-d-b · Pull Request #...,38,29
+2022-11-16,2022-11-30,usdot-jpo-ode,wzdx,/usdot-jpo-ode/wzdx/pull/351,Mobile work zone by sknick-iastate · Pull Request #351 · usdot-jpo-ode/wzdx ·...,37,27
+2022-11-16,2022-11-30,usdot-jpo-ode,wzdx,/usdot-jpo-ode/wzdx/pull/357,Update open/closed LaneStatus descriptions - Issue #237 by jlarsonOmahaNE · P...,36,26
+2022-11-16,2022-11-30,usdot-jpo-ode,wzdx,/usdot-jpo-ode/wzdx/pull/353,Allow a LocationMarker to be used to mark an active work truck by j-d-b · Pul...,34,24
+2022-11-16,2022-11-30,usdot-jpo-ode,wzdx,/usdot-jpo-ode/wzdx/wiki,Home · usdot-jpo-ode/wzdx Wiki · GitHub,34,21
+2022-11-16,2022-11-30,usdot-jpo-ode,wzdx,/usdot-jpo-ode/wzdx/pull/354,Clarify FlashingBeacon is for representing a flashing warning beacon mounted ...,29,22
