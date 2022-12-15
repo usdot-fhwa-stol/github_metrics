@@ -5,6 +5,7 @@ count,org,repo,week,additions,deletions,commits,author,is a member
 1,usdot-jpo-ode,jpo-ode,2016-12-04,1,1,1,ToryB1,no
 1,usdot-jpo-ode,jpo-ode,2016-11-27,2,0,1,lauraGgit,no
 1,usdot-jpo-ode,jpo-ode,2020-11-01,31,66,2,abey-yoseph,yes
+1,usdot-jpo-ode,jpo-ode,2022-11-20,333,36,3,iyourshaw,no
 1,usdot-jpo-ode,jpo-ode,2020-12-27,0,0,3,TonyEnglish,yes
 1,usdot-jpo-ode,jpo-ode,2019-05-12,3,3,1,alexsobledotgov,no
 1,usdot-jpo-ode,jpo-ode,2019-05-19,10,27,2,alexsobledotgov,no
@@ -484,6 +485,7 @@ count,org,repo,week,additions,deletions,commits,author,is a member
 11,usdot-jpo-ode,wzdx,2022-02-20,35,22,5,mollybehan,no
 11,usdot-jpo-ode,wzdx,2022-03-20,22,1,1,mollybehan,no
 11,usdot-jpo-ode,wzdx,2022-06-19,36,37,1,mollybehan,no
+11,usdot-jpo-ode,wzdx,2022-12-11,1,1,1,mollybehan,no
 11,usdot-jpo-ode,wzdx,2019-12-29,54,55,27,wesleyalforddot,no
 11,usdot-jpo-ode,wzdx,2020-01-19,168,4,1,wesleyalforddot,no
 11,usdot-jpo-ode,wzdx,2020-06-14,11,6,4,wesleyalforddot,no
@@ -510,6 +512,7 @@ count,org,repo,week,additions,deletions,commits,author,is a member
 11,usdot-jpo-ode,wzdx,2022-10-02,6,2,1,mark-mockett,no
 11,usdot-jpo-ode,wzdx,2022-10-30,30,10,1,mark-mockett,no
 11,usdot-jpo-ode,wzdx,2022-11-13,1,1,1,mark-mockett,no
+11,usdot-jpo-ode,wzdx,2022-12-11,1,0,1,mark-mockett,no
 11,usdot-jpo-ode,wzdx,2019-12-29,682,552,9,chuehlien,yes
 11,usdot-jpo-ode,wzdx,2020-09-06,276,147,27,chuehlien,yes
 11,usdot-jpo-ode,wzdx,2020-09-13,37,42,7,chuehlien,yes
@@ -671,15 +674,21 @@ count,org,repo,week,additions,deletions,commits,author,is a member
 17,usdot-jpo-ode,jpo-geojsonconverter,2022-09-11,32,0,1,codygarver,yes
 17,usdot-jpo-ode,jpo-geojsonconverter,2022-09-18,1,2,1,codygarver,yes
 17,usdot-jpo-ode,jpo-geojsonconverter,2022-10-16,8,1,2,codygarver,yes
-17,usdot-jpo-ode,jpo-geojsonconverter,2022-11-06,2292,1665,2,Michael7371,no
-17,usdot-jpo-ode,jpo-geojsonconverter,2022-11-13,1375,547,8,Michael7371,no
 17,usdot-jpo-ode,jpo-geojsonconverter,2022-10-02,5,460,2,iyourshaw,no
 17,usdot-jpo-ode,jpo-geojsonconverter,2022-10-30,17793,179,9,iyourshaw,no
 17,usdot-jpo-ode,jpo-geojsonconverter,2022-11-13,53,19,4,iyourshaw,no
+17,usdot-jpo-ode,jpo-geojsonconverter,2022-11-20,381,98,5,iyourshaw,no
+17,usdot-jpo-ode,jpo-geojsonconverter,2022-12-04,46,34,2,iyourshaw,no
+17,usdot-jpo-ode,jpo-geojsonconverter,2022-11-06,2292,1665,2,Michael7371,no
+17,usdot-jpo-ode,jpo-geojsonconverter,2022-11-13,1375,547,8,Michael7371,no
+17,usdot-jpo-ode,jpo-geojsonconverter,2022-11-27,461,220,1,Michael7371,no
+17,usdot-jpo-ode,jpo-geojsonconverter,2022-12-04,2265,890,15,Michael7371,no
 17,usdot-jpo-ode,jpo-geojsonconverter,2022-08-28,664,11,4,drewjj,no
 17,usdot-jpo-ode,jpo-geojsonconverter,2022-09-25,61,0,1,drewjj,no
 17,usdot-jpo-ode,jpo-geojsonconverter,2022-10-09,1699,2052,17,drewjj,no
 17,usdot-jpo-ode,jpo-geojsonconverter,2022-10-16,1030,47,3,drewjj,no
 17,usdot-jpo-ode,jpo-geojsonconverter,2022-10-23,340,68,3,drewjj,no
 17,usdot-jpo-ode,jpo-geojsonconverter,2022-10-30,248,139,1,drewjj,no
+17,usdot-jpo-ode,jpo-geojsonconverter,2022-11-27,525,211,3,drewjj,no
+17,usdot-jpo-ode,jpo-geojsonconverter,2022-12-04,114,127,2,drewjj,no
 18,usdot-jpo-ode,jpo-conflictmonitor,2022-10-16,1,0,1,SaikrishnaBairamoni,yes

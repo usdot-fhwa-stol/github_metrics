@@ -1,4 +1,5 @@
 count,org,repo,week,additions,deletions,commits,author,is a member
+1,usdot-fhwa-OPS,V2X-Hub,2022-12-11,30,62,1,codygarver,yes
 1,usdot-fhwa-OPS,V2X-Hub,2022-11-27,1,1,1,saina-ramyar,no
 1,usdot-fhwa-OPS,V2X-Hub,2022-02-20,74,58,1,ajloughr-leidos,yes
 1,usdot-fhwa-OPS,V2X-Hub,2021-01-03,45,55,1,afrye51,no
@@ -6,10 +7,12 @@ count,org,repo,week,additions,deletions,commits,author,is a member
 1,usdot-fhwa-OPS,V2X-Hub,2022-03-27,1,1,1,dependabot[bot],no
 1,usdot-fhwa-OPS,V2X-Hub,2022-06-19,1,1,1,dependabot[bot],no
 1,usdot-fhwa-OPS,V2X-Hub,2022-04-17,36,29,2,msmcconnell,no
+1,usdot-fhwa-OPS,V2X-Hub,2022-12-11,74,92,3,rob-baily,yes
+1,usdot-fhwa-OPS,V2X-Hub,2022-10-30,16,16,3,jwilliammartin,no
 1,usdot-fhwa-OPS,V2X-Hub,2022-10-30,12,12,1,jwillmartin,yes
 1,usdot-fhwa-OPS,V2X-Hub,2022-11-06,28,28,1,jwillmartin,yes
 1,usdot-fhwa-OPS,V2X-Hub,2022-11-20,27,27,1,jwillmartin,yes
-1,usdot-fhwa-OPS,V2X-Hub,2022-10-30,16,16,3,jwilliammartin,no
+1,usdot-fhwa-OPS,V2X-Hub,2022-12-11,163,818,1,jwillmartin,yes
 1,usdot-fhwa-OPS,V2X-Hub,2022-05-08,737,88,1,abey-yoseph,yes
 1,usdot-fhwa-OPS,V2X-Hub,2022-05-15,46,30,2,abey-yoseph,yes
 1,usdot-fhwa-OPS,V2X-Hub,2022-06-05,9,9,1,abey-yoseph,yes
@@ -37,6 +40,7 @@ count,org,repo,week,additions,deletions,commits,author,is a member
 1,usdot-fhwa-OPS,V2X-Hub,2022-07-10,6,6,1,SaikrishnaBairamoni,yes
 1,usdot-fhwa-OPS,V2X-Hub,2022-07-24,21,8,2,SaikrishnaBairamoni,yes
 1,usdot-fhwa-OPS,V2X-Hub,2022-07-31,0,3,1,SaikrishnaBairamoni,yes
+1,usdot-fhwa-OPS,V2X-Hub,2022-12-11,30,62,1,SaikrishnaBairamoni,yes
 1,usdot-fhwa-OPS,V2X-Hub,2019-07-21,1536,204,6,amirgh1988,yes
 1,usdot-fhwa-OPS,V2X-Hub,2019-08-04,2466196,2,7,amirgh1988,yes
 1,usdot-fhwa-OPS,V2X-Hub,2019-09-08,1870,1166,9,amirgh1988,yes
@@ -118,6 +122,9 @@ count,org,repo,week,additions,deletions,commits,author,is a member
 1,usdot-fhwa-OPS,V2X-Hub,2022-07-31,13,12,1,dan-du-car,yes
 1,usdot-fhwa-OPS,V2X-Hub,2022-08-07,37,20,1,dan-du-car,yes
 1,usdot-fhwa-OPS,V2X-Hub,2022-11-06,176,70,1,dan-du-car,yes
+1,usdot-fhwa-OPS,V2X-Hub,2022-11-27,1302,1938,3,dan-du-car,yes
+1,usdot-fhwa-OPS,V2X-Hub,2022-12-04,188,24,2,dan-du-car,yes
+1,usdot-fhwa-OPS,V2X-Hub,2022-12-11,3,3,1,dan-du-car,yes
 1,usdot-fhwa-OPS,V2X-Hub,2021-02-14,15687,19810,1,paulbourelly999,yes
 1,usdot-fhwa-OPS,V2X-Hub,2021-02-21,2,2,1,paulbourelly999,yes
 1,usdot-fhwa-OPS,V2X-Hub,2021-02-28,10,8,1,paulbourelly999,yes
@@ -159,6 +166,7 @@ count,org,repo,week,additions,deletions,commits,author,is a member
 1,usdot-fhwa-OPS,V2X-Hub,2022-09-04,3,3,1,paulbourelly999,yes
 1,usdot-fhwa-OPS,V2X-Hub,2022-09-11,38,3,2,paulbourelly999,yes
 1,usdot-fhwa-OPS,V2X-Hub,2022-10-16,102,55,1,paulbourelly999,yes
+1,usdot-fhwa-OPS,V2X-Hub,2022-12-04,77,9,1,paulbourelly999,yes
 1,usdot-fhwa-OPS,V2X-Hub,2019-01-27,196588,14,62,v2xhub,no
 1,usdot-fhwa-OPS,V2X-Hub,2019-02-03,136997,72704,35,v2xhub,no
 1,usdot-fhwa-OPS,V2X-Hub,2019-02-17,216,80,5,v2xhub,no
