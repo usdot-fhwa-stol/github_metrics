@@ -1,0 +1,71 @@
+Start date,End date,Org,Repo,Path,Title,Count,Unique
+2022-12-17,2022-12-31,usdot-jpo-ode,asn1_codec,/usdot-jpo-ode/asn1_codec/compare/master...CDOT-CV:asn1_codec:master,Comparing usdot-jpo-ode:master...CDOT-CV:master · usdot-jpo-ode/asn1_codec,11,1
+2022-12-17,2022-12-31,usdot-jpo-ode,asn1_codec,/usdot-jpo-ode/asn1_codec,usdot-jpo-ode/asn1_codec: Module to encode and decode ASN.1 streams of messag...,5,4
+2022-12-17,2022-12-31,usdot-jpo-ode,asn1_codec,/usdot-jpo-ode/asn1_codec/tree/b7398925e7399888719e06f37bf25abf04a6be27,GitHub - usdot-jpo-ode/asn1_codec at b7398925e7399888719e06f37bf25abf04a6be27,2,2
+2022-12-17,2022-12-31,usdot-jpo-ode,asn1_codec,/usdot-jpo-ode/asn1_codec/pulls,Pull requests · usdot-jpo-ode/asn1_codec,2,1
+2022-12-17,2022-12-31,usdot-jpo-ode,asn1_codec,/usdot-jpo-ode/asn1_codec/blob/master/src/acm.cpp,asn1_codec/acm.cpp at master · usdot-jpo-ode/asn1_codec · GitHub,1,1
+2022-12-17,2022-12-31,usdot-jpo-ode,asn1_codec,/usdot-jpo-ode/asn1_codec/blob/master/src/tests.cpp,asn1_codec/tests.cpp at master · usdot-jpo-ode/asn1_codec · GitHub,1,1
+2022-12-17,2022-12-31,usdot-jpo-ode,asn1_codec,/usdot-jpo-ode/asn1_codec/compare/master...CDOT-CV:asn1_codec:mem-leak-fix-with-cherry-picks,Comparing usdot-jpo-ode:master...CDOT-CV:mem-leak-fix-with-cherry-picks · usd...,1,1
+2022-12-17,2022-12-31,usdot-jpo-ode,asn1_codec,/usdot-jpo-ode/asn1_codec/issues,Issues · usdot-jpo-ode/asn1_codec,1,1
+2022-12-17,2022-12-31,usdot-jpo-ode,asn1_codec,/usdot-jpo-ode/asn1_codec/tree/b7398925e7399888719e06f37bf25abf04a6be27/src,asn1_codec/src at b7398925e7399888719e06f37bf25abf04a6be27 · usdot-jpo-ode/as...,1,1
+2022-12-17,2022-12-31,usdot-jpo-ode,asn1_codec,/usdot-jpo-ode/asn1_codec/tree/master/src,asn1_codec/src at master · usdot-jpo-ode/asn1_codec · GitHub,1,1
+2022-12-17,2022-12-31,usdot-jpo-ode,jpo-conflictmonitor,/usdot-jpo-ode/jpo-conflictmonitor,usdot-jpo-ode/jpo-conflictmonitor,4,2
+2022-12-17,2022-12-31,usdot-jpo-ode,jpo-conflictmonitor,/usdot-jpo-ode/jpo-conflictmonitor/commits/dev,Commits · usdot-jpo-ode/jpo-conflictmonitor,2,1
+2022-12-17,2022-12-31,usdot-jpo-ode,jpo-conflictmonitor,/usdot-jpo-ode/jpo-conflictmonitor/tree/dev,usdot-jpo-ode/jpo-conflictmonitor at dev,2,1
+2022-12-17,2022-12-31,usdot-jpo-ode,jpo-conflictmonitor,/usdot-jpo-ode/jpo-conflictmonitor/branches,Branches · usdot-jpo-ode/jpo-conflictmonitor,1,1
+2022-12-17,2022-12-31,usdot-jpo-ode,jpo-cvdp,/usdot-jpo-ode/jpo-cvdp,usdot-jpo-ode/jpo-cvdp: SUBMODULE: Connected Vehicle Data Privacy module for ...,12,6
+2022-12-17,2022-12-31,usdot-jpo-ode,jpo-cvdp,/usdot-jpo-ode/jpo-cvdp/tree/master/config,jpo-cvdp/config at master · usdot-jpo-ode/jpo-cvdp · GitHub,5,2
+2022-12-17,2022-12-31,usdot-jpo-ode,jpo-cvdp,/usdot-jpo-ode/jpo-cvdp/tree/master/cv-lib,jpo-cvdp/cv-lib at master · usdot-jpo-ode/jpo-cvdp,4,1
+2022-12-17,2022-12-31,usdot-jpo-ode,jpo-cvdp,/usdot-jpo-ode/jpo-cvdp/blob/fa9c0ab7044cfc51bc0b30712bca72a7d5cd9321/cv-lib/src/entity.cpp,jpo-cvdp/entity.cpp at fa9c0ab7044cfc51bc0b30712bca72a7d5cd9321 · usdot-jpo-o...,3,2
+2022-12-17,2022-12-31,usdot-jpo-ode,jpo-cvdp,/usdot-jpo-ode/jpo-cvdp/pulls,Pull requests · usdot-jpo-ode/jpo-cvdp,3,1
+2022-12-17,2022-12-31,usdot-jpo-ode,jpo-cvdp,/usdot-jpo-ode/jpo-cvdp/blob/fa9c0ab7044cfc51bc0b30712bca72a7d5cd9321/cv-lib/src/osm.cpp,jpo-cvdp/osm.cpp at fa9c0ab7044cfc51bc0b30712bca72a7d5cd9321 · usdot-jpo-ode/...,2,2
+2022-12-17,2022-12-31,usdot-jpo-ode,jpo-cvdp,/usdot-jpo-ode/jpo-cvdp/blob/fa9c0ab7044cfc51bc0b30712bca72a7d5cd9321/docs/configuration.md,jpo-cvdp/configuration.md at fa9c0ab7044cfc51bc0b30712bca72a7d5cd9321 · usdot...,2,2
+2022-12-17,2022-12-31,usdot-jpo-ode,jpo-cvdp,/usdot-jpo-ode/jpo-cvdp/blob/master/config/example.properties,jpo-cvdp/example.properties at master · usdot-jpo-ode/jpo-cvdp · GitHub,2,2
+2022-12-17,2022-12-31,usdot-jpo-ode,jpo-cvdp,/usdot-jpo-ode/jpo-cvdp/blob/master/config/test.geofenceonly.properties,jpo-cvdp/test.geofenceonly.properties at master · usdot-jpo-ode/jpo-cvdp · Gi...,2,2
+2022-12-17,2022-12-31,usdot-jpo-ode,jpo-cvdp,/usdot-jpo-ode/jpo-cvdp/blob/master/cv-lib/src/osm.cpp,jpo-cvdp/osm.cpp at master · usdot-jpo-ode/jpo-cvdp,2,1
+2022-12-17,2022-12-31,usdot-jpo-ode,jpo-geojsonconverter,/usdot-jpo-ode/jpo-geojsonconverter,usdot-jpo-ode/jpo-geojsonconverter,15,2
+2022-12-17,2022-12-31,usdot-jpo-ode,jpo-geojsonconverter,/usdot-jpo-ode/jpo-geojsonconverter/tree/cc-support,usdot-jpo-ode/jpo-geojsonconverter at cc-support,7,1
+2022-12-17,2022-12-31,usdot-jpo-ode,jpo-geojsonconverter,/usdot-jpo-ode/jpo-geojsonconverter/pull/15,Handle @class field in JSON by drewjj · Pull Request #15 · usdot-jpo-ode/jpo-...,5,1
+2022-12-17,2022-12-31,usdot-jpo-ode,jpo-geojsonconverter,/usdot-jpo-ode/jpo-geojsonconverter/tree/%40class-handler,usdot-jpo-ode/jpo-geojsonconverter at @class-handler,4,1
+2022-12-17,2022-12-31,usdot-jpo-ode,jpo-geojsonconverter,/usdot-jpo-ode/jpo-geojsonconverter/tree/develop/jpo-geojsonconverter/src/main,jpo-geojsonconverter/jpo-geojsonconverter/src/main at develop · usdot-jpo-ode...,4,1
+2022-12-17,2022-12-31,usdot-jpo-ode,jpo-geojsonconverter,/usdot-jpo-ode/jpo-geojsonconverter/tree/develop/jpo-geojsonconverter/src/main/java/us/dot/its/jpo/geojsonconverter,jpo-geojsonconverter/jpo-geojsonconverter/src/main/java/us/dot/its/jpo/geojso...,4,1
+2022-12-17,2022-12-31,usdot-jpo-ode,jpo-geojsonconverter,/usdot-jpo-ode/jpo-geojsonconverter/tree/develop/jpo-geojsonconverter,jpo-geojsonconverter/jpo-geojsonconverter at develop · usdot-jpo-ode/jpo-geoj...,3,1
+2022-12-17,2022-12-31,usdot-jpo-ode,jpo-geojsonconverter,/usdot-jpo-ode/jpo-geojsonconverter/tree/develop/jpo-geojsonconverter/src,jpo-geojsonconverter/jpo-geojsonconverter/src at develop · usdot-jpo-ode/jpo-...,3,1
+2022-12-17,2022-12-31,usdot-jpo-ode,jpo-geojsonconverter,/usdot-jpo-ode/jpo-geojsonconverter/actions/runs/3735891257/jobs/6339636046,Exempt properties from sonar since they rely on env vars · usdot-jpo-ode/jpo-...,2,1
+2022-12-17,2022-12-31,usdot-jpo-ode,jpo-geojsonconverter,/usdot-jpo-ode/jpo-geojsonconverter/actions/runs/3735891257/jobs/6339636158,Exempt properties from sonar since they rely on env vars · usdot-jpo-ode/jpo-...,2,1
+2022-12-17,2022-12-31,usdot-jpo-ode,jpo-ode,/usdot-jpo-ode/jpo-ode,usdot-jpo-ode/jpo-ode: US Department of Transportation (USDOT) Intelligent Tr...,53,23
+2022-12-17,2022-12-31,usdot-jpo-ode,jpo-ode,/usdot-jpo-ode/jpo-ode/pulls,Pull requests · usdot-jpo-ode/jpo-ode,29,5
+2022-12-17,2022-12-31,usdot-jpo-ode,jpo-ode,/usdot-jpo-ode/jpo-ode/pull/490,Update all message type JSON schemas to current ODE output by drewjj · Pull R...,24,10
+2022-12-17,2022-12-31,usdot-jpo-ode,jpo-ode,/usdot-jpo-ode/jpo-ode/issues,Issues · usdot-jpo-ode/jpo-ode · GitHub,14,6
+2022-12-17,2022-12-31,usdot-jpo-ode,jpo-ode,/usdot-jpo-ode/jpo-ode/pull/491,Remove '@class' property from serialized JSON by iyourshaw · Pull Request #49...,14,2
+2022-12-17,2022-12-31,usdot-jpo-ode,jpo-ode,/usdot-jpo-ode/jpo-ode/wiki/Decode-a-file-with-asn1c,Decode a file with asn1c · usdot-jpo-ode/jpo-ode Wiki · GitHub,9,2
+2022-12-17,2022-12-31,usdot-jpo-ode,jpo-ode,/usdot-jpo-ode/jpo-ode/pull/490/files,Update all message type JSON schemas to current ODE output by drewjj · Pull R...,5,2
+2022-12-17,2022-12-31,usdot-jpo-ode,jpo-ode,/usdot-jpo-ode/jpo-ode/issues/474,Out dated ODE output schema docs · Issue #474 · usdot-jpo-ode/jpo-ode · GitHub,4,4
+2022-12-17,2022-12-31,usdot-jpo-ode,jpo-ode,/usdot-jpo-ode/jpo-ode/pull/491/files,Remove '@class' property from serialized JSON by iyourshaw · Pull Request #49...,4,2
+2022-12-17,2022-12-31,usdot-jpo-ode,jpo-ode,/usdot-jpo-ode/jpo-ode/tree/dev/docs,jpo-ode/docs at dev · usdot-jpo-ode/jpo-ode,4,1
+2022-12-17,2022-12-31,usdot-jpo-ode,jpo-security,/usdot-jpo-ode/jpo-security,GitHub - usdot-jpo-ode/jpo-security: SUBMODULE: 1609.2 Java Security Library ...,1,1
+2022-12-17,2022-12-31,usdot-jpo-ode,jpo-security,/usdot-jpo-ode/jpo-security/blob/master/src/main/java/gov/usdot/cv/security/crypto/EcdsaP256SignatureWrapper.java,jpo-security/EcdsaP256SignatureWrapper.java at master · usdot-jpo-ode/jpo-sec...,1,1
+2022-12-17,2022-12-31,usdot-jpo-ode,jpo-security,/usdot-jpo-ode/jpo-security/blob/master/src/main/java/gov/usdot/cv/security/crypto/ECDSAProvider.java,jpo-security/ECDSAProvider.java at master · usdot-jpo-ode/jpo-security,1,1
+2022-12-17,2022-12-31,usdot-jpo-ode,ode-output-validator-library,/usdot-jpo-ode/ode-output-validator-library,usdot-jpo-ode/ode-output-validator-library: Contains shared library functions...,1,1
+2022-12-17,2022-12-31,usdot-jpo-ode,ode-output-validator-library,/usdot-jpo-ode/ode-output-validator-library/blob/master/odevalidator/validator.py,ode-output-validator-library/validator.py at master · usdot-jpo-ode/ode-outpu...,1,1
+2022-12-17,2022-12-31,usdot-jpo-ode,ode-output-validator-library,/usdot-jpo-ode/ode-output-validator-library/tree/master/odevalidator,ode-output-validator-library/odevalidator at master · usdot-jpo-ode/ode-outpu...,1,1
+2022-12-17,2022-12-31,usdot-jpo-ode,TDx,/usdot-jpo-ode/TDx/blob/main/spec-content/objects/FeedInfo.md,TDx/FeedInfo.md at main · usdot-jpo-ode/TDx · GitHub,5,5
+2022-12-17,2022-12-31,usdot-jpo-ode,TDx,/usdot-jpo-ode/TDx/pull/14/files,Update shared content from WZDx v4.1 by mark-mockett · Pull Request #14 · usd...,5,1
+2022-12-17,2022-12-31,usdot-jpo-ode,TDx,/usdot-jpo-ode/TDx/pull/5,Cleanup TDx v1.0 (content from WZDx v4.0 Road Restriction Feed) by mark-mocke...,4,1
+2022-12-17,2022-12-31,usdot-jpo-ode,TDx,/usdot-jpo-ode/TDx/pulls,Pull requests · usdot-jpo-ode/TDx,4,1
+2022-12-17,2022-12-31,usdot-jpo-ode,TDx,/usdot-jpo-ode/TDx/pull/3/files,Add Road Incident Feed by mark-mockett · Pull Request #3 · usdot-jpo-ode/TDx,3,1
+2022-12-17,2022-12-31,usdot-jpo-ode,TDx,/usdot-jpo-ode/TDx/tree/cleanup/v1.0/spec-content,TDx/spec-content at cleanup/v1.0 · usdot-jpo-ode/TDx,3,1
+2022-12-17,2022-12-31,usdot-jpo-ode,TDx,/usdot-jpo-ode/TDx,usdot-jpo-ode/TDx: Transportation Data Exchanges,2,2
+2022-12-17,2022-12-31,usdot-jpo-ode,TDx,/usdot-jpo-ode/TDx/blob/cleanup/v1.0/Creating_a_TDx_Feed.md,TDx/Creating_a_TDx_Feed.md at cleanup/v1.0 · usdot-jpo-ode/TDx,2,1
+2022-12-17,2022-12-31,usdot-jpo-ode,TDx,/usdot-jpo-ode/TDx/pull/6,Add vehicle impact to RestrictionRoadEvent by mark-mockett · Pull Request #6 ...,2,1
+2022-12-17,2022-12-31,usdot-jpo-ode,TDx,/usdot-jpo-ode/TDx/pull/3,Add Road Incident Feed by mark-mockett · Pull Request #3 · usdot-jpo-ode/TDx,1,1
+2022-12-17,2022-12-31,usdot-jpo-ode,wzdx,/usdot-jpo-ode/wzdx,usdot-jpo-ode/wzdx: The Work Zone Data Exchange (WZDx) Specification aims to ...,123,75
+2022-12-17,2022-12-31,usdot-jpo-ode,wzdx,/usdot-jpo-ode/wzdx/blob/main/spec-content/objects/WorkZoneRoadEvent.md,wzdx/WorkZoneRoadEvent.md at main · usdot-jpo-ode/wzdx · GitHub,74,28
+2022-12-17,2022-12-31,usdot-jpo-ode,wzdx,/usdot-jpo-ode/wzdx/blob/main/Creating_a_WZDx_Feed.md,wzdx/Creating_a_WZDx_Feed.md at main · usdot-jpo-ode/wzdx · GitHub,49,39
+2022-12-17,2022-12-31,usdot-jpo-ode,wzdx,/usdot-jpo-ode/wzdx/blob/main/spec-content/objects/RoadEventCoreDetails.md,wzdx/RoadEventCoreDetails.md at main · usdot-jpo-ode/wzdx · GitHub,32,11
+2022-12-17,2022-12-31,usdot-jpo-ode,wzdx,/usdot-jpo-ode/wzdx/pull/339,Update Examples for 4.2 by sknick-iastate · Pull Request #339 · usdot-jpo-ode...,22,9
+2022-12-17,2022-12-31,usdot-jpo-ode,wzdx,/usdot-jpo-ode/wzdx/blob/main/spec-content/enumerated-types/WorkTypeName.md,wzdx/WorkTypeName.md at main · usdot-jpo-ode/wzdx · GitHub,15,4
+2022-12-17,2022-12-31,usdot-jpo-ode,wzdx,/usdot-jpo-ode/wzdx/discussions/246,Best practice for WZDx -> J2735 message generation · Discussion #246 · usdot-...,14,11
+2022-12-17,2022-12-31,usdot-jpo-ode,wzdx,/usdot-jpo-ode/wzdx/pulls,Pull requests · usdot-jpo-ode/wzdx · GitHub,14,8
+2022-12-17,2022-12-31,usdot-jpo-ode,wzdx,/usdot-jpo-ode/wzdx/blob/main/spec-content/objects/RoadEventFeature.md,wzdx/RoadEventFeature.md at main · usdot-jpo-ode/wzdx · GitHub,14,7
+2022-12-17,2022-12-31,usdot-jpo-ode,wzdx,/usdot-jpo-ode/wzdx/blob/main/spec-content/objects/RelatedRoadEvent.md,wzdx/RelatedRoadEvent.md at main · usdot-jpo-ode/wzdx · GitHub,14,5

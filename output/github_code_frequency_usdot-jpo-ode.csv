@@ -5,10 +5,11 @@ count,org,repo,week,additions,deletions,commits,author,is a member
 1,usdot-jpo-ode,jpo-ode,2016-12-04,1,1,1,ToryB1,no
 1,usdot-jpo-ode,jpo-ode,2016-11-27,2,0,1,lauraGgit,no
 1,usdot-jpo-ode,jpo-ode,2020-11-01,31,66,2,abey-yoseph,yes
-1,usdot-jpo-ode,jpo-ode,2022-11-20,333,36,3,iyourshaw,no
 1,usdot-jpo-ode,jpo-ode,2020-12-27,0,0,3,TonyEnglish,yes
 1,usdot-jpo-ode,jpo-ode,2019-05-12,3,3,1,alexsobledotgov,no
 1,usdot-jpo-ode,jpo-ode,2019-05-19,10,27,2,alexsobledotgov,no
+1,usdot-jpo-ode,jpo-ode,2022-11-20,333,36,3,iyourshaw,no
+1,usdot-jpo-ode,jpo-ode,2022-12-11,305,16,2,iyourshaw,no
 1,usdot-jpo-ode,jpo-ode,2019-09-08,2,0,1,snallamothu,yes
 1,usdot-jpo-ode,jpo-ode,2020-03-22,252,57,1,snallamothu,yes
 1,usdot-jpo-ode,jpo-ode,2020-03-29,6,27,2,snallamothu,yes
@@ -24,6 +25,11 @@ count,org,repo,week,additions,deletions,commits,author,is a member
 1,usdot-jpo-ode,jpo-ode,2022-01-09,3,11,1,drewjj,no
 1,usdot-jpo-ode,jpo-ode,2022-02-27,40,1,1,drewjj,no
 1,usdot-jpo-ode,jpo-ode,2022-03-13,6048,0,3,drewjj,no
+1,usdot-jpo-ode,jpo-ode,2022-10-23,1,1,1,drewjj,no
+1,usdot-jpo-ode,jpo-ode,2022-11-13,3563,3189,2,drewjj,no
+1,usdot-jpo-ode,jpo-ode,2022-12-04,7,30,1,drewjj,no
+1,usdot-jpo-ode,jpo-ode,2022-12-11,24,1,1,drewjj,no
+1,usdot-jpo-ode,jpo-ode,2022-12-18,6266,6212,4,drewjj,no
 1,usdot-jpo-ode,jpo-ode,2021-06-06,4,4,1,dmccoystephenson,no
 1,usdot-jpo-ode,jpo-ode,2022-01-09,1,1,1,dmccoystephenson,no
 1,usdot-jpo-ode,jpo-ode,2022-01-23,1,1,1,dmccoystephenson,no
@@ -31,6 +37,11 @@ count,org,repo,week,additions,deletions,commits,author,is a member
 1,usdot-jpo-ode,jpo-ode,2022-04-03,12,5,13,dmccoystephenson,no
 1,usdot-jpo-ode,jpo-ode,2022-04-10,127,24,11,dmccoystephenson,no
 1,usdot-jpo-ode,jpo-ode,2022-04-17,13,30346,2,dmccoystephenson,no
+1,usdot-jpo-ode,jpo-ode,2022-07-10,11,4,2,dmccoystephenson,no
+1,usdot-jpo-ode,jpo-ode,2022-07-17,3,0,1,dmccoystephenson,no
+1,usdot-jpo-ode,jpo-ode,2022-08-28,3,0,1,dmccoystephenson,no
+1,usdot-jpo-ode,jpo-ode,2022-09-18,5,5,3,dmccoystephenson,no
+1,usdot-jpo-ode,jpo-ode,2022-09-25,1,1,1,dmccoystephenson,no
 1,usdot-jpo-ode,jpo-ode,2020-05-24,207,120,26,jtbaird,no
 1,usdot-jpo-ode,jpo-ode,2020-06-07,81,78,9,jtbaird,no
 1,usdot-jpo-ode,jpo-ode,2020-09-20,2,1,2,jtbaird,no
@@ -691,4 +702,6 @@ count,org,repo,week,additions,deletions,commits,author,is a member
 17,usdot-jpo-ode,jpo-geojsonconverter,2022-10-30,248,139,1,drewjj,no
 17,usdot-jpo-ode,jpo-geojsonconverter,2022-11-27,525,211,3,drewjj,no
 17,usdot-jpo-ode,jpo-geojsonconverter,2022-12-04,114,127,2,drewjj,no
+17,usdot-jpo-ode,jpo-geojsonconverter,2022-12-11,28,5,2,drewjj,no
+17,usdot-jpo-ode,jpo-geojsonconverter,2022-12-18,183,127,11,drewjj,no
 18,usdot-jpo-ode,jpo-conflictmonitor,2022-10-16,1,0,1,SaikrishnaBairamoni,yes
