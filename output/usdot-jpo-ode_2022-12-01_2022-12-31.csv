@@ -1,0 +1,22 @@
+Repo Name,Stars,Watches,Forks,Issues,Issues (Internal),Issues (External),Open Issues,Stale Issues (No activity for >14 days),% Stale Issues,Old Issues (Open for >120 days),% Old Issues,% Issues Closed by Pull Request,Average Issue Open Time (Days),Pull Requests,Pull Requests (Internal),Pull Requests (External),Open Pull Requests,Average Pull Request Time to Merge (Days),Contributors (All Time),Contributors (All Time - Internal),Contributors (All Time - External),Issues Opened,Issues Opened (Internal),Issues Opened (External),Issues Opened (First Time Contributor),Issues Closed,Pull Requests Opened,Pull Requests Opened (Internal),Pull Requests Opened (External),Pull Requests Opened (First Time Contributor),Pull Requests Merged,Pull Requests Closed,Contributors (This Period),Contributors (This Period - Internal),Contributors (This Period - External),Contributors (This Period - First Time Contributor)
+1609dot2-asn,1,7,2,0,0,0,0,0,N/A,0,N/A,N/A,N/A,0,0,0,0,N/A,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TDx,3,9,0,9,9,0,9,8,89%,8,89%,N/A,N/A,6,6,0,4,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+asn1_codec,9,9,15,6,3,3,1,1,100%,1,100%,0%,3,16,15,1,0,18,7,4,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+asn1c,1,5,3,0,0,0,0,0,N/A,0,N/A,N/A,N/A,0,0,0,0,N/A,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+jpo-cvdp,14,9,9,3,2,1,2,2,100%,2,100%,0%,0,14,12,2,0,19,7,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+jpo-ode,71,25,38,104,69,35,7,6,86%,6,86%,0%,55,387,198,100,7,2,37,14,23,2,1,1,0,4,2,1,1,0,0,4,2,1,1,0
+jpo-ode-scms-asn,0,6,0,0,0,0,0,0,N/A,0,N/A,N/A,N/A,0,0,0,0,N/A,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+jpo-record-parser,0,5,0,0,0,0,0,0,N/A,0,N/A,N/A,N/A,2,2,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+jpo-s3-deposit,3,8,3,10,9,1,4,4,100%,4,100%,33%,116,28,23,5,2,6,10,6,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+jpo-sdw-depositor,1,5,4,2,1,1,1,1,100%,1,100%,0%,0,9,4,5,2,9,6,2,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+jpo-security,4,9,3,1,0,1,1,1,100%,1,100%,N/A,N/A,10,8,2,0,0,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+jpo-security-svcs,2,8,1,2,0,2,0,0,N/A,0,N/A,0%,47,10,6,4,0,10,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+jpo-tim-builder,3,9,4,2,0,2,1,1,100%,1,100%,0%,0,1,1,0,0,26,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+kafka-docker,0,2,2,0,0,0,0,0,N/A,0,N/A,N/A,N/A,0,0,0,0,N/A,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ode-output-validator-library,1,7,6,1,1,0,1,1,100%,1,100%,N/A,N/A,39,36,3,0,1,6,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+per-xer-codec,1,7,2,0,0,0,0,0,N/A,0,N/A,N/A,N/A,0,0,0,0,N/A,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+scms-asn1,2,6,2,0,0,0,0,0,N/A,0,N/A,N/A,N/A,0,0,0,0,N/A,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+usdot-jpo-ode.github.io,2,5,0,0,0,0,0,0,N/A,0,N/A,N/A,N/A,3,3,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+wzdc-tool,1,6,0,1,1,0,0,0,N/A,0,N/A,0%,0,0,0,0,0,N/A,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+wzdx,72,46,54,137,91,46,18,15,83%,18,100%,7%,220,175,156,19,1,48,42,11,31,0,0,0,0,2,1,1,0,0,10,1,1,1,0,0
+TOTAL,191,193,148,278,186,92,45,40,89%,43,96%,4%,139,700,470,141,17,18,84,25,60,2,1,1,0,6,3,2,1,0,11,5,3,2,1,0
