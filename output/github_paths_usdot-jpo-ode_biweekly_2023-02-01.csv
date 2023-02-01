@@ -1,0 +1,118 @@
+Start date,End date,Org,Repo,Path,Title,Count,Unique
+2023-01-17,2023-01-31,usdot-jpo-ode,asn1_codec,/usdot-jpo-ode/asn1_codec,usdot-jpo-ode/asn1_codec: Module to encode and decode ASN.1 streams of messag...,11,7
+2023-01-17,2023-01-31,usdot-jpo-ode,asn1_codec,/usdot-jpo-ode/asn1_codec/pull/23,Memory Leak Fix - Freed Metadata Pointer by dmccoystephenson · Pull Request #...,11,2
+2023-01-17,2023-01-31,usdot-jpo-ode,asn1_codec,/usdot-jpo-ode/asn1_codec/pulls,Pull requests · usdot-jpo-ode/asn1_codec,6,2
+2023-01-17,2023-01-31,usdot-jpo-ode,asn1_codec,/usdot-jpo-ode/asn1_codec/compare,Compare · usdot-jpo-ode/asn1_codec,1,1
+2023-01-17,2023-01-31,usdot-jpo-ode,asn1_codec,/usdot-jpo-ode/asn1_codec/compare/master...develop,Comparing master...develop · usdot-jpo-ode/asn1_codec,1,1
+2023-01-17,2023-01-31,usdot-jpo-ode,asn1_codec,/usdot-jpo-ode/asn1_codec/network/members,Forks · usdot-jpo-ode/asn1_codec,1,1
+2023-01-17,2023-01-31,usdot-jpo-ode,asn1_codec,/usdot-jpo-ode/asn1_codec/pull/23/commits,Memory Leak Fix + AcmLogger Class by dmccoystephenson · Pull Request #23 · us...,1,1
+2023-01-17,2023-01-31,usdot-jpo-ode,asn1_codec,/usdot-jpo-ode/asn1_codec/pull/23/commits/5a90db09cf32c7af90ee4caa456bf5a2712957f6,Memory Leak Fix + Logger Class by dmccoystephenson · Pull Request #23 · usdot...,1,1
+2023-01-17,2023-01-31,usdot-jpo-ode,asn1_codec,/usdot-jpo-ode/asn1_codec/pull/23/files,Memory Leak Fix + AcmLogger Class by dmccoystephenson · Pull Request #23 · us...,1,1
+2023-01-17,2023-01-31,usdot-jpo-ode,asn1_codec,/usdot-jpo-ode/asn1_codec/pull/23/files/18984a448bc700e67edac1fd9aa4968a684f6355..5a90db09cf32c7af90ee4caa456bf5a2712957f6,Memory Leak Fix + AcmLogger Class by dmccoystephenson · Pull Request #23 · us...,1,1
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-conflictmonitor,/usdot-jpo-ode/jpo-conflictmonitor,usdot-jpo-ode/jpo-conflictmonitor,26,4
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-conflictmonitor,/usdot-jpo-ode/jpo-conflictmonitor/pulls,Pull requests · usdot-jpo-ode/jpo-conflictmonitor,17,3
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-conflictmonitor,/usdot-jpo-ode/jpo-conflictmonitor/tree/dev,usdot-jpo-ode/jpo-conflictmonitor at dev,10,3
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-conflictmonitor,/usdot-jpo-ode/jpo-conflictmonitor/wiki,GitHub · Where software is built,10,1
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-conflictmonitor,/usdot-jpo-ode/jpo-conflictmonitor/pull/4,MongoDB Deployment by Michael7371 · Pull Request #4 · usdot-jpo-ode/jpo-confl...,9,3
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-conflictmonitor,/usdot-jpo-ode/jpo-conflictmonitor/wiki/Integration-Tests,Integration Tests · usdot-jpo-ode/jpo-conflictmonitor Wiki,8,1
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-conflictmonitor,/usdot-jpo-ode/jpo-conflictmonitor/pull/2,Minimum data events by iyourshaw · Pull Request #2 · usdot-jpo-ode/jpo-confli...,7,2
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-conflictmonitor,/usdot-jpo-ode/jpo-conflictmonitor/tree/tests,usdot-jpo-ode/jpo-conflictmonitor at tests,7,1
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-conflictmonitor,/usdot-jpo-ode/jpo-conflictmonitor/wiki/Test-BSM-Events,Test BSM Events · usdot-jpo-ode/jpo-conflictmonitor Wiki,7,1
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-conflictmonitor,/usdot-jpo-ode/jpo-conflictmonitor/pull/3,Notification base class by iyourshaw · Pull Request #3 · usdot-jpo-ode/jpo-co...,5,2
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-cvdp,/usdot-jpo-ode/jpo-cvdp,usdot-jpo-ode/jpo-cvdp: SUBMODULE: Connected Vehicle Data Privacy module for ...,10,5
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-cvdp,/usdot-jpo-ode/jpo-cvdp/compare/master...CDOT-CV:jpo-cvdp:master,Comparing usdot-jpo-ode:master...CDOT-CV:master · usdot-jpo-ode/jpo-cvdp,4,1
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-cvdp,/usdot-jpo-ode/jpo-cvdp/compare/master...CDOT-CV:jpo-cvdp:fix/ppm-redaction-refactoring,Comparing usdot-jpo-ode:master...CDOT-CV:fix/ppm-redaction-refactoring · usdo...,2,1
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-cvdp,/usdot-jpo-ode/jpo-cvdp/pulls,Pull requests · usdot-jpo-ode/jpo-cvdp,2,1
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-cvdp,/usdot-jpo-ode/jpo-cvdp/blob/master/docs/ppm_user_manual.docx,jpo-cvdp/ppm_user_manual.docx at master · usdot-jpo-ode/jpo-cvdp,1,1
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-cvdp,/usdot-jpo-ode/jpo-cvdp/commit/329e6b943bd7a5f005fdd93e021577b82314a995,Removed unnecessary constructor. · usdot-jpo-ode/jpo-cvdp@329e6b9,1,1
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-cvdp,/usdot-jpo-ode/jpo-cvdp/compare,Compare · usdot-jpo-ode/jpo-cvdp,1,1
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-cvdp,/usdot-jpo-ode/jpo-cvdp/compare/develop...CDOT-CV:jpo-cvdp:develop,Comparing usdot-jpo-ode:develop...CDOT-CV:develop · usdot-jpo-ode/jpo-cvdp,1,1
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-cvdp,/usdot-jpo-ode/jpo-cvdp/compare/develop...CDOT-CV:jpo-cvdp:fix/ppm-redaction-refactoring,Comparing usdot-jpo-ode:develop...CDOT-CV:fix/ppm-redaction-refactoring · usd...,1,1
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-cvdp,/usdot-jpo-ode/jpo-cvdp/compare/develop...CDOT-CV:jpo-cvdp:master,Comparing usdot-jpo-ode:develop...CDOT-CV:master · usdot-jpo-ode/jpo-cvdp,1,1
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-geojsonconverter,/usdot-jpo-ode/jpo-geojsonconverter/blob/develop/jpo-geojsonconverter/src/main/java/us/dot/its/jpo/geojsonconverter/partitioner/RsuIntersectionKey.java,jpo-geojsonconverter/RsuIntersectionKey.java at develop · usdot-jpo-ode/jpo-g...,8,1
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-geojsonconverter,/usdot-jpo-ode/jpo-geojsonconverter,usdot-jpo-ode/jpo-geojsonconverter,4,3
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-geojsonconverter,/usdot-jpo-ode/jpo-geojsonconverter/blob/develop/jpo-geojsonconverter/src/main/java/us/dot/its/jpo/geojsonconverter/converter/spat/SpatProcessedJsonConverter.java,jpo-geojsonconverter/SpatProcessedJsonConverter.java at develop · usdot-jpo-o...,4,1
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-geojsonconverter,/usdot-jpo-ode/jpo-geojsonconverter/tree/ee826ac78992a40893c119950069b8b94eba8496,usdot-jpo-ode/jpo-geojsonconverter at ee826ac78992a40893c119950069b8b94eba8496,4,1
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-geojsonconverter,/usdot-jpo-ode/jpo-geojsonconverter/tree/develop/jpo-geojsonconverter/src/main/java/us/dot/its/jpo/geojsonconverter,jpo-geojsonconverter/jpo-geojsonconverter/src/main/java/us/dot/its/jpo/geojso...,2,1
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-geojsonconverter,/usdot-jpo-ode/jpo-geojsonconverter/compare/ee826ac78992a40893c119950069b8b94eba8496...160657c519c387cfd442d23d37c64e9d0d8a4b1f,Comparing ee826ac78992a40893c119950069b8b94eba8496...160657c519c387cfd442d23d...,1,1
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-geojsonconverter,/usdot-jpo-ode/jpo-geojsonconverter/compare/ee826ac78992a40893c119950069b8b94eba8496...2ee6232db0a1622fdfce7aa1b8ff583ae70ce864,Comparing ee826ac78992a40893c119950069b8b94eba8496...2ee6232db0a1622fdfce7aa1...,1,1
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-geojsonconverter,/usdot-jpo-ode/jpo-geojsonconverter/tree/develop/jpo-geojsonconverter,jpo-geojsonconverter/jpo-geojsonconverter at develop · usdot-jpo-ode/jpo-geoj...,1,1
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-geojsonconverter,/usdot-jpo-ode/jpo-geojsonconverter/tree/develop/jpo-geojsonconverter/src,jpo-geojsonconverter/jpo-geojsonconverter/src at develop · usdot-jpo-ode/jpo-...,1,1
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-geojsonconverter,/usdot-jpo-ode/jpo-geojsonconverter/tree/develop/jpo-geojsonconverter/src/main,jpo-geojsonconverter/jpo-geojsonconverter/src/main at develop · usdot-jpo-ode...,1,1
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-ode,/usdot-jpo-ode/jpo-ode,usdot-jpo-ode/jpo-ode: US Department of Transportation (USDOT) Intelligent Tr...,43,25
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-ode,/usdot-jpo-ode/jpo-ode/blob/dev/jpo-ode-core/src/main/resources/schemas/schema-bsm.json,jpo-ode/schema-bsm.json at dev · usdot-jpo-ode/jpo-ode,9,2
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-ode,/usdot-jpo-ode/jpo-ode/tree/dev/docs/schemas,jpo-ode/docs/schemas at dev · usdot-jpo-ode/jpo-ode,8,2
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-ode,/usdot-jpo-ode/jpo-ode/search,Search · state 2 state · GitHub,6,3
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-ode,/usdot-jpo-ode/jpo-ode/wiki/ODE-Confluent-Cloud-Support,ODE Confluent Cloud Support · usdot-jpo-ode/jpo-ode Wiki · GitHub,5,4
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-ode,/usdot-jpo-ode/jpo-ode/commit/46cd7e312cccda0a525a19cf76a7865a11313bff,Merge pull request #491 from iyourshaw/json-schema-class-fix · usdot-jpo-ode/...,4,1
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-ode,/usdot-jpo-ode/jpo-ode/tree/dev/docs,jpo-ode/docs at dev · usdot-jpo-ode/jpo-ode,3,1
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-ode,/usdot-jpo-ode/jpo-ode/blob/dev/docs/Architecture.md,jpo-ode/Architecture.md at dev · usdot-jpo-ode/jpo-ode · GitHub,2,2
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-ode,/usdot-jpo-ode/jpo-ode/pull/495,Filtered BSM Schema by dmccoystephenson · Pull Request #495 · usdot-jpo-ode/j...,2,2
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-ode,/usdot-jpo-ode/jpo-ode/blob/dev/docs/images/readme/figure2.png,jpo-ode/figure2.png at dev · usdot-jpo-ode/jpo-ode · GitHub,2,1
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-ode-scms-asn,/usdot-jpo-ode/jpo-ode-scms-asn,usdot-jpo-ode/jpo-ode-scms-asn,4,1
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-ode-scms-asn,/usdot-jpo-ode/jpo-ode-scms-asn/blob/scms-asn-v1.2.1-release/CAMP_logo_64x64.png,jpo-ode-scms-asn/CAMP_logo_64x64.png at scms-asn-v1.2.1-release · usdot-jpo-o...,1,1
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-s3-deposit,/usdot-jpo-ode/jpo-s3-deposit/compare/master...dev,Comparing master...dev · usdot-jpo-ode/jpo-s3-deposit,4,3
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-s3-deposit,/usdot-jpo-ode/jpo-s3-deposit,usdot-jpo-ode/jpo-s3-deposit: SUBMODULE: Generic Kafka stream to S3 depositin...,3,1
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-s3-deposit,/usdot-jpo-ode/jpo-s3-deposit/pulls,Pull requests · usdot-jpo-ode/jpo-s3-deposit,3,1
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-s3-deposit,/usdot-jpo-ode/jpo-s3-deposit/compare/dev...CDOT-CV:jpo-s3-deposit:master,Comparing usdot-jpo-ode:dev...CDOT-CV:master · usdot-jpo-ode/jpo-s3-deposit,2,1
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-s3-deposit,/usdot-jpo-ode/jpo-s3-deposit/compare/master...CDOT-CV:jpo-s3-deposit:master,Comparing usdot-jpo-ode:master...CDOT-CV:master · usdot-jpo-ode/jpo-s3-deposit,2,1
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-s3-deposit,/usdot-jpo-ode/jpo-s3-deposit/tree/2880f82a4e4dcc2c6567b153d19ce95339823262,usdot-jpo-ode/jpo-s3-deposit at 2880f82a4e4dcc2c6567b153d19ce95339823262,2,1
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-s3-deposit,/usdot-jpo-ode/jpo-s3-deposit/compare,Compare · usdot-jpo-ode/jpo-s3-deposit,1,1
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-s3-deposit,/usdot-jpo-ode/jpo-s3-deposit/compare/dev...CDOT-CV:jpo-s3-deposit:dev,Comparing usdot-jpo-ode:dev...CDOT-CV:dev · usdot-jpo-ode/jpo-s3-deposit,1,1
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-s3-deposit,/usdot-jpo-ode/jpo-s3-deposit/compare/dev...usdot-jpo-ode:jpo-s3-deposit:dev,Comparing dev...dev · usdot-jpo-ode/jpo-s3-deposit,1,1
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-s3-deposit,/usdot-jpo-ode/jpo-s3-deposit/compare/master...usdot-jpo-ode:jpo-s3-deposit:dev,Comparing master...dev · usdot-jpo-ode/jpo-s3-deposit,1,1
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-sdw-depositor,/usdot-jpo-ode/jpo-sdw-depositor/pulls,Pull requests · usdot-jpo-ode/jpo-sdw-depositor,5,1
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-sdw-depositor,/usdot-jpo-ode/jpo-sdw-depositor,usdot-jpo-ode/jpo-sdw-depositor: Subscribes to a Kafka topic and deposits mes...,3,1
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-sdw-depositor,/usdot-jpo-ode/jpo-sdw-depositor/pull/10,Confluent Cloud Integration by dmccoystephenson · Pull Request #10 · usdot-jp...,3,1
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-sdw-depositor,/usdot-jpo-ode/jpo-sdw-depositor/compare,Compare · usdot-jpo-ode/jpo-sdw-depositor,1,1
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-sdw-depositor,/usdot-jpo-ode/jpo-sdw-depositor/compare/develop...CDOT-CV:jpo-sdw-depositor:develop,Comparing usdot-jpo-ode:develop...CDOT-CV:develop · usdot-jpo-ode/jpo-sdw-dep...,1,1
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-sdw-depositor,/usdot-jpo-ode/jpo-sdw-depositor/compare/master...CDOT-CV:jpo-sdw-depositor:develop,Comparing usdot-jpo-ode:master...CDOT-CV:develop · usdot-jpo-ode/jpo-sdw-depo...,1,1
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-sdw-depositor,/usdot-jpo-ode/jpo-sdw-depositor/compare/master...CDOT-CV:jpo-sdw-depositor:master,Comparing usdot-jpo-ode:master...CDOT-CV:master · usdot-jpo-ode/jpo-sdw-depos...,1,1
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-sdw-depositor,/usdot-jpo-ode/jpo-sdw-depositor/compare/master...develop,Comparing master...develop · usdot-jpo-ode/jpo-sdw-depositor,1,1
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-sdw-depositor,/usdot-jpo-ode/jpo-sdw-depositor/network/members,Forks · usdot-jpo-ode/jpo-sdw-depositor,1,1
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-sdw-depositor,/usdot-jpo-ode/jpo-sdw-depositor/tree/be99dcc8a9c1175609326d2f676f4ee4811c6fa4,usdot-jpo-ode/jpo-sdw-depositor at be99dcc8a9c1175609326d2f676f4ee4811c6fa4,1,1
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-security,/usdot-jpo-ode/jpo-security/blob/master/src/main/java/gov/usdot/cv/security/crypto/ECDSAProvider.java,jpo-security/ECDSAProvider.java at master · usdot-jpo-ode/jpo-security,2,2
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-security-svcs,/usdot-jpo-ode/jpo-security-svcs,usdot-jpo-ode/jpo-security-svcs: This module exposes a RESTful API for perfor...,3,1
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-security-svcs,/usdot-jpo-ode/jpo-security-svcs/compare/master...dev,Comparing master...dev · usdot-jpo-ode/jpo-security-svcs · GitHub,2,2
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-security-svcs,/usdot-jpo-ode/jpo-security-svcs/compare,Compare · usdot-jpo-ode/jpo-security-svcs,1,1
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-security-svcs,/usdot-jpo-ode/jpo-security-svcs/compare/dev...CDOT-CV:jpo-security-svcs:dev,Comparing usdot-jpo-ode:dev...CDOT-CV:dev · usdot-jpo-ode/jpo-security-svcs,1,1
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-security-svcs,/usdot-jpo-ode/jpo-security-svcs/compare/dev...CDOT-CV:jpo-security-svcs:master,Comparing usdot-jpo-ode:dev...CDOT-CV:master · usdot-jpo-ode/jpo-security-svcs,1,1
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-security-svcs,/usdot-jpo-ode/jpo-security-svcs/compare/dev...usdot-jpo-ode:jpo-security-svcs:dev,Comparing dev...dev · usdot-jpo-ode/jpo-security-svcs,1,1
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-security-svcs,/usdot-jpo-ode/jpo-security-svcs/compare/master...CDOT-CV:jpo-security-svcs:master,Comparing usdot-jpo-ode:master...CDOT-CV:master · usdot-jpo-ode/jpo-security-...,1,1
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-security-svcs,/usdot-jpo-ode/jpo-security-svcs/compare/master...dev),Comparing master...dev) · usdot-jpo-ode/jpo-security-svcs · GitHub,1,1
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-security-svcs,/usdot-jpo-ode/jpo-security-svcs/compare/master...usdot-jpo-ode:jpo-security-svcs:dev,Comparing master...dev · usdot-jpo-ode/jpo-security-svcs,1,1
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-security-svcs,/usdot-jpo-ode/jpo-security-svcs/network/members,Forks · usdot-jpo-ode/jpo-security-svcs,1,1
+2023-01-17,2023-01-31,usdot-jpo-ode,jpo-tim-builder,/usdot-jpo-ode/jpo-tim-builder,GitHub - usdot-jpo-ode/jpo-tim-builder: SUBMODULE: Visual GUI for building TI...,1,1
+2023-01-17,2023-01-31,usdot-jpo-ode,ode-output-validator-library,/usdot-jpo-ode/ode-output-validator-library,usdot-jpo-ode/ode-output-validator-library: Contains shared library functions...,1,1
+2023-01-17,2023-01-31,usdot-jpo-ode,ode-output-validator-library,/usdot-jpo-ode/ode-output-validator-library/blob/master/odevalidator/__init__.py,ode-output-validator-library/__init__.py at master · usdot-jpo-ode/ode-output...,1,1
+2023-01-17,2023-01-31,usdot-jpo-ode,ode-output-validator-library,/usdot-jpo-ode/ode-output-validator-library/blob/master/odevalidator/__main__.py,ode-output-validator-library/__main__.py at master · usdot-jpo-ode/ode-output...,1,1
+2023-01-17,2023-01-31,usdot-jpo-ode,ode-output-validator-library,/usdot-jpo-ode/ode-output-validator-library/blob/master/odevalidator/result.py,ode-output-validator-library/result.py at master · usdot-jpo-ode/ode-output-v...,1,1
+2023-01-17,2023-01-31,usdot-jpo-ode,ode-output-validator-library,/usdot-jpo-ode/ode-output-validator-library/blob/master/odevalidator/sequential.py,ode-output-validator-library/sequential.py at master · usdot-jpo-ode/ode-outp...,1,1
+2023-01-17,2023-01-31,usdot-jpo-ode,ode-output-validator-library,/usdot-jpo-ode/ode-output-validator-library/blob/master/odevalidator/validator.py,ode-output-validator-library/validator.py at master · usdot-jpo-ode/ode-outpu...,1,1
+2023-01-17,2023-01-31,usdot-jpo-ode,ode-output-validator-library,/usdot-jpo-ode/ode-output-validator-library/tree/master/odevalidator,ode-output-validator-library/odevalidator at master · usdot-jpo-ode/ode-outpu...,1,1
+2023-01-17,2023-01-31,usdot-jpo-ode,scms-asn1,/usdot-jpo-ode/scms-asn1/blob/master/psid-and-ssps.txt,scms-asn1/psid-and-ssps.txt at master · usdot-jpo-ode/scms-asn1 · GitHub,3,3
+2023-01-17,2023-01-31,usdot-jpo-ode,scms-asn1,/usdot-jpo-ode/scms-asn1,GitHub - usdot-jpo-ode/scms-asn1: This repository contains the ASN.1 definiti...,1,1
+2023-01-17,2023-01-31,usdot-jpo-ode,scms-asn1,/usdot-jpo-ode/scms-asn1/blob/master/1609dot2-asn/1609dot2-base-types.asn,scms-asn1/1609dot2-base-types.asn at master · usdot-jpo-ode/scms-asn1 · GitHub,1,1
+2023-01-17,2023-01-31,usdot-jpo-ode,scms-asn1,/usdot-jpo-ode/scms-asn1/blob/master/cert-profile.asn,scms-asn1/cert-profile.asn at master · usdot-jpo-ode/scms-asn1 · GitHub,1,1
+2023-01-17,2023-01-31,usdot-jpo-ode,scms-asn1,/usdot-jpo-ode/scms-asn1/blob/master/scms.a1sproj,scms-asn1/scms.a1sproj at master · usdot-jpo-ode/scms-asn1 · GitHub,1,1
+2023-01-17,2023-01-31,usdot-jpo-ode,TDx,/usdot-jpo-ode/TDx,usdot-jpo-ode/TDx: Transportation Data Exchanges,22,9
+2023-01-17,2023-01-31,usdot-jpo-ode,TDx,/usdot-jpo-ode/TDx/pulls,Pull requests · usdot-jpo-ode/TDx,10,1
+2023-01-17,2023-01-31,usdot-jpo-ode,TDx,/usdot-jpo-ode/TDx/pull/5/files,Cleanup TDx v1.0 (content from WZDx v4.0 Road Restriction Feed) by mark-mocke...,8,1
+2023-01-17,2023-01-31,usdot-jpo-ode,TDx,/usdot-jpo-ode/TDx/pull/5,Cleanup TDx v1.0 (content from WZDx v4.0 Road Restriction Feed) by mark-mocke...,5,1
+2023-01-17,2023-01-31,usdot-jpo-ode,TDx,/usdot-jpo-ode/TDx/blob/main/spec-content/enumerated-types/RestrictionType.md,TDx/RestrictionType.md at main · usdot-jpo-ode/TDx,4,2
+2023-01-17,2023-01-31,usdot-jpo-ode,TDx,/usdot-jpo-ode/TDx/pull/3/files,Add Road Incident Feed by mark-mockett · Pull Request #3 · usdot-jpo-ode/TDx,3,1
+2023-01-17,2023-01-31,usdot-jpo-ode,TDx,/usdot-jpo-ode/TDx/blob/main/spec-content/objects/Restriction.md,TDx/Restriction.md at main · usdot-jpo-ode/TDx,2,1
+2023-01-17,2023-01-31,usdot-jpo-ode,TDx,/usdot-jpo-ode/TDx/blob/main/spec-content/objects/RestrictionRoadEvent.md,TDx/RestrictionRoadEvent.md at main · usdot-jpo-ode/TDx,2,1
+2023-01-17,2023-01-31,usdot-jpo-ode,TDx,/usdot-jpo-ode/TDx/pull/14/files,Update shared content from WZDx v4.1 by mark-mockett · Pull Request #14 · usd...,2,1
+2023-01-17,2023-01-31,usdot-jpo-ode,TDx,/usdot-jpo-ode/TDx/pull/6/files,Add vehicle impact to RestrictionRoadEvent by mark-mockett · Pull Request #6 ...,2,1
+2023-01-17,2023-01-31,usdot-jpo-ode,wzdc-tool,/usdot-jpo-ode/wzdc-tool,GitHub - usdot-jpo-ode/wzdc-tool,1,1
+2023-01-17,2023-01-31,usdot-jpo-ode,wzdx,/usdot-jpo-ode/wzdx,usdot-jpo-ode/wzdx: The Work Zone Data Exchange (WZDx) Specification aims to ...,198,113
+2023-01-17,2023-01-31,usdot-jpo-ode,wzdx,/usdot-jpo-ode/wzdx/blob/main/spec-content/objects/WorkZoneRoadEvent.md,wzdx/WorkZoneRoadEvent.md at main · usdot-jpo-ode/wzdx · GitHub,61,27
+2023-01-17,2023-01-31,usdot-jpo-ode,wzdx,/usdot-jpo-ode/wzdx/pulls,Pull requests · usdot-jpo-ode/wzdx,51,8
+2023-01-17,2023-01-31,usdot-jpo-ode,wzdx,/usdot-jpo-ode/wzdx/blob/main/README.md,wzdx/README.md at main · usdot-jpo-ode/wzdx · GitHub,45,36
+2023-01-17,2023-01-31,usdot-jpo-ode,wzdx,/usdot-jpo-ode/wzdx/tree/main/spec-content,wzdx/spec-content at main · usdot-jpo-ode/wzdx · GitHub,42,27
+2023-01-17,2023-01-31,usdot-jpo-ode,wzdx,/usdot-jpo-ode/wzdx/blob/main/spec-content/objects/RoadEventCoreDetails.md,wzdx/RoadEventCoreDetails.md at main · usdot-jpo-ode/wzdx · GitHub,36,11
+2023-01-17,2023-01-31,usdot-jpo-ode,wzdx,/usdot-jpo-ode/wzdx/blob/main/spec-content/objects/Lane.md,wzdx/Lane.md at main · usdot-jpo-ode/wzdx · GitHub,29,11
+2023-01-17,2023-01-31,usdot-jpo-ode,wzdx,/usdot-jpo-ode/wzdx/blob/main/spec-content/objects/RoadEventFeature.md,wzdx/RoadEventFeature.md at main · usdot-jpo-ode/wzdx · GitHub,26,10
+2023-01-17,2023-01-31,usdot-jpo-ode,wzdx,/usdot-jpo-ode/wzdx/wiki,Home · usdot-jpo-ode/wzdx Wiki · GitHub,23,16
+2023-01-17,2023-01-31,usdot-jpo-ode,wzdx,/usdot-jpo-ode/wzdx/blob/main/Creating_a_WZDx_Feed.md,wzdx/Creating_a_WZDx_Feed.md at main · usdot-jpo-ode/wzdx · GitHub,23,12
