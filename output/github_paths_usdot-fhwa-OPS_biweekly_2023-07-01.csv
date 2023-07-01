@@ -1,0 +1,11 @@
+Start date,End date,Org,Repo,Path,Title,Count,Unique
+2023-06-16,2023-06-30,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub,usdot-fhwa-OPS/V2X-Hub: V2X Hub is a message handler that acts as a translato...,200,84
+2023-06-16,2023-06-30,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/tree/develop/src/v2i-hub,V2X-Hub/src/v2i-hub at develop · usdot-fhwa-OPS/V2X-Hub · GitHub,47,13
+2023-06-16,2023-06-30,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/tree/develop/src,V2X-Hub/src at develop · usdot-fhwa-OPS/V2X-Hub · GitHub,46,15
+2023-06-16,2023-06-30,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/pulls,Pull requests · usdot-fhwa-OPS/V2X-Hub · GitHub,42,9
+2023-06-16,2023-06-30,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/tree/develop/configuration,V2X-Hub/configuration at develop · usdot-fhwa-OPS/V2X-Hub · GitHub,29,9
+2023-06-16,2023-06-30,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/tree/develop/docs,V2X-Hub/docs at develop · usdot-fhwa-OPS/V2X-Hub · GitHub,27,8
+2023-06-16,2023-06-30,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/blob/develop/docs/Docker_Instructions.md,V2X-Hub/docs/Docker_Instructions.md at develop · usdot-fhwa-OPS/V2X-Hub · Git...,24,3
+2023-06-16,2023-06-30,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/blob/develop/docs/Release_notes.md,V2X-Hub/docs/Release_notes.md at develop · usdot-fhwa-OPS/V2X-Hub · GitHub,23,8
+2023-06-16,2023-06-30,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/pull/545,Routable metadata by jwillmartin · Pull Request #545 · usdot-fhwa-OPS/V2X-Hub...,22,5
+2023-06-16,2023-06-30,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/blob/develop/src/v2i-hub/MessageReceiverPlugin/src/MessageReceiverPlugin.cpp,V2X-Hub/src/v2i-hub/MessageReceiverPlugin/src/MessageReceiverPlugin.cpp at de...,22,2
