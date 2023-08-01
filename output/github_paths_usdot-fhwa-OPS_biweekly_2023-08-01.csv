@@ -1,0 +1,15 @@
+Start date,End date,Org,Repo,Path,Title,Count,Unique
+2023-07-17,2023-07-31,usdot-fhwa-OPS,.github,/usdot-fhwa-OPS/.github/tree/develop/.github,.github/.github at develop · usdot-fhwa-OPS/.github,4,1
+2023-07-17,2023-07-31,usdot-fhwa-OPS,.github,/usdot-fhwa-OPS/.github/blob/develop/.github/pull_request_template.md,.github/.github/pull_request_template.md at develop · usdot-fhwa-OPS/.github,2,1
+2023-07-17,2023-07-31,usdot-fhwa-OPS,.github,/usdot-fhwa-OPS/.github,usdot-fhwa-OPS/.github,1,1
+2023-07-17,2023-07-31,usdot-fhwa-OPS,.github,/usdot-fhwa-OPS/.github/tree/develop,usdot-fhwa-OPS/.github,1,1
+2023-07-17,2023-07-31,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub,usdot-fhwa-OPS/V2X-Hub: V2X Hub is a message handler that acts as a translato...,148,53
+2023-07-17,2023-07-31,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/pulls,Pull requests · usdot-fhwa-OPS/V2X-Hub,112,7
+2023-07-17,2023-07-31,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/pull/552,MOSAIC-CARMA-Streets: CDASimAdapter listens on port for incoming Simulated Ob...,85,2
+2023-07-17,2023-07-31,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/tree/develop/src,V2X-Hub/src at develop · usdot-fhwa-OPS/V2X-Hub · GitHub,69,17
+2023-07-17,2023-07-31,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/pull/554,Streets MOSAIC integration: CDASimAdapter register with Simulation ambassador...,61,3
+2023-07-17,2023-07-31,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/tree/develop/src/v2i-hub,V2X-Hub/src/v2i-hub at develop · usdot-fhwa-OPS/V2X-Hub · GitHub,42,11
+2023-07-17,2023-07-31,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/blob/develop/docs/Release_notes.md,V2X-Hub/docs/Release_notes.md at develop · usdot-fhwa-OPS/V2X-Hub · GitHub,37,15
+2023-07-17,2023-07-31,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/pull/552/files,MOSAIC-CARMA-Streets: CDASimAdapter listens on port for incoming Simulated Ob...,34,2
+2023-07-17,2023-07-31,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/tree/develop/docs,V2X-Hub/docs at develop · usdot-fhwa-OPS/V2X-Hub · GitHub,33,6
+2023-07-17,2023-07-31,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/pull/554/files,Streets MOSAIC integration: CDASimAdapter register with Simulation ambassador...,23,2
