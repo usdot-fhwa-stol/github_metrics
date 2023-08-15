@@ -869,6 +869,7 @@ count,org,repo,week,additions,deletions,commits,author,is a member
 17,usdot-jpo-ode,jpo-geojsonconverter,2022-12-04,2265,890,15,Michael7371,no
 17,usdot-jpo-ode,jpo-geojsonconverter,2023-02-12,509,215,14,Michael7371,no
 17,usdot-jpo-ode,jpo-geojsonconverter,2023-02-19,281,90,4,Michael7371,no
+17,usdot-jpo-ode,jpo-geojsonconverter,2023-07-30,1,0,1,Michael7371,no
 17,usdot-jpo-ode,jpo-geojsonconverter,2022-08-28,664,11,4,drewjj,no
 17,usdot-jpo-ode,jpo-geojsonconverter,2022-09-25,61,0,1,drewjj,no
 17,usdot-jpo-ode,jpo-geojsonconverter,2022-10-09,1699,2052,17,drewjj,no
@@ -892,6 +893,7 @@ count,org,repo,week,additions,deletions,commits,author,is a member
 18,usdot-jpo-ode,jpo-conflictmonitor,2023-02-05,427,284,3,Michael7371,no
 18,usdot-jpo-ode,jpo-conflictmonitor,2023-02-19,24,12,5,Michael7371,no
 18,usdot-jpo-ode,jpo-conflictmonitor,2023-03-05,3,5,1,Michael7371,no
+18,usdot-jpo-ode,jpo-conflictmonitor,2023-07-30,45,11,3,Michael7371,no
 18,usdot-jpo-ode,jpo-conflictmonitor,2022-10-23,4044,61,2,John-Wiens,no
 18,usdot-jpo-ode,jpo-conflictmonitor,2022-10-30,514,86,2,John-Wiens,no
 18,usdot-jpo-ode,jpo-conflictmonitor,2022-11-06,845,257,2,John-Wiens,no
@@ -936,7 +938,12 @@ count,org,repo,week,additions,deletions,commits,author,is a member
 18,usdot-jpo-ode,jpo-conflictmonitor,2023-05-07,675,572,13,iyourshaw,no
 18,usdot-jpo-ode,jpo-conflictmonitor,2023-06-11,125,100,8,iyourshaw,no
 18,usdot-jpo-ode,jpo-conflictmonitor,2023-06-18,98,9,1,iyourshaw,no
-18,usdot-jpo-ode,jpo-conflictmonitor,2023-07-16,0,5,1,iyourshaw,no
+18,usdot-jpo-ode,jpo-conflictmonitor,2023-06-25,0,5,1,iyourshaw,no
+18,usdot-jpo-ode,jpo-conflictmonitor,2023-07-16,842,720,7,iyourshaw,no
+18,usdot-jpo-ode,jpo-conflictmonitor,2023-07-23,649,481,5,iyourshaw,no
+18,usdot-jpo-ode,jpo-conflictmonitor,2023-07-30,396,199,7,iyourshaw,no
+18,usdot-jpo-ode,jpo-conflictmonitor,2023-08-06,125,13,3,iyourshaw,no
+19,usdot-jpo-ode,jpo-conflictvisualizer,2023-07-30,3,0,1,Michael7371,no
 19,usdot-jpo-ode,jpo-conflictvisualizer,2023-02-26,518,235,6,drewjj,no
 19,usdot-jpo-ode,jpo-conflictvisualizer,2023-03-19,79386,9243,2,jacob6838,no
 19,usdot-jpo-ode,jpo-conflictvisualizer,2023-03-26,179,273,8,jacob6838,no
