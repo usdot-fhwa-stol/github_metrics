@@ -1,8 +1,10 @@
 {
   "owner": "usdot-jpo-ode",
   "repoList": [
+    "1609dot2-asn",
     "TDx",
     "asn1_codec",
+    "asn1c",
     "jpo-cvdp",
     "jpo-ode",
     "jpo-ode-scms-asn",
@@ -12,7 +14,9 @@
     "jpo-security",
     "jpo-security-svcs",
     "jpo-tim-builder",
+    "kafka-docker",
     "ode-output-validator-library",
+    "per-xer-codec",
     "scms-asn1",
     "usdot-jpo-ode.github.io",
     "wzdc-tool",
