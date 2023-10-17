@@ -40,7 +40,7 @@ jobs:
         run: |
           rm code-gov/code-gov-repo-metrics/{config.json,.env}
 
-      - uses: stefanzweifel/git-auto-commit-action@v4
+      - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Automatic update"
           commit_user_name: "Cody Garver"

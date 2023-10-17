@@ -33,7 +33,7 @@ jobs:
             python3 traffic-metrics/github_metrics.py -t ${{ secrets.METRICS_GITHUB_TOKEN }} -o "$ORG"
           done
 
-      - uses: stefanzweifel/git-auto-commit-action@v4
+      - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Automatic update"
           commit_user_name: "Saikrishna Bairamoni"
