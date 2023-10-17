@@ -38,4 +38,3 @@ jobs:
           commit_message: "Automatic update"
           commit_user_name: "Saikrishna Bairamoni"
           commit_user_email: "saikrishna.bairamoni@leidos.com"
-          push_options: '--force'
