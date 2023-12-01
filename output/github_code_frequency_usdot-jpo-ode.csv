@@ -602,11 +602,6 @@ count,org,repo,week,additions,deletions,commits,author,is a member
 8,usdot-jpo-ode,jpo-security-svcs,2018-03-25,237,21,5,Schwartz-Matthew-bah,no
 8,usdot-jpo-ode,jpo-security-svcs,2018-04-01,60,54,4,Schwartz-Matthew-bah,no
 8,usdot-jpo-ode,jpo-security-svcs,2018-11-25,10,20,1,Schwartz-Matthew-bah,no
-8,usdot-jpo-ode,jpo-security-svcs,2021-01-03,0,10,1,payneBrandon,no
-8,usdot-jpo-ode,jpo-security-svcs,2022-07-17,200,67,8,payneBrandon,no
-8,usdot-jpo-ode,jpo-security-svcs,2022-08-07,50,7,3,payneBrandon,no
-8,usdot-jpo-ode,jpo-security-svcs,2022-08-28,491,0,1,payneBrandon,no
-8,usdot-jpo-ode,jpo-security-svcs,2023-02-19,16,4,1,payneBrandon,no
 8,usdot-jpo-ode,jpo-security-svcs,2018-04-08,321,228,6,hmusavi,yes
 8,usdot-jpo-ode,jpo-security-svcs,2018-05-06,2,2,1,hmusavi,yes
 8,usdot-jpo-ode,jpo-security-svcs,2018-05-13,1,0,1,hmusavi,yes
@@ -614,6 +609,11 @@ count,org,repo,week,additions,deletions,commits,author,is a member
 8,usdot-jpo-ode,jpo-security-svcs,2018-10-14,39,9,1,hmusavi,yes
 8,usdot-jpo-ode,jpo-security-svcs,2018-11-25,6,3,2,hmusavi,yes
 8,usdot-jpo-ode,jpo-security-svcs,2018-12-16,263,3,2,hmusavi,yes
+8,usdot-jpo-ode,jpo-security-svcs,2021-01-03,0,10,1,payneBrandon,no
+8,usdot-jpo-ode,jpo-security-svcs,2022-07-17,200,67,8,payneBrandon,no
+8,usdot-jpo-ode,jpo-security-svcs,2022-08-07,50,7,3,payneBrandon,no
+8,usdot-jpo-ode,jpo-security-svcs,2022-08-28,491,0,1,payneBrandon,no
+8,usdot-jpo-ode,jpo-security-svcs,2023-02-19,16,4,1,payneBrandon,no
 9,usdot-jpo-ode,jpo-ode-scms-asn,2018-04-08,11,5,1,hmusavi,yes
 9,usdot-jpo-ode,jpo-ode-scms-asn,2016-04-10,3,1,1,fvillamor,no
 9,usdot-jpo-ode,jpo-ode-scms-asn,2016-02-07,9,17,3,aweimerskirch,no
@@ -890,6 +890,8 @@ count,org,repo,week,additions,deletions,commits,author,is a member
 17,usdot-jpo-ode,jpo-geojsonconverter,2023-01-15,1145,1199,3,iyourshaw,no
 17,usdot-jpo-ode,jpo-geojsonconverter,2023-10-22,213,23,3,iyourshaw,no
 17,usdot-jpo-ode,jpo-geojsonconverter,2023-10-29,1,1,1,iyourshaw,no
+17,usdot-jpo-ode,jpo-geojsonconverter,2023-11-05,3,0,1,iyourshaw,no
+17,usdot-jpo-ode,jpo-geojsonconverter,2023-11-26,3,1,1,iyourshaw,no
 17,usdot-jpo-ode,jpo-geojsonconverter,2022-11-06,2292,1665,2,Michael7371,no
 17,usdot-jpo-ode,jpo-geojsonconverter,2022-11-13,1375,547,8,Michael7371,no
 17,usdot-jpo-ode,jpo-geojsonconverter,2022-11-27,461,220,1,Michael7371,no
@@ -897,6 +899,7 @@ count,org,repo,week,additions,deletions,commits,author,is a member
 17,usdot-jpo-ode,jpo-geojsonconverter,2023-02-12,509,215,14,Michael7371,no
 17,usdot-jpo-ode,jpo-geojsonconverter,2023-02-19,281,90,4,Michael7371,no
 17,usdot-jpo-ode,jpo-geojsonconverter,2023-07-30,1,0,1,Michael7371,no
+17,usdot-jpo-ode,jpo-geojsonconverter,2023-11-19,6,4,1,Michael7371,no
 17,usdot-jpo-ode,jpo-geojsonconverter,2022-08-28,664,11,4,drewjj,no
 17,usdot-jpo-ode,jpo-geojsonconverter,2022-09-25,61,0,1,drewjj,no
 17,usdot-jpo-ode,jpo-geojsonconverter,2022-10-09,1699,2052,17,drewjj,no
@@ -913,6 +916,7 @@ count,org,repo,week,additions,deletions,commits,author,is a member
 17,usdot-jpo-ode,jpo-geojsonconverter,2023-05-14,9,1,1,drewjj,no
 17,usdot-jpo-ode,jpo-geojsonconverter,2023-06-18,114,63,6,drewjj,no
 17,usdot-jpo-ode,jpo-geojsonconverter,2023-09-17,96,28,5,drewjj,no
+17,usdot-jpo-ode,jpo-geojsonconverter,2023-10-29,13,0,1,drewjj,no
 18,usdot-jpo-ode,jpo-conflictmonitor,2023-10-08,30,9,1,JohnWiens,no
 18,usdot-jpo-ode,jpo-conflictmonitor,2023-10-15,20,2,1,JohnWiens,no
 18,usdot-jpo-ode,jpo-conflictmonitor,2022-10-16,1,0,1,SaikrishnaBairamoni,yes
@@ -960,6 +964,7 @@ count,org,repo,week,additions,deletions,commits,author,is a member
 18,usdot-jpo-ode,jpo-conflictmonitor,2023-10-22,1078,446,9,John-Wiens,no
 18,usdot-jpo-ode,jpo-conflictmonitor,2023-10-29,327,211,7,John-Wiens,no
 18,usdot-jpo-ode,jpo-conflictmonitor,2023-11-05,35,8,2,John-Wiens,no
+18,usdot-jpo-ode,jpo-conflictmonitor,2023-11-26,653,289,4,John-Wiens,no
 18,usdot-jpo-ode,jpo-conflictmonitor,2022-11-13,3455,1859,22,iyourshaw,no
 18,usdot-jpo-ode,jpo-conflictmonitor,2022-11-20,7,1,1,iyourshaw,no
 18,usdot-jpo-ode,jpo-conflictmonitor,2022-11-27,744,444,7,iyourshaw,no
@@ -989,7 +994,10 @@ count,org,repo,week,additions,deletions,commits,author,is a member
 18,usdot-jpo-ode,jpo-conflictmonitor,2023-10-08,142,4,2,iyourshaw,no
 18,usdot-jpo-ode,jpo-conflictmonitor,2023-10-15,976,772,10,iyourshaw,no
 18,usdot-jpo-ode,jpo-conflictmonitor,2023-10-22,319,207,4,iyourshaw,no
-18,usdot-jpo-ode,jpo-conflictmonitor,2023-10-29,153,281,8,iyourshaw,no
+18,usdot-jpo-ode,jpo-conflictmonitor,2023-10-29,472,500,12,iyourshaw,no
+18,usdot-jpo-ode,jpo-conflictmonitor,2023-11-05,8,12,1,iyourshaw,no
+18,usdot-jpo-ode,jpo-conflictmonitor,2023-11-12,5811,5673,11,iyourshaw,no
+18,usdot-jpo-ode,jpo-conflictmonitor,2023-11-26,8,18,2,iyourshaw,no
 19,usdot-jpo-ode,jpo-conflictvisualizer,2023-02-26,518,235,6,drewjj,no
 19,usdot-jpo-ode,jpo-conflictvisualizer,2023-07-30,3,0,1,Michael7371,no
 19,usdot-jpo-ode,jpo-conflictvisualizer,2023-08-13,112,86,5,Michael7371,no
@@ -1020,6 +1028,8 @@ count,org,repo,week,additions,deletions,commits,author,is a member
 19,usdot-jpo-ode,jpo-conflictvisualizer,2023-10-22,1035,51,6,jacob6838,no
 19,usdot-jpo-ode,jpo-conflictvisualizer,2023-10-29,598,409,3,jacob6838,no
 19,usdot-jpo-ode,jpo-conflictvisualizer,2023-11-05,888,639,5,jacob6838,no
+19,usdot-jpo-ode,jpo-conflictvisualizer,2023-11-12,298,63,1,jacob6838,no
+19,usdot-jpo-ode,jpo-conflictvisualizer,2023-11-19,1175,332,6,jacob6838,no
 19,usdot-jpo-ode,jpo-conflictvisualizer,2023-03-26,4425,101,9,John-Wiens,no
 19,usdot-jpo-ode,jpo-conflictvisualizer,2023-04-09,346,11,2,John-Wiens,no
 19,usdot-jpo-ode,jpo-conflictvisualizer,2023-04-23,1653,1276,4,John-Wiens,no
@@ -1044,6 +1054,7 @@ count,org,repo,week,additions,deletions,commits,author,is a member
 19,usdot-jpo-ode,jpo-conflictvisualizer,2023-10-29,201,201,6,John-Wiens,no
 19,usdot-jpo-ode,jpo-conflictvisualizer,2023-11-05,755,283,6,John-Wiens,no
 19,usdot-jpo-ode,jpo-conflictvisualizer,2023-11-12,956,292,5,John-Wiens,no
+19,usdot-jpo-ode,jpo-conflictvisualizer,2023-11-26,20,8,3,John-Wiens,no
 20,usdot-jpo-ode,jpo-cvmanager,2023-06-18,18,1,1,payneBrandon,no
 20,usdot-jpo-ode,jpo-cvmanager,2023-07-02,2,1,1,payneBrandon,no
 20,usdot-jpo-ode,jpo-cvmanager,2023-09-03,141,0,1,SaikrishnaBairamoni,yes

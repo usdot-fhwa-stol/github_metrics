@@ -1,0 +1,124 @@
+Start date,End date,Org,Repo,Path,Title,Count,Unique
+2023-11-16,2023-11-30,usdot-jpo-ode,asn1_codec,/usdot-jpo-ode/asn1_codec,usdot-jpo-ode/asn1_codec: Module to encode and decode ASN.1 streams of messag...,20,12
+2023-11-16,2023-11-30,usdot-jpo-ode,asn1_codec,/usdot-jpo-ode/asn1_codec/tree/develop/data,asn1_codec/data at develop · usdot-jpo-ode/asn1_codec · GitHub,13,2
+2023-11-16,2023-11-30,usdot-jpo-ode,asn1_codec,/usdot-jpo-ode/asn1_codec/tree/develop/src,asn1_codec/src at develop · usdot-jpo-ode/asn1_codec,10,1
+2023-11-16,2023-11-30,usdot-jpo-ode,asn1_codec,/usdot-jpo-ode/asn1_codec/pull/39,Release notes for v1.5.0 by dmccoystephenson · Pull Request #39 · usdot-jpo-o...,4,3
+2023-11-16,2023-11-30,usdot-jpo-ode,asn1_codec,/usdot-jpo-ode/asn1_codec/pull/40,Release Q3 release into master by SaikrishnaBairamoni · Pull Request #40 · us...,4,3
+2023-11-16,2023-11-30,usdot-jpo-ode,asn1_codec,/usdot-jpo-ode/asn1_codec/tree/develop,usdot-jpo-ode/asn1_codec: Module to encode and decode ASN.1 streams of messag...,4,3
+2023-11-16,2023-11-30,usdot-jpo-ode,asn1_codec,/usdot-jpo-ode/asn1_codec/blob/develop/docs/testing.md,asn1_codec/docs/testing.md at develop · usdot-jpo-ode/asn1_codec · GitHub,4,1
+2023-11-16,2023-11-30,usdot-jpo-ode,asn1_codec,/usdot-jpo-ode/asn1_codec/blob/develop/src/acm.cpp,asn1_codec/src/acm.cpp at develop · usdot-jpo-ode/asn1_codec,4,1
+2023-11-16,2023-11-30,usdot-jpo-ode,asn1_codec,/usdot-jpo-ode/asn1_codec/tree/develop/data/examples,asn1_codec/data/examples at develop · usdot-jpo-ode/asn1_codec · GitHub,4,1
+2023-11-16,2023-11-30,usdot-jpo-ode,asn1_codec,/usdot-jpo-ode/asn1_codec/tree/develop/data/unparsable,asn1_codec/data/unparsable at develop · usdot-jpo-ode/asn1_codec · GitHub,4,1
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-conflictmonitor,/usdot-jpo-ode/jpo-conflictmonitor,usdot-jpo-ode/jpo-conflictmonitor,56,5
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-conflictmonitor,/usdot-jpo-ode/jpo-conflictmonitor/pulls,Pull requests · usdot-jpo-ode/jpo-conflictmonitor,25,4
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-conflictmonitor,/usdot-jpo-ode/jpo-conflictmonitor/wiki/Test-Connection-of-Travel-Event,Test Connection of Travel Event · usdot-jpo-ode/jpo-conflictmonitor Wiki,20,2
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-conflictmonitor,/usdot-jpo-ode/jpo-conflictmonitor/wiki/Test-Spat-Broadcast-Rate-Event,Test Spat Broadcast Rate Event · usdot-jpo-ode/jpo-conflictmonitor Wiki,17,2
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-conflictmonitor,/usdot-jpo-ode/jpo-conflictmonitor/wiki,Home · usdot-jpo-ode/jpo-conflictmonitor Wiki,15,2
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-conflictmonitor,/usdot-jpo-ode/jpo-conflictmonitor/blob/develop/docs/Release_Notes.md,jpo-conflictmonitor/docs/Release_Notes.md at develop · usdot-jpo-ode/jpo-conf...,14,4
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-conflictmonitor,/usdot-jpo-ode/jpo-conflictmonitor/pull/50,Partition by intersection by iyourshaw · Pull Request #50 · usdot-jpo-ode/jpo...,12,2
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-conflictmonitor,/usdot-jpo-ode/jpo-conflictmonitor/wiki/Test-Signal-State-Events,Test Signal State Events · usdot-jpo-ode/jpo-conflictmonitor Wiki,12,2
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-conflictmonitor,/usdot-jpo-ode/jpo-conflictmonitor/tree/develop/jpo-conflictmonitor,jpo-conflictmonitor/jpo-conflictmonitor at develop · usdot-jpo-ode/jpo-confli...,10,2
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-conflictmonitor,/usdot-jpo-ode/jpo-conflictmonitor/wiki/Test-Signal-State-Conflict-Events,Test Signal State Conflict Events · usdot-jpo-ode/jpo-conflictmonitor Wiki,10,2
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-conflictvisualizer,/usdot-jpo-ode/jpo-conflictvisualizer/blob/3bee4a7982861b7dd6ab62b813f111f12f9cdeb8/docker-compose.yml,jpo-conflictvisualizer/docker-compose.yml at 3bee4a7982861b7dd6ab62b813f111f1...,14,1
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-conflictvisualizer,/usdot-jpo-ode/jpo-conflictvisualizer,usdot-jpo-ode/jpo-conflictvisualizer,10,4
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-conflictvisualizer,/usdot-jpo-ode/jpo-conflictvisualizer/pulls,Pull requests · usdot-jpo-ode/jpo-conflictvisualizer,10,2
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-conflictvisualizer,/usdot-jpo-ode/jpo-conflictvisualizer/tree/develop/keycloak,jpo-conflictvisualizer/keycloak at develop · usdot-jpo-ode/jpo-conflictvisual...,8,2
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-conflictvisualizer,/usdot-jpo-ode/jpo-conflictvisualizer/blob/develop/api/jpo-conflictvisualizer-api/src/main/java/us/dot/its/jpo/ode/api/KeycloakConfig.java,jpo-conflictvisualizer/api/jpo-conflictvisualizer-api/src/main/java/us/dot/it...,6,1
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-conflictvisualizer,/usdot-jpo-ode/jpo-conflictvisualizer/blob/develop/api/jpo-conflictvisualizer-api/src/main/java/us/dot/its/jpo/ode/mockdata/MockAssessmentGenerator.java,jpo-conflictvisualizer/api/jpo-conflictvisualizer-api/src/main/java/us/dot/it...,6,1
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-conflictvisualizer,/usdot-jpo-ode/jpo-conflictvisualizer/tree/develop/api,jpo-conflictvisualizer/api at develop · usdot-jpo-ode/jpo-conflictvisualizer,5,2
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-conflictvisualizer,/usdot-jpo-ode/jpo-conflictvisualizer/blob/develop/api/jpo-conflictvisualizer-api/src/main/java/us/dot/its/jpo/ode/api/services/EmailService.java,jpo-conflictvisualizer/api/jpo-conflictvisualizer-api/src/main/java/us/dot/it...,5,1
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-conflictvisualizer,/usdot-jpo-ode/jpo-conflictvisualizer/pull/42,Merge Q3 release into master by SaikrishnaBairamoni · Pull Request #42 · usdo...,3,2
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-conflictvisualizer,/usdot-jpo-ode/jpo-conflictvisualizer/blob/develop/api/jpo-conflictvisualizer-api/src/main/resources/application.yaml,jpo-conflictvisualizer/api/jpo-conflictvisualizer-api/src/main/resources/appl...,3,1
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-cvdp,/usdot-jpo-ode/jpo-cvdp,usdot-jpo-ode/jpo-cvdp: SUBMODULE: Connected Vehicle Data Privacy module for ...,12,4
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-cvdp,/usdot-jpo-ode/jpo-cvdp/pull/35,Merge Release Q3 into master by SaikrishnaBairamoni · Pull Request #35 · usdo...,6,3
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-cvdp,/usdot-jpo-ode/jpo-cvdp/pull/34,Release notes for v1.2.0 by dmccoystephenson · Pull Request #34 · usdot-jpo-o...,4,3
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-cvdp,/usdot-jpo-ode/jpo-cvdp/pulls,Pull requests · usdot-jpo-ode/jpo-cvdp,2,2
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-cvdp,/usdot-jpo-ode/jpo-cvdp/releases/tag/jpo-cvdp-1.2.0,Release jpo-cvdp-1.2.0 · usdot-jpo-ode/jpo-cvdp,2,2
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-cvdp,/usdot-jpo-ode/jpo-cvdp/blob/develop/src/general-redaction/rapidjsonRedactor.cpp,jpo-cvdp/src/general-redaction/rapidjsonRedactor.cpp at develop · usdot-jpo-o...,2,1
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-cvdp,/usdot-jpo-ode/jpo-cvdp/tree/develop/src,jpo-cvdp/src at develop · usdot-jpo-ode/jpo-cvdp,2,1
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-cvdp,/usdot-jpo-ode/jpo-cvdp/tree/develop/src/general-redaction,jpo-cvdp/src/general-redaction at develop · usdot-jpo-ode/jpo-cvdp,2,1
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-cvdp,/usdot-jpo-ode/jpo-cvdp/compare,Compare · usdot-jpo-ode/jpo-cvdp,1,1
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-cvdp,/usdot-jpo-ode/jpo-cvdp/compare/develop...release_q3,Comparing develop...release_q3 · usdot-jpo-ode/jpo-cvdp,1,1
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-cvmanager,/usdot-jpo-ode/jpo-cvmanager,usdot-jpo-ode/jpo-cvmanager,4,3
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-cvmanager,/usdot-jpo-ode/jpo-cvmanager/pull/7,Merge Q3 release into master by SaikrishnaBairamoni · Pull Request #7 · usdot...,3,2
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-cvmanager,/usdot-jpo-ode/jpo-cvmanager/compare,Compare · usdot-jpo-ode/jpo-cvmanager,1,1
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-cvmanager,/usdot-jpo-ode/jpo-cvmanager/compare/develop...release_q3,Comparing develop...release_q3 · usdot-jpo-ode/jpo-cvmanager,1,1
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-cvmanager,/usdot-jpo-ode/jpo-cvmanager/compare/master...release_q3,Comparing master...release_q3 · usdot-jpo-ode/jpo-cvmanager,1,1
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-cvmanager,/usdot-jpo-ode/jpo-cvmanager/pull/7/files,Merge Q3 release into master by SaikrishnaBairamoni · Pull Request #7 · usdot...,1,1
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-cvmanager,/usdot-jpo-ode/jpo-cvmanager/pulls,Pull requests · usdot-jpo-ode/jpo-cvmanager,1,1
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-cvmanager,/usdot-jpo-ode/jpo-cvmanager/releases,Releases · usdot-jpo-ode/jpo-cvmanager,1,1
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-cvmanager,/usdot-jpo-ode/jpo-cvmanager/releases/new,New release · usdot-jpo-ode/jpo-cvmanager,1,1
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-cvmanager,/usdot-jpo-ode/jpo-cvmanager/releases/tag/jpo-cvmanager-1.0.1,Release jpo-cvmanager-1.0.1 · usdot-jpo-ode/jpo-cvmanager,1,1
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-geojsonconverter,/usdot-jpo-ode/jpo-geojsonconverter,usdot-jpo-ode/jpo-geojsonconverter,15,4
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-geojsonconverter,/usdot-jpo-ode/jpo-geojsonconverter/pulls,Pull requests · usdot-jpo-ode/jpo-geojsonconverter,11,4
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-geojsonconverter,/usdot-jpo-ode/jpo-geojsonconverter/pull/38,Release Notes version 1.1.0 by drewjj · Pull Request #38 · usdot-jpo-ode/jpo-...,7,4
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-geojsonconverter,/usdot-jpo-ode/jpo-geojsonconverter/pull/40,Merge Q3 release into master by SaikrishnaBairamoni · Pull Request #40 · usdo...,4,2
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-geojsonconverter,/usdot-jpo-ode/jpo-geojsonconverter/tree/release_q3,usdot-jpo-ode/jpo-geojsonconverter at release_q3,4,1
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-geojsonconverter,/usdot-jpo-ode/jpo-geojsonconverter/pull/37,Partition by intersection by iyourshaw · Pull Request #37 · usdot-jpo-ode/jpo...,3,2
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-geojsonconverter,/usdot-jpo-ode/jpo-geojsonconverter/pull/38/files,Release Notes version 1.1.0 by drewjj · Pull Request #38 · usdot-jpo-ode/jpo-...,3,2
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-geojsonconverter,/usdot-jpo-ode/jpo-geojsonconverter/compare,Compare · usdot-jpo-ode/jpo-geojsonconverter,2,2
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-geojsonconverter,/usdot-jpo-ode/jpo-geojsonconverter/issues,Issues · usdot-jpo-ode/jpo-geojsonconverter,2,1
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-geojsonconverter,/usdot-jpo-ode/jpo-geojsonconverter/pull/32,Remove MongoDB dependency by iyourshaw · Pull Request #32 · usdot-jpo-ode/jpo...,2,1
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-ode,/usdot-jpo-ode/jpo-ode,usdot-jpo-ode/jpo-ode: US Department of Transportation (USDOT) Intelligent Tr...,49,23
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-ode,/usdot-jpo-ode/jpo-ode/pulls,Pull requests · usdot-jpo-ode/jpo-ode,6,4
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-ode,/usdot-jpo-ode/jpo-ode/pull/523,Merge Q3 release into master by SaikrishnaBairamoni · Pull Request #523 · usd...,6,3
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-ode,/usdot-jpo-ode/jpo-ode/blob/develop/jpo-ode-core/src/main/resources/schemas/schema-bsm.json,jpo-ode/jpo-ode-core/src/main/resources/schemas/schema-bsm.json at develop · ...,6,1
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-ode,/usdot-jpo-ode/jpo-ode/pull/520,Release notes for v1.5.0 by dmccoystephenson · Pull Request #520 · usdot-jpo-...,5,3
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-ode,/usdot-jpo-ode/jpo-ode/blob/develop/road_file.csv,jpo-ode/road_file.csv at develop · usdot-jpo-ode/jpo-ode · GitHub,5,1
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-ode,/usdot-jpo-ode/jpo-ode/blob/develop/sample.env,jpo-ode/sample.env at develop · usdot-jpo-ode/jpo-ode · GitHub,4,2
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-ode,/usdot-jpo-ode/jpo-ode/pull/522,PSM Data Feed Support & DockerHub Documentation by dmccoystephenson · Pull Re...,4,2
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-ode,/usdot-jpo-ode/jpo-ode/tree/develop/jpo-ode-core/src/main/resources/schemas,jpo-ode/jpo-ode-core/src/main/resources/schemas at develop · usdot-jpo-ode/jp...,4,1
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-ode,/usdot-jpo-ode/jpo-ode/releases/tag/jpo-ode-1.5.0,Release jpo-ode-1.5.0 · usdot-jpo-ode/jpo-ode,3,3
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-s3-deposit,/usdot-jpo-ode/jpo-s3-deposit,usdot-jpo-ode/jpo-s3-deposit: SUBMODULE: Generic Kafka stream to S3 depositin...,7,3
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-s3-deposit,/usdot-jpo-ode/jpo-s3-deposit/pull/49,Release notes for v1.3.0 by dmccoystephenson · Pull Request #49 · usdot-jpo-o...,4,3
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-s3-deposit,/usdot-jpo-ode/jpo-s3-deposit/pull/51,Merge Q3 release branch into master by SaikrishnaBairamoni · Pull Request #51...,4,3
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-s3-deposit,/usdot-jpo-ode/jpo-s3-deposit/pulls,Pull requests · usdot-jpo-ode/jpo-s3-deposit,2,2
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-s3-deposit,/usdot-jpo-ode/jpo-s3-deposit/releases/tag/jpo-s3-deposit-1.3.0,Release jpo-s3-deposit-1.3.0 · usdot-jpo-ode/jpo-s3-deposit,2,2
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-s3-deposit,/usdot-jpo-ode/jpo-s3-deposit/compare,Compare · usdot-jpo-ode/jpo-s3-deposit,1,1
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-s3-deposit,/usdot-jpo-ode/jpo-s3-deposit/compare/develop...release_q3,Comparing develop...release_q3 · usdot-jpo-ode/jpo-s3-deposit,1,1
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-s3-deposit,/usdot-jpo-ode/jpo-s3-deposit/compare/master...release_q3,Comparing master...release_q3 · usdot-jpo-ode/jpo-s3-deposit,1,1
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-s3-deposit,/usdot-jpo-ode/jpo-s3-deposit/pull/49/files,Release notes for v1.3.0 by dmccoystephenson · Pull Request #49 · usdot-jpo-o...,1,1
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-s3-deposit,/usdot-jpo-ode/jpo-s3-deposit/pull/51/files,Merge Q3 release branch into master by SaikrishnaBairamoni · Pull Request #51...,1,1
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-sdw-depositor,/usdot-jpo-ode/jpo-sdw-depositor,usdot-jpo-ode/jpo-sdw-depositor: Subscribes to a Kafka topic and deposits mes...,9,4
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-sdw-depositor,/usdot-jpo-ode/jpo-sdw-depositor/forks,Forks · usdot-jpo-ode/jpo-sdw-depositor,4,3
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-sdw-depositor,/usdot-jpo-ode/jpo-sdw-depositor/pull/26,Release notes for v1.5.0 by dmccoystephenson · Pull Request #26 · usdot-jpo-o...,4,3
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-sdw-depositor,/usdot-jpo-ode/jpo-sdw-depositor/pull/28,Merge Q3 Release into master by SaikrishnaBairamoni · Pull Request #28 · usdo...,4,3
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-sdw-depositor,/usdot-jpo-ode/jpo-sdw-depositor/releases/tag/jpo-sdw-depositor-1.5.0,Release jpo-sdw-depositor-1.5.0 · usdot-jpo-ode/jpo-sdw-depositor,3,2
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-sdw-depositor,/usdot-jpo-ode/jpo-sdw-depositor/pulls,Pull requests · usdot-jpo-ode/jpo-sdw-depositor,2,2
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-sdw-depositor,/usdot-jpo-ode/jpo-sdw-depositor/tree/00c070fd65d4b2e680d359e08f1ad091ff99d33a,GitHub - usdot-jpo-ode/jpo-sdw-depositor at 00c070fd65d4b2e680d359e08f1ad091f...,2,2
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-sdw-depositor,/usdot-jpo-ode/jpo-sdw-depositor/compare,Compare · usdot-jpo-ode/jpo-sdw-depositor,1,1
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-sdw-depositor,/usdot-jpo-ode/jpo-sdw-depositor/compare/develop...release_q3,Comparing develop...release_q3 · usdot-jpo-ode/jpo-sdw-depositor,1,1
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-sdw-depositor,/usdot-jpo-ode/jpo-sdw-depositor/compare/master...release_q3,Comparing master...release_q3 · usdot-jpo-ode/jpo-sdw-depositor,1,1
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-security-svcs,/usdot-jpo-ode/jpo-security-svcs,usdot-jpo-ode/jpo-security-svcs: This module exposes a RESTful API for perfor...,5,2
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-security-svcs,/usdot-jpo-ode/jpo-security-svcs/pull/23,Merge Q3 release into master by SaikrishnaBairamoni · Pull Request #23 · usdo...,4,3
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-security-svcs,/usdot-jpo-ode/jpo-security-svcs/pulls,Pull requests · usdot-jpo-ode/jpo-security-svcs,2,2
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-security-svcs,/usdot-jpo-ode/jpo-security-svcs/compare,Compare · usdot-jpo-ode/jpo-security-svcs,1,1
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-security-svcs,/usdot-jpo-ode/jpo-security-svcs/compare/develop...release_q3,Comparing develop...release_q3 · usdot-jpo-ode/jpo-security-svcs,1,1
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-security-svcs,/usdot-jpo-ode/jpo-security-svcs/compare/master...release_q3,Comparing master...release_q3 · usdot-jpo-ode/jpo-security-svcs,1,1
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-security-svcs,/usdot-jpo-ode/jpo-security-svcs/pull/23/files,Merge Q3 release into master by SaikrishnaBairamoni · Pull Request #23 · usdo...,1,1
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-security-svcs,/usdot-jpo-ode/jpo-security-svcs/releases,Releases · usdot-jpo-ode/jpo-security-svcs,1,1
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-security-svcs,/usdot-jpo-ode/jpo-security-svcs/releases/new,New release · usdot-jpo-ode/jpo-security-svcs,1,1
+2023-11-16,2023-11-30,usdot-jpo-ode,jpo-security-svcs,/usdot-jpo-ode/jpo-security-svcs/releases/tag/jpo-security-svcs-1.2.1,Release jpo-security-svcs-1.2.1 · usdot-jpo-ode/jpo-security-svcs,1,1
+2023-11-16,2023-11-30,usdot-jpo-ode,scms-asn1,/usdot-jpo-ode/scms-asn1/tree/887b9c218ba90e89d623727c28fb32e45353fe3e,usdot-jpo-ode/scms-asn1 at 887b9c218ba90e89d623727c28fb32e45353fe3e,5,2
+2023-11-16,2023-11-30,usdot-jpo-ode,scms-asn1,/usdot-jpo-ode/scms-asn1/blob/master/psid-and-ssps.txt,scms-asn1/psid-and-ssps.txt at master · usdot-jpo-ode/scms-asn1 · GitHub,4,1
+2023-11-16,2023-11-30,usdot-jpo-ode,scms-asn1,/usdot-jpo-ode/scms-asn1/blob/master/1609dot2-asn/Guidance-Notes/1609.2-Guidance-Note-9-v0.1-20170207.pdf,scms-asn1/1609dot2-asn/Guidance-Notes/1609.2-Guidance-Note-9-v0.1-20170207.pd...,2,1
+2023-11-16,2023-11-30,usdot-jpo-ode,scms-asn1,/usdot-jpo-ode/scms-asn1/blob/master/1609dot2-asn/wsa-protocol.asn,scms-asn1/1609dot2-asn/wsa-protocol.asn at master · usdot-jpo-ode/scms-asn1 ·...,2,1
+2023-11-16,2023-11-30,usdot-jpo-ode,scms-asn1,/usdot-jpo-ode/scms-asn1/tree/master/1609dot2-asn,scms-asn1/1609dot2-asn at master · usdot-jpo-ode/scms-asn1 · GitHub,2,1
+2023-11-16,2023-11-30,usdot-jpo-ode,scms-asn1,/usdot-jpo-ode/scms-asn1/tree/master/1609dot2-asn/Guidance-Notes,scms-asn1/1609dot2-asn/Guidance-Notes at master · usdot-jpo-ode/scms-asn1 · G...,2,1
+2023-11-16,2023-11-30,usdot-jpo-ode,scms-asn1,/usdot-jpo-ode/scms-asn1/tree/master/docs,scms-asn1/docs at master · usdot-jpo-ode/scms-asn1 · GitHub,2,1
+2023-11-16,2023-11-30,usdot-jpo-ode,scms-asn1,/usdot-jpo-ode/scms-asn1,usdot-jpo-ode/scms-asn1: This repository contains the ASN.1 definitions for d...,1,1
+2023-11-16,2023-11-30,usdot-jpo-ode,TDx,/usdot-jpo-ode/TDx,usdot-jpo-ode/TDx: Transportation Data Exchanges,8,8
+2023-11-16,2023-11-30,usdot-jpo-ode,TDx,/usdot-jpo-ode/TDx/blob/main/spec-content/objects/RoadRestrictionFeed.md,TDx/spec-content/objects/RoadRestrictionFeed.md at main · usdot-jpo-ode/TDx ·...,4,2
+2023-11-16,2023-11-30,usdot-jpo-ode,TDx,/usdot-jpo-ode/tdx,GitHub - usdot-jpo-ode/TDx: Transportation Data Exchanges,2,2
+2023-11-16,2023-11-30,usdot-jpo-ode,TDx,/usdot-jpo-ode/TDx/blob/main/spec-content/enumerated-types/RestrictionType.md,TDx/spec-content/enumerated-types/RestrictionType.md at main · usdot-jpo-ode/...,2,1
+2023-11-16,2023-11-30,usdot-jpo-ode,TDx,/usdot-jpo-ode/TDx/tree/main/spec-content,TDx/spec-content at main · usdot-jpo-ode/TDx · GitHub,2,1
+2023-11-16,2023-11-30,usdot-jpo-ode,wzdx,/usdot-jpo-ode/wzdx,usdot-jpo-ode/wzdx: The Work Zone Data Exchange (WZDx) Specification aims to ...,121,77
+2023-11-16,2023-11-30,usdot-jpo-ode,wzdx,/usdot-jpo-ode/wzdx/blob/main/README.md,wzdx/README.md at main · usdot-jpo-ode/wzdx · GitHub,104,32
+2023-11-16,2023-11-30,usdot-jpo-ode,wzdx,/usdot-jpo-ode/wzdx/blob/main/spec-content/objects/WorkZoneRoadEvent.md,wzdx/spec-content/objects/WorkZoneRoadEvent.md at main · usdot-jpo-ode/wzdx ·...,98,21
+2023-11-16,2023-11-30,usdot-jpo-ode,wzdx,/usdot-jpo-ode/wzdx/tree/main/spec-content,wzdx/spec-content at main · usdot-jpo-ode/wzdx · GitHub,48,11
+2023-11-16,2023-11-30,usdot-jpo-ode,wzdx,/usdot-jpo-ode/wzdx/blob/main/spec-content/objects/RoadEventFeature.md,wzdx/spec-content/objects/RoadEventFeature.md at main · usdot-jpo-ode/wzdx · ...,47,11
+2023-11-16,2023-11-30,usdot-jpo-ode,wzdx,/usdot-jpo-ode/wzdx/blob/main/spec-content/objects/RoadEventCoreDetails.md,wzdx/spec-content/objects/RoadEventCoreDetails.md at main · usdot-jpo-ode/wzd...,46,9
+2023-11-16,2023-11-30,usdot-jpo-ode,wzdx,/usdot-jpo-ode/wzdx/blob/main/Creating_a_WZDx_Feed.md,wzdx/Creating_a_WZDx_Feed.md at main · usdot-jpo-ode/wzdx · GitHub,43,13
+2023-11-16,2023-11-30,usdot-jpo-ode,wzdx,/usdot-jpo-ode/wzdx/blob/main/spec-content/objects/FieldDeviceFeature.md,wzdx/spec-content/objects/FieldDeviceFeature.md at main · usdot-jpo-ode/wzdx ...,39,10
+2023-11-16,2023-11-30,usdot-jpo-ode,wzdx,/usdot-jpo-ode/wzdx/tree/main/examples,wzdx/examples at main · usdot-jpo-ode/wzdx · GitHub,37,12
+2023-11-16,2023-11-30,usdot-jpo-ode,wzdx,/usdot-jpo-ode/wzdx/tree/main/documents,wzdx/documents at main · usdot-jpo-ode/wzdx · GitHub,35,9
