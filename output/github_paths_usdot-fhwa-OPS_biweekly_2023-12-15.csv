@@ -1,0 +1,11 @@
+Start date,End date,Org,Repo,Path,Title,Count,Unique
+2023-11-30,2023-12-14,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub,usdot-fhwa-OPS/V2X-Hub: V2X Hub is a message handler that acts as a translato...,118,54
+2023-11-30,2023-12-14,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/tree/develop/src,V2X-Hub/src at develop · usdot-fhwa-OPS/V2X-Hub · GitHub,34,5
+2023-11-30,2023-12-14,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/tree/develop/src/v2i-hub,V2X-Hub/src/v2i-hub at develop · usdot-fhwa-OPS/V2X-Hub · GitHub,32,5
+2023-11-30,2023-12-14,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/pulls,Pull requests · usdot-fhwa-OPS/V2X-Hub · GitHub,19,5
+2023-11-30,2023-12-14,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/blob/develop/docs/Release_notes.md,V2X-Hub/docs/Release_notes.md at develop · usdot-fhwa-OPS/V2X-Hub · GitHub,17,7
+2023-11-30,2023-12-14,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/tree/2023-upgrade/src/tmx/Asn_J2735,V2X-Hub/src/tmx/Asn_J2735 at 2023-upgrade · usdot-fhwa-OPS/V2X-Hub,16,1
+2023-11-30,2023-12-14,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/pull/569,Telematic bridge: Fix available topic return null value in topics field when ...,14,5
+2023-11-30,2023-12-14,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/tree/develop/src/v2i-hub/CDASimAdapter,V2X-Hub/src/v2i-hub/CDASimAdapter at develop · usdot-fhwa-OPS/V2X-Hub,14,2
+2023-11-30,2023-12-14,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/tree/develop/docs,V2X-Hub/docs at develop · usdot-fhwa-OPS/V2X-Hub · GitHub,13,5
+2023-11-30,2023-12-14,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/tree/develop/.github/workflows,V2X-Hub/.github/workflows at develop · usdot-fhwa-OPS/V2X-Hub · GitHub,13,2
