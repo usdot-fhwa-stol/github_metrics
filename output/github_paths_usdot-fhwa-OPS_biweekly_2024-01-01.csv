@@ -1,0 +1,11 @@
+Start date,End date,Org,Repo,Path,Title,Count,Unique
+2023-12-17,2023-12-31,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub,usdot-fhwa-OPS/V2X-Hub: V2X Hub is a message handler that acts as a translato...,104,63
+2023-12-17,2023-12-31,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/tree/develop/src,V2X-Hub/src at develop · usdot-fhwa-OPS/V2X-Hub · GitHub,36,13
+2023-12-17,2023-12-31,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/tree/develop/configuration/amd64,V2X-Hub/configuration/amd64 at develop · usdot-fhwa-OPS/V2X-Hub · GitHub,26,2
+2023-12-17,2023-12-31,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/tree/develop/src/v2i-hub,V2X-Hub/src/v2i-hub at develop · usdot-fhwa-OPS/V2X-Hub · GitHub,23,10
+2023-12-17,2023-12-31,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/tree/develop,V2X-Hub/ at develop · usdot-fhwa-OPS/V2X-Hub · GitHub,22,8
+2023-12-17,2023-12-31,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/blob/develop/docs/Docker_Instructions.md,V2X-Hub/docs/Docker_Instructions.md at develop · usdot-fhwa-OPS/V2X-Hub · Git...,18,3
+2023-12-17,2023-12-31,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/blob/develop/configuration/amd64/docker-compose.yml,V2X-Hub/configuration/amd64/docker-compose.yml at develop · usdot-fhwa-OPS/V2...,18,2
+2023-12-17,2023-12-31,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/blob/40d8b14e4d460e8e1c03e5f2d672b4f621fd34bd/src/v2i-hub/SpatPlugin/src/NTCIP1202.cpp,V2X-Hub/src/v2i-hub/SpatPlugin/src/NTCIP1202.cpp at 40d8b14e4d460e8e1c03e5f2d...,16,3
+2023-12-17,2023-12-31,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/tree/develop/src/tmx,V2X-Hub/src/tmx at develop · usdot-fhwa-OPS/V2X-Hub · GitHub,14,5
+2023-12-17,2023-12-31,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/tree/develop/configuration,V2X-Hub/configuration at develop · usdot-fhwa-OPS/V2X-Hub · GitHub,14,4
