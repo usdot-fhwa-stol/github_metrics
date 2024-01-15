@@ -1,13 +1,13 @@
 count,org,repo,week,additions,deletions,commits,author,is a member
-1,usdot-fhwa-OPS,V2X-Hub,2023-07-02,69,4,1,gainesaw,no
-1,usdot-fhwa-OPS,V2X-Hub,2023-04-09,107,25,1,MishkaMN,yes
-1,usdot-fhwa-OPS,V2X-Hub,2022-02-20,74,58,1,ajloughr-leidos,yes
-1,usdot-fhwa-OPS,V2X-Hub,2021-01-03,45,55,1,afrye51,no
 1,usdot-fhwa-OPS,V2X-Hub,2019-05-19,3,1,1,MatthewJMcAllister,no
-1,usdot-fhwa-OPS,V2X-Hub,2023-08-27,661,1,1,willjohnsonk,no
-1,usdot-fhwa-OPS,V2X-Hub,2023-09-10,728,21,1,willjohnsonk,no
+1,usdot-fhwa-OPS,V2X-Hub,2022-02-20,74,58,1,ajloughr-leidos,yes
+1,usdot-fhwa-OPS,V2X-Hub,2023-04-09,107,25,1,MishkaMN,yes
+1,usdot-fhwa-OPS,V2X-Hub,2023-07-02,69,4,1,gainesaw,no
+1,usdot-fhwa-OPS,V2X-Hub,2021-01-03,45,55,1,afrye51,no
 1,usdot-fhwa-OPS,V2X-Hub,2022-11-27,1,1,1,saina-ramyar,no
 1,usdot-fhwa-OPS,V2X-Hub,2023-04-09,128,10,1,saina-ramyar,no
+1,usdot-fhwa-OPS,V2X-Hub,2023-08-27,661,1,1,willjohnsonk,no
+1,usdot-fhwa-OPS,V2X-Hub,2023-09-10,728,21,1,willjohnsonk,no
 1,usdot-fhwa-OPS,V2X-Hub,2022-10-30,4,2,1,oschwartz10612,no
 1,usdot-fhwa-OPS,V2X-Hub,2022-12-25,8,3,1,oschwartz10612,no
 1,usdot-fhwa-OPS,V2X-Hub,2022-03-27,1,1,1,dependabot[bot],no
@@ -224,6 +224,7 @@ count,org,repo,week,additions,deletions,commits,author,is a member
 1,usdot-fhwa-OPS,V2X-Hub,2023-08-20,17,30,1,paulbourelly999,yes
 1,usdot-fhwa-OPS,V2X-Hub,2023-09-03,11,2,1,paulbourelly999,yes
 1,usdot-fhwa-OPS,V2X-Hub,2023-12-17,940,429,2,paulbourelly999,yes
+1,usdot-fhwa-OPS,V2X-Hub,2024-01-07,4,4,1,paulbourelly999,yes
 1,usdot-fhwa-OPS,V2X-Hub,2019-09-29,0,297125,1,arayama,yes
 1,usdot-fhwa-OPS,V2X-Hub,2019-10-13,10,5,1,arayama,yes
 1,usdot-fhwa-OPS,V2X-Hub,2019-11-03,148,98,7,arayama,yes
