@@ -412,6 +412,8 @@ count,org,repo,week,additions,deletions,commits,author,is a member
 3,usdot-fhwa-stol,carma-platform,2024-01-07,193,40,14,adamlm,yes
 3,usdot-fhwa-stol,carma-platform,2024-01-14,132,34,3,adamlm,yes
 3,usdot-fhwa-stol,carma-platform,2024-01-21,54,8,1,adamlm,yes
+3,usdot-fhwa-stol,carma-platform,2024-02-04,173,5,5,adamlm,yes
+3,usdot-fhwa-stol,carma-platform,2024-02-11,99,0,1,adamlm,yes
 3,usdot-fhwa-stol,carma-platform,2020-03-08,43,27,1,msmcconnell,no
 3,usdot-fhwa-stol,carma-platform,2020-03-15,90,6144,2,msmcconnell,no
 3,usdot-fhwa-stol,carma-platform,2020-03-22,806,9208,4,msmcconnell,no
@@ -622,6 +624,7 @@ count,org,repo,week,additions,deletions,commits,author,is a member
 3,usdot-fhwa-stol,carma-platform,2023-08-13,28,44,2,JonSmet,yes
 3,usdot-fhwa-stol,carma-platform,2023-08-20,43,42,4,JonSmet,yes
 3,usdot-fhwa-stol,carma-platform,2023-11-12,53,8,4,JonSmet,yes
+3,usdot-fhwa-stol,carma-platform,2024-02-04,43,24,2,JonSmet,yes
 3,usdot-fhwa-stol,carma-platform,2017-07-16,162,0,1,maefromm,yes
 3,usdot-fhwa-stol,carma-platform,2017-08-06,5860,1300,16,maefromm,yes
 3,usdot-fhwa-stol,carma-platform,2017-08-13,2056,1976,5,maefromm,yes
@@ -2167,9 +2170,9 @@ count,org,repo,week,additions,deletions,commits,author,is a member
 18,usdot-fhwa-stol,carma-base,2023-01-01,2,2,1,codygarver,no
 18,usdot-fhwa-stol,carma-base,2023-02-05,16,32,2,codygarver,no
 19,usdot-fhwa-stol,carma-config,2019-09-08,28,29,1,icolwell-as,no
-19,usdot-fhwa-stol,carma-config,2020-12-06,9,9,1,snallamothu,yes
 19,usdot-fhwa-stol,carma-config,2023-11-05,29,1,1,davidgayman,yes
 19,usdot-fhwa-stol,carma-config,2023-09-24,16,8,1,afrye51,yes
+19,usdot-fhwa-stol,carma-config,2020-12-06,9,9,1,snallamothu,yes
 19,usdot-fhwa-stol,carma-config,2021-01-31,19,5,1,itabr,no
 19,usdot-fhwa-stol,carma-config,2020-07-26,21,17,1,STOL-CARMA,yes
 19,usdot-fhwa-stol,carma-config,2020-09-27,33,1,1,STOL-CARMA,yes
@@ -2201,14 +2204,6 @@ count,org,repo,week,additions,deletions,commits,author,is a member
 19,usdot-fhwa-stol,carma-config,2021-02-07,1,1,1,lewisid,no
 19,usdot-fhwa-stol,carma-config,2021-03-28,18,0,1,lewisid,no
 19,usdot-fhwa-stol,carma-config,2021-08-22,31,0,1,lewisid,no
-19,usdot-fhwa-stol,carma-config,2023-05-21,56,28,1,paulbourelly999,yes
-19,usdot-fhwa-stol,carma-config,2023-08-06,3,1,1,paulbourelly999,yes
-19,usdot-fhwa-stol,carma-config,2023-08-13,2,2,1,paulbourelly999,yes
-19,usdot-fhwa-stol,carma-config,2023-09-03,8,8,1,paulbourelly999,yes
-19,usdot-fhwa-stol,carma-config,2023-09-10,4,3,1,paulbourelly999,yes
-19,usdot-fhwa-stol,carma-config,2024-01-07,387802,22,1,paulbourelly999,yes
-19,usdot-fhwa-stol,carma-config,2024-01-14,1,1,1,paulbourelly999,yes
-19,usdot-fhwa-stol,carma-config,2024-01-28,10,3,1,paulbourelly999,yes
 19,usdot-fhwa-stol,carma-config,2021-07-25,636,0,1,adamlm,yes
 19,usdot-fhwa-stol,carma-config,2021-08-01,1,1,1,adamlm,yes
 19,usdot-fhwa-stol,carma-config,2021-08-08,16,1,1,adamlm,yes
@@ -2224,6 +2219,15 @@ count,org,repo,week,additions,deletions,commits,author,is a member
 19,usdot-fhwa-stol,carma-config,2020-04-05,22,10,3,aswath1,no
 19,usdot-fhwa-stol,carma-config,2022-07-31,124,57,1,aswath1,no
 19,usdot-fhwa-stol,carma-config,2022-08-21,9,0,1,aswath1,no
+19,usdot-fhwa-stol,carma-config,2023-05-21,56,28,1,paulbourelly999,yes
+19,usdot-fhwa-stol,carma-config,2023-08-06,3,1,1,paulbourelly999,yes
+19,usdot-fhwa-stol,carma-config,2023-08-13,2,2,1,paulbourelly999,yes
+19,usdot-fhwa-stol,carma-config,2023-09-03,8,8,1,paulbourelly999,yes
+19,usdot-fhwa-stol,carma-config,2023-09-10,4,3,1,paulbourelly999,yes
+19,usdot-fhwa-stol,carma-config,2024-01-07,387802,22,1,paulbourelly999,yes
+19,usdot-fhwa-stol,carma-config,2024-01-14,1,1,1,paulbourelly999,yes
+19,usdot-fhwa-stol,carma-config,2024-01-28,12,3,2,paulbourelly999,yes
+19,usdot-fhwa-stol,carma-config,2024-02-04,35,8,2,paulbourelly999,yes
 19,usdot-fhwa-stol,carma-config,2020-06-14,524,0,1,fangzhou1227,no
 19,usdot-fhwa-stol,carma-config,2020-06-28,1,1,1,fangzhou1227,no
 19,usdot-fhwa-stol,carma-config,2020-07-05,58,18,3,fangzhou1227,no
@@ -2287,6 +2291,7 @@ count,org,repo,week,additions,deletions,commits,author,is a member
 19,usdot-fhwa-stol,carma-config,2023-12-03,892,388208,3,MishkaMN,yes
 19,usdot-fhwa-stol,carma-config,2024-01-07,387802,22,1,MishkaMN,yes
 19,usdot-fhwa-stol,carma-config,2024-01-14,22,16,3,MishkaMN,yes
+19,usdot-fhwa-stol,carma-config,2024-02-04,225,195,1,MishkaMN,yes
 19,usdot-fhwa-stol,carma-config,2022-01-02,30,18,2,chengyuan0124,yes
 19,usdot-fhwa-stol,carma-config,2022-04-17,854,0,1,chengyuan0124,yes
 19,usdot-fhwa-stol,carma-config,2022-10-30,39,86,6,chengyuan0124,yes
@@ -2774,6 +2779,8 @@ count,org,repo,week,additions,deletions,commits,author,is a member
 25,usdot-fhwa-stol,cdasim,2024-01-07,98,1982,3,paulbourelly999,yes
 25,usdot-fhwa-stol,cdasim,2024-01-14,128,161,1,paulbourelly999,yes
 25,usdot-fhwa-stol,cdasim,2024-01-21,18,22,1,paulbourelly999,yes
+25,usdot-fhwa-stol,cdasim,2024-02-04,21,9,1,paulbourelly999,yes
+25,usdot-fhwa-stol,cdasim,2024-02-11,9,7,1,paulbourelly999,yes
 25,usdot-fhwa-stol,cdasim,2021-10-17,33,8,1,chengyuan0124,yes
 25,usdot-fhwa-stol,cdasim,2021-10-24,118,5,4,chengyuan0124,yes
 25,usdot-fhwa-stol,cdasim,2021-10-31,100,7,2,chengyuan0124,yes
@@ -3028,6 +3035,7 @@ count,org,repo,week,additions,deletions,commits,author,is a member
 30,usdot-fhwa-stol,carma-streets,2023-12-31,24,0,1,paulbourelly999,yes
 30,usdot-fhwa-stol,carma-streets,2024-01-21,72,54,4,paulbourelly999,yes
 30,usdot-fhwa-stol,carma-streets,2024-01-28,136,18,1,paulbourelly999,yes
+30,usdot-fhwa-stol,carma-streets,2024-02-04,20,0,1,paulbourelly999,yes
 31,usdot-fhwa-stol,c1t_vesc_driver,2021-06-27,1,0,1,SaikrishnaBairamoni,yes
 31,usdot-fhwa-stol,c1t_vesc_driver,2021-06-20,372,6,4,adamlm,yes
 31,usdot-fhwa-stol,c1t_vesc_driver,2021-06-27,864,406,10,adamlm,yes
@@ -3646,6 +3654,7 @@ count,org,repo,week,additions,deletions,commits,author,is a member
 42,usdot-fhwa-stol,cda-telematics,2023-12-24,25645,15143,1,dan-du-car,yes
 42,usdot-fhwa-stol,cda-telematics,2024-01-14,799,45595,1,dan-du-car,yes
 42,usdot-fhwa-stol,cda-telematics,2024-01-21,81,73,1,dan-du-car,yes
+42,usdot-fhwa-stol,cda-telematics,2024-02-04,1431,85,1,dan-du-car,yes
 43,usdot-fhwa-stol,carma-carla-integration,2023-10-29,3,11,1,saina-ramyar,yes
 43,usdot-fhwa-stol,carma-carla-integration,2022-06-12,1352,1151,3,kjrush,yes
 43,usdot-fhwa-stol,carma-carla-integration,2022-08-21,10,8,1,kjrush,yes
@@ -3763,6 +3772,7 @@ count,org,repo,week,additions,deletions,commits,author,is a member
 44,usdot-fhwa-stol,github_metrics,2023-12-10,1854,559,1,SaikrishnaBairamoni,yes
 44,usdot-fhwa-stol,github_metrics,2023-12-31,1828,573,2,SaikrishnaBairamoni,yes
 44,usdot-fhwa-stol,github_metrics,2024-01-14,3334,1783,1,SaikrishnaBairamoni,yes
+44,usdot-fhwa-stol,github_metrics,2024-01-28,1654,161,1,SaikrishnaBairamoni,yes
 44,usdot-fhwa-stol,github_metrics,2017-06-25,1,0,1,gomesfernanda,no
 44,usdot-fhwa-stol,github_metrics,2017-07-02,177,5,4,gomesfernanda,no
 44,usdot-fhwa-stol,github_metrics,2017-08-20,60,32,3,gomesfernanda,no
@@ -3927,6 +3937,7 @@ count,org,repo,week,additions,deletions,commits,author,is a member
 60,usdot-fhwa-stol,ns3-federate,2023-10-08,46,46,2,chengyuan0124,yes
 60,usdot-fhwa-stol,ns3-federate,2023-12-31,513,289,19,chengyuan0124,yes
 60,usdot-fhwa-stol,ns3-federate,2024-01-14,10,11,4,chengyuan0124,yes
+60,usdot-fhwa-stol,ns3-federate,2024-02-04,5,3,5,chengyuan0124,yes
 61,usdot-fhwa-stol,ns-3_c-v2x,2010-03-28,0,0,1,aachurin,no
 61,usdot-fhwa-stol,ns-3_c-v2x,2009-01-04,0,0,1,smunix,no
 61,usdot-fhwa-stol,ns-3_c-v2x,2017-01-22,0,0,1,debug-ito,no
@@ -5370,14 +5381,16 @@ count,org,repo,week,additions,deletions,commits,author,is a member
 66,usdot-fhwa-stol,evc-sumo,2023-05-14,2,2,2,chengyuan0124,yes
 67,usdot-fhwa-stol,carla-sensor-lib,2023-10-08,4158,0,1,davidgayman,yes
 67,usdot-fhwa-stol,carla-sensor-lib,2023-11-05,53,50,1,davidgayman,yes
+67,usdot-fhwa-stol,carla-sensor-lib,2024-01-07,327,24,4,SaikrishnaBairamoni,yes
+67,usdot-fhwa-stol,carla-sensor-lib,2024-01-14,10,32,1,SaikrishnaBairamoni,yes
 67,usdot-fhwa-stol,carla-sensor-lib,2023-10-22,108,76,1,paulbourelly999,yes
 67,usdot-fhwa-stol,carla-sensor-lib,2023-12-31,16,4,1,paulbourelly999,yes
 67,usdot-fhwa-stol,carla-sensor-lib,2024-01-07,27,21,2,paulbourelly999,yes
 67,usdot-fhwa-stol,carla-sensor-lib,2024-01-21,4,4,1,paulbourelly999,yes
-67,usdot-fhwa-stol,carla-sensor-lib,2024-01-07,327,24,4,SaikrishnaBairamoni,yes
-67,usdot-fhwa-stol,carla-sensor-lib,2024-01-14,10,32,1,SaikrishnaBairamoni,yes
+67,usdot-fhwa-stol,carla-sensor-lib,2024-01-28,17,2,1,paulbourelly999,yes
 67,usdot-fhwa-stol,carla-sensor-lib,2023-11-05,301,16,5,adamlm,yes
 67,usdot-fhwa-stol,carla-sensor-lib,2023-11-26,9,3,1,adamlm,yes
+67,usdot-fhwa-stol,carla-sensor-lib,2024-01-28,7,7,1,adamlm,yes
 67,usdot-fhwa-stol,carla-sensor-lib,2023-10-29,23,9,1,EricChen-Lei,yes
 67,usdot-fhwa-stol,carla-sensor-lib,2023-11-26,140,92,3,EricChen-Lei,yes
 67,usdot-fhwa-stol,carla-sensor-lib,2023-12-03,1,1,1,EricChen-Lei,yes
@@ -5391,3 +5404,9 @@ count,org,repo,week,additions,deletions,commits,author,is a member
 67,usdot-fhwa-stol,carla-sensor-lib,2023-12-10,69,52,2,MishkaMN,yes
 67,usdot-fhwa-stol,carla-sensor-lib,2024-01-07,6,6,1,MishkaMN,yes
 67,usdot-fhwa-stol,carla-sensor-lib,2024-01-21,61,41,5,MishkaMN,yes
+68,usdot-fhwa-stol,cave-lite,2022-11-13,741,0,1,jwillmartin,yes
+68,usdot-fhwa-stol,cave-lite,2022-11-20,102,74,1,jwillmartin,yes
+68,usdot-fhwa-stol,cave-lite,2022-11-27,10412,175,6,jwillmartin,yes
+68,usdot-fhwa-stol,cave-lite,2023-03-05,33,31,1,jwillmartin,yes
+68,usdot-fhwa-stol,cave-lite,2024-01-28,22017,11072,6,jwillmartin,yes
+69,usdot-fhwa-stol,j2735decoder,2023-09-17,542,339,2,shreekant8,yes
