@@ -1,0 +1,11 @@
+Start date,End date,Org,Repo,Path,Title,Count,Unique
+2024-03-31,2024-04-14,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub,usdot-fhwa-OPS/V2X-Hub: V2X Hub is a message handler that acts as a translato...,214,69
+2024-03-31,2024-04-14,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/pulls,Pull requests · usdot-fhwa-OPS/V2X-Hub,111,4
+2024-03-31,2024-04-14,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/tree/develop/src,V2X-Hub/src at develop · usdot-fhwa-OPS/V2X-Hub · GitHub,61,10
+2024-03-31,2024-04-14,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/tree/develop/src/v2i-hub,V2X-Hub/src/v2i-hub at develop · usdot-fhwa-OPS/V2X-Hub · GitHub,60,11
+2024-03-31,2024-04-14,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/issues,Issues · usdot-fhwa-OPS/V2X-Hub · GitHub,37,7
+2024-03-31,2024-04-14,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/pull/602,CARMACloudPlugin: Fix the issue to unzip the compressed TCMs by dan-du-car · ...,34,8
+2024-03-31,2024-04-14,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/tree/develop/docs,V2X-Hub/docs at develop · usdot-fhwa-OPS/V2X-Hub,33,3
+2024-03-31,2024-04-14,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/blob/develop/web/index.html,V2X-Hub/web/index.html at develop · usdot-fhwa-OPS/V2X-Hub · GitHub,28,6
+2024-03-31,2024-04-14,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/blob/develop/.sonarqube/sonar-scanner.properties,V2X-Hub/.sonarqube/sonar-scanner.properties at develop · usdot-fhwa-OPS/V2X-Hub,23,8
+2024-03-31,2024-04-14,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/tree/develop/src/v2i-hub/CARMACloudPlugin,V2X-Hub/src/v2i-hub/CARMACloudPlugin at develop · usdot-fhwa-OPS/V2X-Hub,22,3
