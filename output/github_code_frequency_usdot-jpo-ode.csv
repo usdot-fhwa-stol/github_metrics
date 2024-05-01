@@ -1009,6 +1009,7 @@ count,org,repo,week,additions,deletions,commits,author,is a member
 18,usdot-jpo-ode,jpo-conflictmonitor,2024-01-28,3,9,2,linda-baker,no
 18,usdot-jpo-ode,jpo-conflictmonitor,2023-10-08,30,9,1,JohnWiens,no
 18,usdot-jpo-ode,jpo-conflictmonitor,2023-10-15,20,2,1,JohnWiens,no
+18,usdot-jpo-ode,jpo-conflictmonitor,2024-04-21,1,1,1,JohnWiens,no
 18,usdot-jpo-ode,jpo-conflictmonitor,2023-11-05,160,0,1,dmccoystephenson,no
 18,usdot-jpo-ode,jpo-conflictmonitor,2024-01-28,6,5,2,dmccoystephenson,no
 18,usdot-jpo-ode,jpo-conflictmonitor,2024-02-18,2,2,1,dmccoystephenson,no
@@ -1117,6 +1118,7 @@ count,org,repo,week,additions,deletions,commits,author,is a member
 18,usdot-jpo-ode,jpo-conflictmonitor,2024-01-07,31,14,7,iyourshaw,no
 18,usdot-jpo-ode,jpo-conflictmonitor,2024-01-21,73,49,4,iyourshaw,no
 18,usdot-jpo-ode,jpo-conflictmonitor,2024-03-10,37740,383,8,iyourshaw,no
+19,usdot-jpo-ode,jpo-conflictvisualizer,2024-04-21,1,1,1,JohnWiens,no
 19,usdot-jpo-ode,jpo-conflictvisualizer,2024-02-18,2,2,1,dmccoystephenson,no
 19,usdot-jpo-ode,jpo-conflictvisualizer,2024-02-18,210,1,1,SaikrishnaBairamoni,yes
 19,usdot-jpo-ode,jpo-conflictvisualizer,2023-02-26,518,235,6,drewjj,no
@@ -1207,6 +1209,7 @@ count,org,repo,week,additions,deletions,commits,author,is a member
 19,usdot-jpo-ode,jpo-conflictvisualizer,2024-03-17,144,14,3,John-Wiens,no
 19,usdot-jpo-ode,jpo-conflictvisualizer,2024-03-24,52,38,5,John-Wiens,no
 19,usdot-jpo-ode,jpo-conflictvisualizer,2024-04-07,13,9,1,John-Wiens,no
+19,usdot-jpo-ode,jpo-conflictvisualizer,2024-04-28,703,61,8,John-Wiens,no
 20,usdot-jpo-ode,jpo-cvmanager,2023-09-03,141,0,1,SaikrishnaBairamoni,yes
 20,usdot-jpo-ode,jpo-cvmanager,2023-09-24,2,2,1,SaikrishnaBairamoni,yes
 20,usdot-jpo-ode,jpo-cvmanager,2023-06-18,18,1,1,payneBrandon,no
@@ -1230,7 +1233,13 @@ count,org,repo,week,additions,deletions,commits,author,is a member
 20,usdot-jpo-ode,jpo-cvmanager,2023-07-09,737,733,12,dmccoystephenson,no
 20,usdot-jpo-ode,jpo-cvmanager,2023-07-16,47,11,5,dmccoystephenson,no
 20,usdot-jpo-ode,jpo-cvmanager,2023-07-23,12,12,1,dmccoystephenson,no
-20,usdot-jpo-ode,jpo-cvmanager,2024-01-28,2,2,1,dmccoystephenson,no
+20,usdot-jpo-ode,jpo-cvmanager,2024-01-21,879,505,7,dmccoystephenson,no
+20,usdot-jpo-ode,jpo-cvmanager,2024-01-28,71,14,2,dmccoystephenson,no
+20,usdot-jpo-ode,jpo-cvmanager,2024-02-04,5,1,1,dmccoystephenson,no
+20,usdot-jpo-ode,jpo-cvmanager,2024-02-11,7,6,1,dmccoystephenson,no
+20,usdot-jpo-ode,jpo-cvmanager,2024-02-18,10,10,2,dmccoystephenson,no
+20,usdot-jpo-ode,jpo-cvmanager,2024-03-24,1,1,1,dmccoystephenson,no
+20,usdot-jpo-ode,jpo-cvmanager,2024-04-21,260,66,9,dmccoystephenson,no
 20,usdot-jpo-ode,jpo-cvmanager,2023-03-26,33623,10530,6,jacob6838,no
 20,usdot-jpo-ode,jpo-cvmanager,2023-04-02,14,14,1,jacob6838,no
 20,usdot-jpo-ode,jpo-cvmanager,2023-04-09,1616,7348,20,jacob6838,no
