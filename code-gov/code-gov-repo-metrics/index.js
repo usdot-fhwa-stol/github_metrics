@@ -27,7 +27,7 @@ async function queryGitHub(repoName) {
     // Create a graphQLClient
     const graphQLClient = new GraphQLClient(endpoint, {
         headers: {
-            authorization: 'Bearer ' + process.env.GITHUB_PERSONAL_ACCESS_TOKEN,
+            authorization: 'Bearer ' + process.env.METRICS_GITHUB_TOKEN,
         },
     });
 
@@ -43,6 +43,11 @@ async function queryGitHub(repoName) {
     // Request the data
     const dataJSON = await graphQLClient.request(query, variables);
 
+    // Handle case where repository data is null
+    if (!dataJSON.repository) {
+        console.error(`Failed to retrieve repository data for ${repoName}.`);
+        return null;
+    }
     // If the repo has more than 100 issues, get the rest of the issues
     if (dataJSON.repository.issues.pageInfo.hasNextPage) {
         var issues = await queryIssuesDeep(repoName, dataJSON.repository.issues.pageInfo.endCursor, dataJSON.repository.issues.nodes);
@@ -74,7 +79,7 @@ async function queryIssuesDeep(repoName, cursor, issues) {
     // Create a graphQLClient
     const graphQLClient = new GraphQLClient(endpoint, {
         headers: {
-            authorization: 'Bearer ' + process.env.GITHUB_PERSONAL_ACCESS_TOKEN,
+            authorization: 'Bearer ' + process.env.METRICS_GITHUB_TOKEN,
         },
     });
   
@@ -118,7 +123,7 @@ async function queryPullRequestsDeep(repoName, cursor, pullRequests) {
     // Create a graphQLClient
     const graphQLClient = new GraphQLClient(endpoint, {
         headers: {
-            authorization: 'Bearer ' + process.env.GITHUB_PERSONAL_ACCESS_TOKEN,
+            authorization: 'Bearer ' + process.env.METRICS_GITHUB_TOKEN,
         },
     });
 
@@ -156,6 +161,15 @@ async function queryPullRequestsDeep(repoName, cursor, pullRequests) {
  * @return {JSON} a JSON of metrics calculated for repo
  */
 function processRepo(repo) {
+
+    // Skip processing if repo is null
+    if (!repo) {
+        console.error("Skipping processing due to missing repository data.");
+        return null;
+    }
+
+    console.log(repo);
+    console.log("processRepo");
     // Set up
     var issueMetaData = getIssueMetaData(repo);
     var pullRequestMetaData = getPullRequestMetaData(repo);
