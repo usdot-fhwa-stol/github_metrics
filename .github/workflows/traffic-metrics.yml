@@ -35,16 +35,9 @@ jobs:
             python3 traffic-metrics/github_metrics.py -t ${{ secrets.METRICS_GITHUB_TOKEN }} -o "$ORG"
           done
 
-      - name: Aggregate Metrics
-        run: python3 traffic-metrics/aggregate_metrics.py
-
-      - name: List aggregated output files
-        run: ls -l ./aggregated_output 
-
       - name: Commit Files
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "Update aggregated metrics"
           commit_user_name: "Saikrishna Bairamoni"
           commit_user_email: "saikrishna.bairamoni@leidos.com"
-          file_pattern: "./aggregated_output/*.csv"  
