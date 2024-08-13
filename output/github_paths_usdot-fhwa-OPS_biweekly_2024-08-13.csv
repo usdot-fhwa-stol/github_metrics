@@ -1,0 +1,28 @@
+Start date,End date,Org,Repo,Path,Title,Count,Unique
+2024-07-29,2024-08-12,usdot-fhwa-OPS,ITS-Secure-Prototype-App,/usdot-fhwa-OPS/ITS-Secure-Prototype-App,usdot-fhwa-OPS/ITS-Secure-Prototype-App,5,4
+2024-07-29,2024-08-12,usdot-fhwa-OPS,ITS-Secure-Prototype-App,/usdot-fhwa-OPS/ITS-Secure-Prototype-App/blob/develop/README.md,ITS-Secure-Prototype-App/README.md at develop · usdot-fhwa-OPS/ITS-Secure-Pro...,4,1
+2024-07-29,2024-08-12,usdot-fhwa-OPS,ITS-Secure-Prototype-App,/usdot-fhwa-OPS/ITS-Secure-Prototype-App/blob/develop/analysis_options.yaml,ITS-Secure-Prototype-App/analysis_options.yaml at develop · usdot-fhwa-OPS/IT...,2,1
+2024-07-29,2024-08-12,usdot-fhwa-OPS,ITS-Secure-Prototype-App,/usdot-fhwa-OPS/ITS-Secure-Prototype-App/blob/develop/LICENSE,ITS-Secure-Prototype-App/LICENSE at develop · usdot-fhwa-OPS/ITS-Secure-Proto...,2,1
+2024-07-29,2024-08-12,usdot-fhwa-OPS,ITS-Secure-Prototype-App,/usdot-fhwa-OPS/ITS-Secure-Prototype-App/blob/develop/pubspec.lock,ITS-Secure-Prototype-App/pubspec.lock at develop · usdot-fhwa-OPS/ITS-Secure-...,2,1
+2024-07-29,2024-08-12,usdot-fhwa-OPS,ITS-Secure-Prototype-App,/usdot-fhwa-OPS/ITS-Secure-Prototype-App/blob/develop/pubspec.yaml,ITS-Secure-Prototype-App/pubspec.yaml at develop · usdot-fhwa-OPS/ITS-Secure-...,2,1
+2024-07-29,2024-08-12,usdot-fhwa-OPS,ITS-Secure-Prototype-App,/usdot-fhwa-OPS/ITS-Secure-Prototype-App/tree/develop/amplify,ITS-Secure-Prototype-App/amplify at develop · usdot-fhwa-OPS/ITS-Secure-Proto...,2,1
+2024-07-29,2024-08-12,usdot-fhwa-OPS,ITS-Secure-Prototype-App,/usdot-fhwa-OPS/ITS-Secure-Prototype-App/tree/develop/android,ITS-Secure-Prototype-App/android at develop · usdot-fhwa-OPS/ITS-Secure-Proto...,2,1
+2024-07-29,2024-08-12,usdot-fhwa-OPS,ITS-Secure-Prototype-App,/usdot-fhwa-OPS/ITS-Secure-Prototype-App/tree/develop/assets,ITS-Secure-Prototype-App/assets at develop · usdot-fhwa-OPS/ITS-Secure-Protot...,2,1
+2024-07-29,2024-08-12,usdot-fhwa-OPS,ITS-Secure-Prototype-App,/usdot-fhwa-OPS/ITS-Secure-Prototype-App/tree/develop/test,ITS-Secure-Prototype-App/test at develop · usdot-fhwa-OPS/ITS-Secure-Prototyp...,2,1
+2024-07-29,2024-08-12,usdot-fhwa-OPS,ITS-Secure-Prototype-Backend,/usdot-fhwa-OPS/ITS-Secure-Prototype-Backend,usdot-fhwa-OPS/ITS-Secure-Prototype-Backend: Repository for AWS backend confi...,8,6
+2024-07-29,2024-08-12,usdot-fhwa-OPS,ITS-Secure-Prototype-Backend,/usdot-fhwa-OPS/ITS-Secure-Prototype-Backend/branches,Branches · usdot-fhwa-OPS/ITS-Secure-Prototype-Backend · GitHub,2,1
+2024-07-29,2024-08-12,usdot-fhwa-OPS,ITS-Secure-Prototype-Backend,/usdot-fhwa-OPS/ITS-Secure-Prototype-Backend/actions,Actions · usdot-fhwa-OPS/ITS-Secure-Prototype-Backend · GitHub,1,1
+2024-07-29,2024-08-12,usdot-fhwa-OPS,ITS-Secure-Prototype-Backend,/usdot-fhwa-OPS/ITS-Secure-Prototype-Backend/issues,Issues · usdot-fhwa-OPS/ITS-Secure-Prototype-Backend · GitHub,1,1
+2024-07-29,2024-08-12,usdot-fhwa-OPS,ITS-Secure-Prototype-Backend,/usdot-fhwa-OPS/ITS-Secure-Prototype-Backend/projects,Projects · ITS-Secure-Prototype-Backend · GitHub,1,1
+2024-07-29,2024-08-12,usdot-fhwa-OPS,ITS-Secure-Prototype-Frontend,/usdot-fhwa-OPS/ITS-Secure-Prototype-Frontend,GitHub - usdot-fhwa-OPS/ITS-Secure-Prototype-Frontend: Frontend code for Cybe...,7,5
+2024-07-29,2024-08-12,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub,usdot-fhwa-OPS/V2X-Hub: V2X Hub is a message handler that acts as a translato...,141,57
+2024-07-29,2024-08-12,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/tree/develop/src,V2X-Hub/src at develop · usdot-fhwa-OPS/V2X-Hub · GitHub,40,8
+2024-07-29,2024-08-12,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/pulls,Pull requests · usdot-fhwa-OPS/V2X-Hub,34,6
+2024-07-29,2024-08-12,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/tree/develop/src/v2i-hub,V2X-Hub/src/v2i-hub at develop · usdot-fhwa-OPS/V2X-Hub · GitHub,33,6
+2024-07-29,2024-08-12,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/tree/develop/examples,V2X-Hub/examples at develop · usdot-fhwa-OPS/V2X-Hub · GitHub,30,5
+2024-07-29,2024-08-12,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/pull/627,Install carma-clock-1 from ubuntu distribution (correct version) by paulboure...,25,9
+2024-07-29,2024-08-12,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/pull/628,FCP-5: SensorDetectedObject TMX message definition by dan-du-car · Pull Reque...,18,3
+2024-07-29,2024-08-12,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/pull/620,Fix ped plugin by jwillmartin · Pull Request #620 · usdot-fhwa-OPS/V2X-Hub,16,3
+2024-07-29,2024-08-12,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/tree/develop/configuration,V2X-Hub/configuration at develop · usdot-fhwa-OPS/V2X-Hub · GitHub,16,3
+2024-07-29,2024-08-12,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/commits/release/neon,Commits · usdot-fhwa-OPS/V2X-Hub,16,1
+2024-07-29,2024-08-12,usdot-fhwa-OPS,v2xhub-angular-ui-prototype,/usdot-fhwa-OPS/v2xhub-angular-ui-prototype,usdot-fhwa-OPS/v2xhub-angular-ui-prototype: V2X-Hub Prototype Angular UI,1,1
