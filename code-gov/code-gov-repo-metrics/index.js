@@ -48,6 +48,7 @@ async function queryGitHub(repoName) {
         console.error(`Failed to retrieve repository data for ${repoName}.`);
         return null;
     }
+
     // If the repo has more than 100 issues, get the rest of the issues
     if (dataJSON.repository.issues.pageInfo.hasNextPage) {
         var issues = await queryIssuesDeep(repoName, dataJSON.repository.issues.pageInfo.endCursor, dataJSON.repository.issues.nodes);
@@ -94,14 +95,25 @@ async function queryIssuesDeep(repoName, cursor, issues) {
     };
   
     // Request the additional issues
-    const dataJSON = await graphQLClient.request(query, variables);
+    try {
+        const dataJSON = await graphQLClient.request(query, variables);
 
-    // Push the new issues to the running issue list
-    dataJSON.repository.issues.nodes.forEach(issue => {issues.push(issue)});
+        // Handle case where repository or issues data is null
+        if (!dataJSON.repository || !dataJSON.repository.issues) {
+            console.error(`Failed to retrieve issues for ${repoName}.`);
+            return issues;
+        }
 
-    // Recurse if there are still more issues
-    if (dataJSON.repository.issues.pageInfo.hasNextPage) {
-        return await queryIssuesDeep(repoName, dataJSON.repository.issues.pageInfo.endCursor, issues);
+        // Push the new issues to the running issue list
+        dataJSON.repository.issues.nodes.forEach(issue => { issues.push(issue) });
+
+        // Recurse if there are still more issues
+        if (dataJSON.repository.issues.pageInfo.hasNextPage) {
+            return await queryIssuesDeep(repoName, dataJSON.repository.issues.pageInfo.endCursor, issues);
+        }
+
+    } catch (error) {
+        console.error(`Error querying issues for ${repoName} with cursor ${cursor}:`, error);
     }
 
     return issues;

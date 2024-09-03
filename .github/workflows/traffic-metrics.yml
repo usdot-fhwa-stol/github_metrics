@@ -28,23 +28,16 @@ jobs:
           python -m pip install -r traffic-metrics/requirements.txt
           python -m pip install pandas  # Ensure pandas is installed
 
-      - name: Run export and GitHub metrics scripts
+      - name: Run traffic-metrics
         run: |
-          for ORG in ${{ env.ORGS }}; do
+          for ORG in $ORGS; do
             python3 traffic-metrics/export_traffic.py -t ${{ secrets.METRICS_GITHUB_TOKEN }} -o "$ORG"
             python3 traffic-metrics/github_metrics.py -t ${{ secrets.METRICS_GITHUB_TOKEN }} -o "$ORG"
           done
 
-      - name: Aggregate Metrics
-        run: python3 traffic-metrics/aggregate_metrics.py
-
-      - name: List aggregated output files
-        run: ls -l ./aggregated_output 
-
       - name: Commit Files
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Update aggregated metrics"
+          commit_message: "Update Traffic metrics"
           commit_user_name: "Saikrishna Bairamoni"
           commit_user_email: "saikrishna.bairamoni@leidos.com"
-          file_pattern: "./aggregated_output/*.csv"  
