@@ -1,8 +1,8 @@
 Repo Name,Stars,Watches,Forks,Issues,Issues (Internal),Issues (External),Open Issues,Stale Issues (No activity for >14 days),% Stale Issues,Old Issues (Open for >120 days),% Old Issues,% Issues Closed by Pull Request,Average Issue Open Time (Days),Pull Requests,Pull Requests (Internal),Pull Requests (External),Open Pull Requests,Average Pull Request Time to Merge (Days),Contributors (All Time),Contributors (All Time - Internal),Contributors (All Time - External),Issues Opened,Issues Opened (Internal),Issues Opened (External),Issues Opened (First Time Contributor),Issues Closed,Pull Requests Opened,Pull Requests Opened (Internal),Pull Requests Opened (External),Pull Requests Opened (First Time Contributor),Pull Requests Merged,Pull Requests Closed,Contributors (This Period),Contributors (This Period - Internal),Contributors (This Period - External),Contributors (This Period - First Time Contributor)
-V2X-Hub,118,13,67,184,150,34,35,32,91%,32,91%,8%,111,452,173,27,0,6,38,15,23,1,1,0,0,2,0,0,0,0,0,0,1,1,0,0
+V2X-Hub,118,13,67,184,150,34,34,32,94%,32,94%,8%,110,453,415,38,1,6,43,18,25,1,1,0,0,2,11,11,0,0,11,0,5,5,0,0
 v2xhub-angular-ui-prototype,0,2,0,0,0,0,0,0,N/A,0,N/A,N/A,N/A,0,0,0,0,N/A,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 ITS-Secure-Prototype-Frontend,0,6,0,0,0,0,0,0,N/A,0,N/A,N/A,N/A,3,3,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 ITS-Secure-Prototype-Backend,0,6,0,0,0,0,0,0,N/A,0,N/A,N/A,N/A,3,3,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 ITS-Secure-Prototype-App,0,6,0,0,0,0,0,0,N/A,0,N/A,N/A,N/A,25,25,0,0,6,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 sample_angular_saml_app,0,2,0,0,0,0,0,0,N/A,0,N/A,N/A,N/A,0,0,0,0,N/A,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-TOTAL,118,35,67,184,150,34,35,32,91%,32,91%,8%,111,483,204,27,0,6,43,20,23,1,1,0,0,2,0,0,0,0,0,0,1,1,0,0
+TOTAL,118,35,67,184,150,34,34,32,94%,32,94%,8%,110,484,446,38,1,6,48,23,25,1,1,0,0,2,11,11,0,0,11,0,5,5,0,0

@@ -1,5 +1,5 @@
 Repo Name,Stars,Watches,Forks,Issues,Issues (Internal),Issues (External),Open Issues,Stale Issues (No activity for >14 days),% Stale Issues,Old Issues (Open for >120 days),% Old Issues,% Issues Closed by Pull Request,Average Issue Open Time (Days),Pull Requests,Pull Requests (Internal),Pull Requests (External),Open Pull Requests,Average Pull Request Time to Merge (Days),Contributors (All Time),Contributors (All Time - Internal),Contributors (All Time - External),Issues Opened,Issues Opened (Internal),Issues Opened (External),Issues Opened (First Time Contributor),Issues Closed,Pull Requests Opened,Pull Requests Opened (Internal),Pull Requests Opened (External),Pull Requests Opened (First Time Contributor),Pull Requests Merged,Pull Requests Closed,Contributors (This Period),Contributors (This Period - Internal),Contributors (This Period - External),Contributors (This Period - First Time Contributor)
-jpo-ode,77,27,41,110,55,55,3,3,100%,1,33%,2%,95,444,129,65,0,2,40,14,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+jpo-ode,77,27,41,110,55,55,3,3,100%,1,33%,2%,95,444,345,93,1,7,45,17,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 jpo-cvdp,15,14,10,3,1,2,1,1,100%,1,100%,50%,939,37,27,10,0,12,11,6,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 jpo-s3-deposit,4,10,4,10,9,1,2,2,100%,2,100%,25%,287,53,39,14,0,30,13,8,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 jpo-security,4,10,3,1,0,1,1,1,100%,1,100%,N/A,N/A,10,8,2,0,0,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -21,4 +21,4 @@ jpo-conflictvisualizer,0,9,4,0,0,0,0,0,N/A,0,N/A,N/A,N/A,106,104,2,2,2,9,7,2,0,0
 jpo-cvmanager,2,7,3,0,0,0,0,0,N/A,0,N/A,N/A,N/A,22,13,9,1,6,6,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 jpo-cvportal,0,7,0,0,0,0,0,0,N/A,0,N/A,N/A,N/A,0,0,0,0,N/A,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 jpo-utils,0,7,3,0,0,0,0,0,N/A,0,N/A,N/A,N/A,3,3,0,0,8,2,2,0,0,0,0,0,0,3,3,0,0,1,1,2,2,0,0
-TOTAL,229,256,177,297,179,118,32,31,97%,29,91%,6%,180,1193,774,169,5,15,94,32,69,0,0,0,0,0,12,12,0,0,12,1,5,5,0,0
+TOTAL,229,256,177,297,179,118,32,31,97%,29,91%,6%,180,1193,990,197,6,14,95,33,69,0,0,0,0,0,12,12,0,0,12,1,5,5,0,0
