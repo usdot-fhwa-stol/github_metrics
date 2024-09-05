@@ -150,14 +150,25 @@ async function queryPullRequestsDeep(repoName, cursor, pullRequests) {
     };
 
     // Request the additional pull requests
-    const dataJSON = await graphQLClient.request(query, variables);
+    try {
+        const dataJSON = await graphQLClient.request(query, variables);
 
-    // Push the new pull requests to the running pull requests list
-    dataJSON.repository.pullRequests.nodes.forEach(pullRequest => {pullRequests.push(pullRequest)});
+        // Handle case where repository or pull requests data is null
+        if (!dataJSON.repository || !dataJSON.repository.pullRequests) {
+            console.error(`Failed to retrieve pull requests for ${repoName}.`);
+            return pullRequests;
+        }
 
-    // Recurse if there are still more pull requests
-    if (dataJSON.repository.pullRequests.pageInfo.hasNextPage) {
-        return await queryPullRequestsDeep(repoName, dataJSON.repository.pullRequests.pageInfo.endCursor, pullRequests);
+        // Push the new pull requests to the running pull requests list
+        dataJSON.repository.pullRequests.nodes.forEach(pullRequest => { pullRequests.push(pullRequest) });
+
+        // Recurse if there are still more pull requests
+        if (dataJSON.repository.pullRequests.pageInfo.hasNextPage) {
+            return await queryPullRequestsDeep(repoName, dataJSON.repository.pullRequests.pageInfo.endCursor, pullRequests);
+        }
+
+    } catch (error) {
+        console.error(`Error querying pull requests for ${repoName} with cursor ${cursor}:`, error);
     }
 
     return pullRequests;
