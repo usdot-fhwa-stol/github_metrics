@@ -157,7 +157,7 @@ async function queryPullRequestsDeep(repoName, cursor, pullRequests) {
 
     // Recurse if there are still more pull requests
     if (dataJSON.repository.pullRequests.pageInfo.hasNextPage) {
-        return await queryIssuesDeep(repoName, dataJSON.repository.pullRequests.pageInfo.endCursor, pullRequests);
+        return await queryPullRequestsDeep(repoName, dataJSON.repository.pullRequests.pageInfo.endCursor, pullRequests);
     }
 
     return pullRequests;
