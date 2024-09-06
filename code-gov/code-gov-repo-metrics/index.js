@@ -545,9 +545,9 @@ function getPullRequestMetaData(repo) {
  */
 function aggregateRepoData(repos) {
     // Set up
-    var openIssues = utils.sumList(repos.map(repo => repo.openIssues));
-    var staleIssues = utils.sumList(repos.map(repo => repo.staleIssues));
-    var oldIssues = utils.sumList(repos.map(repo => repo.oldIssues));
+    var openIssues = utils.sumList(repos.map(repo => repo?.openIssues));
+    var staleIssues = utils.sumList(repos.map(repo => repo?.staleIssues));
+    var oldIssues = utils.sumList(repos.map(repo => repo?.oldIssues));
 
     // Make JSON of aggregate processed data
     var totalData = {
