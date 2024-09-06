@@ -1,21 +1,27 @@
 {
   "owner": "usdot-jpo-ode",
   "repoList": [
-    "TDx",
-    "asn1_codec",
-    "jpo-cvdp",
     "jpo-ode",
-    "jpo-ode-scms-asn",
-    "jpo-record-parser",
+    "jpo-cvdp",
     "jpo-s3-deposit",
-    "jpo-sdw-depositor",
     "jpo-security",
-    "jpo-security-svcs",
-    "jpo-tim-builder",
-    "ode-output-validator-library",
-    "scms-asn1",
     "usdot-jpo-ode.github.io",
+    "asn1_codec",
+    "jpo-tim-builder",
+    "jpo-security-svcs",
+    "jpo-ode-scms-asn",
+    "scms-asn1",
+    "wzdx",
+    "jpo-record-parser",
+    "jpo-sdw-depositor",
+    "ode-output-validator-library",
     "wzdc-tool",
-    "wzdx"
+    "TDx",
+    "jpo-geojsonconverter",
+    "jpo-conflictmonitor",
+    "jpo-conflictvisualizer",
+    "jpo-cvmanager",
+    "jpo-cvportal",
+    "jpo-utils"
   ]
 }

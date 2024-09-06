@@ -1,6 +1,11 @@
 {
   "owner": "usdot-fhwa-OPS",
   "repoList": [
-    "V2X-Hub"
+    "V2X-Hub",
+    "v2xhub-angular-ui-prototype",
+    "ITS-Secure-Prototype-Frontend",
+    "ITS-Secure-Prototype-Backend",
+    "ITS-Secure-Prototype-App",
+    "sample_angular_saml_app"
   ]
 }

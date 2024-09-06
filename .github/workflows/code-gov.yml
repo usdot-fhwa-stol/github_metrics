@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           fetch-depth: 1
 
@@ -21,7 +21,7 @@ jobs:
         run: |
           cd code-gov/code-gov-repo-metrics
           npm install
-          echo "GITHUB_PERSONAL_ACCESS_TOKEN=${{ secrets.METRICS_GITHUB_TOKEN }}" > .env
+          echo "METRICS_GITHUB_TOKEN=${{ secrets.METRICS_GITHUB_TOKEN }}" > .env
 
       - name: Run code-gov
         run: |
@@ -40,7 +40,7 @@ jobs:
         run: |
           rm code-gov/code-gov-repo-metrics/{config.json,.env}
 
-      - uses: stefanzweifel/git-auto-commit-action@v4
+      - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Automatic update"
           commit_user_name: "Saikrishna Bairamoni"

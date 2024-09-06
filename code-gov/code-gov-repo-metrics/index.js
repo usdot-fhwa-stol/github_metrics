@@ -27,7 +27,7 @@ async function queryGitHub(repoName) {
     // Create a graphQLClient
     const graphQLClient = new GraphQLClient(endpoint, {
         headers: {
-            authorization: 'Bearer ' + process.env.GITHUB_PERSONAL_ACCESS_TOKEN,
+            authorization: 'Bearer ' + process.env.METRICS_GITHUB_TOKEN,
         },
     });
 
@@ -42,6 +42,12 @@ async function queryGitHub(repoName) {
 
     // Request the data
     const dataJSON = await graphQLClient.request(query, variables);
+
+    // Handle case where repository data is null
+    if (!dataJSON.repository) {
+        console.error(`Failed to retrieve repository data for ${repoName}.`);
+        return null;
+    }
 
     // If the repo has more than 100 issues, get the rest of the issues
     if (dataJSON.repository.issues.pageInfo.hasNextPage) {
@@ -74,7 +80,7 @@ async function queryIssuesDeep(repoName, cursor, issues) {
     // Create a graphQLClient
     const graphQLClient = new GraphQLClient(endpoint, {
         headers: {
-            authorization: 'Bearer ' + process.env.GITHUB_PERSONAL_ACCESS_TOKEN,
+            authorization: 'Bearer ' + process.env.METRICS_GITHUB_TOKEN,
         },
     });
   
@@ -89,14 +95,25 @@ async function queryIssuesDeep(repoName, cursor, issues) {
     };
   
     // Request the additional issues
-    const dataJSON = await graphQLClient.request(query, variables);
+    try {
+        const dataJSON = await graphQLClient.request(query, variables);
 
-    // Push the new issues to the running issue list
-    dataJSON.repository.issues.nodes.forEach(issue => {issues.push(issue)});
+        // Handle case where repository or issues data is null
+        if (!dataJSON.repository || !dataJSON.repository.issues) {
+            console.error(`Failed to retrieve issues for ${repoName}.`);
+            return issues;
+        }
 
-    // Recurse if there are still more issues
-    if (dataJSON.repository.issues.pageInfo.hasNextPage) {
-        return await queryIssuesDeep(repoName, dataJSON.repository.issues.pageInfo.endCursor, issues);
+        // Push the new issues to the running issue list
+        dataJSON.repository.issues.nodes.forEach(issue => { issues.push(issue) });
+
+        // Recurse if there are still more issues
+        if (dataJSON.repository.issues.pageInfo.hasNextPage) {
+            return await queryIssuesDeep(repoName, dataJSON.repository.issues.pageInfo.endCursor, issues);
+        }
+
+    } catch (error) {
+        console.error(`Error querying issues for ${repoName} with cursor ${cursor}:`, error);
     }
 
     return issues;
@@ -118,7 +135,7 @@ async function queryPullRequestsDeep(repoName, cursor, pullRequests) {
     // Create a graphQLClient
     const graphQLClient = new GraphQLClient(endpoint, {
         headers: {
-            authorization: 'Bearer ' + process.env.GITHUB_PERSONAL_ACCESS_TOKEN,
+            authorization: 'Bearer ' + process.env.METRICS_GITHUB_TOKEN,
         },
     });
 
@@ -133,14 +150,25 @@ async function queryPullRequestsDeep(repoName, cursor, pullRequests) {
     };
 
     // Request the additional pull requests
-    const dataJSON = await graphQLClient.request(query, variables);
+    try {
+        const dataJSON = await graphQLClient.request(query, variables);
 
-    // Push the new pull requests to the running pull requests list
-    dataJSON.repository.pullRequests.nodes.forEach(pullRequest => {pullRequests.push(pullRequest)});
+        // Handle case where repository or pull requests data is null
+        if (!dataJSON.repository || !dataJSON.repository.pullRequests) {
+            console.error(`Failed to retrieve pull requests for ${repoName}.`);
+            return pullRequests;
+        }
 
-    // Recurse if there are still more pull requests
-    if (dataJSON.repository.pullRequests.pageInfo.hasNextPage) {
-        return await queryIssuesDeep(repoName, dataJSON.repository.pullRequests.pageInfo.endCursor, pullRequests);
+        // Push the new pull requests to the running pull requests list
+        dataJSON.repository.pullRequests.nodes.forEach(pullRequest => { pullRequests.push(pullRequest) });
+
+        // Recurse if there are still more pull requests
+        if (dataJSON.repository.pullRequests.pageInfo.hasNextPage) {
+            return await queryPullRequestsDeep(repoName, dataJSON.repository.pullRequests.pageInfo.endCursor, pullRequests);
+        }
+
+    } catch (error) {
+        console.error(`Error querying pull requests for ${repoName} with cursor ${cursor}:`, error);
     }
 
     return pullRequests;
@@ -156,6 +184,15 @@ async function queryPullRequestsDeep(repoName, cursor, pullRequests) {
  * @return {JSON} a JSON of metrics calculated for repo
  */
 function processRepo(repo) {
+
+    // Skip processing if repo is null
+    if (!repo) {
+        console.error("Skipping processing due to missing repository data.");
+        return null;
+    }
+
+    console.log(repo);
+    console.log("processRepo");
     // Set up
     var issueMetaData = getIssueMetaData(repo);
     var pullRequestMetaData = getPullRequestMetaData(repo);
@@ -508,9 +545,9 @@ function getPullRequestMetaData(repo) {
  */
 function aggregateRepoData(repos) {
     // Set up
-    var openIssues = utils.sumList(repos.map(repo => repo.openIssues));
-    var staleIssues = utils.sumList(repos.map(repo => repo.staleIssues));
-    var oldIssues = utils.sumList(repos.map(repo => repo.oldIssues));
+    var openIssues = utils.sumList(repos.map(repo => repo?.openIssues));
+    var staleIssues = utils.sumList(repos.map(repo => repo?.staleIssues));
+    var oldIssues = utils.sumList(repos.map(repo => repo?.oldIssues));
 
     // Make JSON of aggregate processed data
     var totalData = {
