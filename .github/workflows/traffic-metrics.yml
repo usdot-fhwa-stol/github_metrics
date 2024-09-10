@@ -34,9 +34,8 @@ jobs:
             python3 traffic-metrics/export_traffic.py -t ${{ secrets.METRICS_GITHUB_TOKEN }} -o "$ORG"
             python3 traffic-metrics/github_metrics.py -t ${{ secrets.METRICS_GITHUB_TOKEN }} -o "$ORG"
           done
-
-      - name: Pull latest changes from the remote develop branch
-        run: git pull origin develop
+      - name: Pull latest changes
+        run: git pull --rebase origin develop
 
       - name: Commit Files
         uses: stefanzweifel/git-auto-commit-action@v5
