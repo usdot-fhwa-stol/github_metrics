@@ -43,7 +43,7 @@ date,org,repo,forks,stars,commits,collaborators
 2024-09-10,usdot-fhwa-stol,cda-telematics,2,1,396,9
 2024-09-10,usdot-fhwa-stol,carma-carla-integration,2,2,272,11
 2024-09-10,usdot-fhwa-stol,github_metrics,1,0,330,6
-2024-09-10,usdot-fhwa-stol,devops,1,1,35,5
+2024-09-10,usdot-fhwa-stol,devops,2,1,35,5
 2024-09-10,usdot-fhwa-stol,documentation,0,0,1,1
 2024-09-10,usdot-fhwa-stol,dwm1001_ros2,3,0,11,1
 2024-09-10,usdot-fhwa-stol,c1t-tools,0,0,3,1
@@ -59,3 +59,18 @@ date,org,repo,forks,stars,commits,collaborators
 2024-09-10,usdot-fhwa-stol,carma-ns3-adapter,2,0,57,7
 2024-09-10,usdot-fhwa-stol,voices-common-interface,0,0,1,1
 2024-09-10,usdot-fhwa-stol,ns3-federate,0,0,72,4
+2024-09-10,usdot-fhwa-stol,ns-3_c-v2x,1,0,13720,152
+2024-09-10,usdot-fhwa-stol,carma-geodetic-lib,0,0,2,2
+2024-09-10,usdot-fhwa-stol,carma-slamtec-lidar-driver,0,0,6,2
+2024-09-10,usdot-fhwa-stol,scenario-runner,0,0,20,4
+2024-09-10,usdot-fhwa-stol,carma-vesc-ssc-wrapper,0,0,1,1
+2024-09-10,usdot-fhwa-stol,carla-sensor-lib,1,0,53,6
+2024-09-10,usdot-fhwa-stol,cave-lite,0,0,35,1
+2024-09-10,usdot-fhwa-stol,j2735decoder,0,3,6,1
+2024-09-10,usdot-fhwa-stol,Stol-scratchpad,0,0,11,1
+2024-09-10,usdot-fhwa-stol,c1t_bringup,0,0,30,4
+2024-09-10,usdot-fhwa-stol,connectedvcs-tools,3,0,117,8
+2024-09-10,usdot-fhwa-stol,navigation2_extensions,2,1,45,4
+2024-09-10,usdot-fhwa-stol,twist_to_ackermann,0,0,4,1
+2024-09-10,usdot-fhwa-stol,To-21-426-modeling-HV-interactions-with-inconspicuous-ACC-equipped-vehicles,0,0,10,2
+2024-09-10,usdot-fhwa-stol,To-21-426-multivariate-piecewise-linear-ACC-car-following-model,0,0,7,2
