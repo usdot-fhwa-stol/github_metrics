@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 1
+          fetch-depth: 0 
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -34,8 +34,9 @@ jobs:
             python3 traffic-metrics/export_traffic.py -t ${{ secrets.METRICS_GITHUB_TOKEN }} -o "$ORG"
             python3 traffic-metrics/github_metrics.py -t ${{ secrets.METRICS_GITHUB_TOKEN }} -o "$ORG"
           done
-      - name: Pull latest changes
-        run: git pull --rebase origin develop
+
+      - name: Fetch latest changes
+        run: git fetch origin develop
 
       - name: Commit Files
         uses: stefanzweifel/git-auto-commit-action@v5
