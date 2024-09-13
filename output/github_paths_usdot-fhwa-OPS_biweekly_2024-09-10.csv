@@ -1,0 +1,31 @@
+Start date,End date,Org,Repo,Path,Title,Count,Unique
+2024-08-26,2024-09-09,usdot-fhwa-OPS,ITS-Secure-Prototype-App,/usdot-fhwa-OPS/ITS-Secure-Prototype-App,usdot-fhwa-OPS/ITS-Secure-Prototype-App,6,4
+2024-08-26,2024-09-09,usdot-fhwa-OPS,ITS-Secure-Prototype-App,/usdot-fhwa-OPS/ITS-Secure-Prototype-App/commits/develop,Commits · usdot-fhwa-OPS/ITS-Secure-Prototype-App,2,1
+2024-08-26,2024-09-09,usdot-fhwa-OPS,ITS-Secure-Prototype-App,/usdot-fhwa-OPS/ITS-Secure-Prototype-App/pulls,Pull requests · usdot-fhwa-OPS/ITS-Secure-Prototype-App,1,1
+2024-08-26,2024-09-09,usdot-fhwa-OPS,ITS-Secure-Prototype-Backend,/usdot-fhwa-OPS/ITS-Secure-Prototype-Backend,usdot-fhwa-OPS/ITS-Secure-Prototype-Backend: Repository for AWS backend confi...,7,3
+2024-08-26,2024-09-09,usdot-fhwa-OPS,ITS-Secure-Prototype-Backend,/usdot-fhwa-OPS/ITS-Secure-Prototype-Backend/blob/develop/poolFunctions/lambda_function.py,ITS-Secure-Prototype-Backend/poolFunctions/lambda_function.py at develop · us...,2,1
+2024-08-26,2024-09-09,usdot-fhwa-OPS,ITS-Secure-Prototype-Backend,/usdot-fhwa-OPS/ITS-Secure-Prototype-Backend/commits/develop,Commits · usdot-fhwa-OPS/ITS-Secure-Prototype-Backend,2,1
+2024-08-26,2024-09-09,usdot-fhwa-OPS,ITS-Secure-Prototype-Backend,/usdot-fhwa-OPS/ITS-Secure-Prototype-Backend/graphs/contributors,Contributors to usdot-fhwa-OPS/ITS-Secure-Prototype-Backend,2,1
+2024-08-26,2024-09-09,usdot-fhwa-OPS,ITS-Secure-Prototype-Backend,/usdot-fhwa-OPS/ITS-Secure-Prototype-Backend/tree/develop/poolFunctions,ITS-Secure-Prototype-Backend/poolFunctions at develop · usdot-fhwa-OPS/ITS-Se...,2,1
+2024-08-26,2024-09-09,usdot-fhwa-OPS,ITS-Secure-Prototype-Backend,/usdot-fhwa-OPS/ITS-Secure-Prototype-Backend/issues,Issues · usdot-fhwa-OPS/ITS-Secure-Prototype-Backend,1,1
+2024-08-26,2024-09-09,usdot-fhwa-OPS,ITS-Secure-Prototype-Backend,/usdot-fhwa-OPS/ITS-Secure-Prototype-Backend/pulls,Pull requests · usdot-fhwa-OPS/ITS-Secure-Prototype-Backend,1,1
+2024-08-26,2024-09-09,usdot-fhwa-OPS,ITS-Secure-Prototype-Backend,/usdot-fhwa-OPS/ITS-Secure-Prototype-Backend/pulse,Pulse · usdot-fhwa-OPS/ITS-Secure-Prototype-Backend,1,1
+2024-08-26,2024-09-09,usdot-fhwa-OPS,ITS-Secure-Prototype-Frontend,/usdot-fhwa-OPS/ITS-Secure-Prototype-Frontend,usdot-fhwa-OPS/ITS-Secure-Prototype-Frontend: Frontend code for Cybersecurity...,4,2
+2024-08-26,2024-09-09,usdot-fhwa-OPS,ITS-Secure-Prototype-Frontend,/usdot-fhwa-OPS/ITS-Secure-Prototype-Frontend/tree/develop/src,ITS-Secure-Prototype-Frontend/src at develop · usdot-fhwa-OPS/ITS-Secure-Prot...,4,2
+2024-08-26,2024-09-09,usdot-fhwa-OPS,ITS-Secure-Prototype-Frontend,/usdot-fhwa-OPS/ITS-Secure-Prototype-Frontend/blob/develop/src/api/DeviceApi.js,ITS-Secure-Prototype-Frontend/src/api/DeviceApi.js at develop · usdot-fhwa-OP...,2,1
+2024-08-26,2024-09-09,usdot-fhwa-OPS,ITS-Secure-Prototype-Frontend,/usdot-fhwa-OPS/ITS-Secure-Prototype-Frontend/blob/develop/src/common/components/CustomDialogBox.jsx,ITS-Secure-Prototype-Frontend/src/common/components/CustomDialogBox.jsx at de...,2,1
+2024-08-26,2024-09-09,usdot-fhwa-OPS,ITS-Secure-Prototype-Frontend,/usdot-fhwa-OPS/ITS-Secure-Prototype-Frontend/blob/develop/src/pages/DevicesPage.jsx,ITS-Secure-Prototype-Frontend/src/pages/DevicesPage.jsx at develop · usdot-fh...,2,1
+2024-08-26,2024-09-09,usdot-fhwa-OPS,ITS-Secure-Prototype-Frontend,/usdot-fhwa-OPS/ITS-Secure-Prototype-Frontend/tree/develop/src/api,ITS-Secure-Prototype-Frontend/src/api at develop · usdot-fhwa-OPS/ITS-Secure-...,2,1
+2024-08-26,2024-09-09,usdot-fhwa-OPS,ITS-Secure-Prototype-Frontend,/usdot-fhwa-OPS/ITS-Secure-Prototype-Frontend/tree/develop/src/common,ITS-Secure-Prototype-Frontend/src/common at develop · usdot-fhwa-OPS/ITS-Secu...,2,1
+2024-08-26,2024-09-09,usdot-fhwa-OPS,ITS-Secure-Prototype-Frontend,/usdot-fhwa-OPS/ITS-Secure-Prototype-Frontend/tree/develop/src/common/components,ITS-Secure-Prototype-Frontend/src/common/components at develop · usdot-fhwa-O...,2,1
+2024-08-26,2024-09-09,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub,usdot-fhwa-OPS/V2X-Hub: V2X Hub is a message handler that acts as a translato...,228,66
+2024-08-26,2024-09-09,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/pulls,Pull requests · usdot-fhwa-OPS/V2X-Hub,107,10
+2024-08-26,2024-09-09,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/pull/639,Added SQL files for use with C1T Port Drayage configuration with docker compo...,42,6
+2024-08-26,2024-09-09,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/tree/develop/src/v2i-hub,V2X-Hub/src/v2i-hub at develop · usdot-fhwa-OPS/V2X-Hub · GitHub,41,9
+2024-08-26,2024-09-09,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/tree/develop/src,V2X-Hub/src at develop · usdot-fhwa-OPS/V2X-Hub · GitHub,38,10
+2024-08-26,2024-09-09,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/tree/develop/configuration,V2X-Hub/configuration at develop · usdot-fhwa-OPS/V2X-Hub · GitHub,34,7
+2024-08-26,2024-09-09,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/tree/develop/docs,V2X-Hub/docs at develop · usdot-fhwa-OPS/V2X-Hub · GitHub,31,8
+2024-08-26,2024-09-09,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/blob/develop/configuration/README.md,V2X-Hub/configuration/README.md at develop · usdot-fhwa-OPS/V2X-Hub · GitHub,30,8
+2024-08-26,2024-09-09,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/pull/640,Update CDASimAdapter to accomadate changes in SensorConfig file by paulbourel...,27,7
+2024-08-26,2024-09-09,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/tree/develop,usdot-fhwa-OPS/V2X-Hub: V2X Hub is a message handler that acts as a translato...,26,16
+2024-08-26,2024-09-09,usdot-fhwa-OPS,v2xhub-angular-ui-prototype,/usdot-fhwa-OPS/v2xhub-angular-ui-prototype,usdot-fhwa-OPS/v2xhub-angular-ui-prototype: V2X-Hub Prototype Angular UI,2,2
