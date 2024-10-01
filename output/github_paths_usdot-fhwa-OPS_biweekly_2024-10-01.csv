@@ -1,0 +1,20 @@
+Start date,End date,Org,Repo,Path,Title,Count,Unique
+2024-09-16,2024-09-30,usdot-fhwa-OPS,ITS-Secure-Prototype-App,/usdot-fhwa-OPS/ITS-Secure-Prototype-App,GitHub - usdot-fhwa-OPS/ITS-Secure-Prototype-App,2,2
+2024-09-16,2024-09-30,usdot-fhwa-OPS,ITS-Secure-Prototype-Backend,/usdot-fhwa-OPS/ITS-Secure-Prototype-Backend/blob/9dcbd08a73ab875f69fd1f1eb694f085faad5bca/poolFunctions/lambda_function.py,ITS-Secure-Prototype-Backend/poolFunctions/lambda_function.py at 9dcbd08a73ab...,2,1
+2024-09-16,2024-09-30,usdot-fhwa-OPS,ITS-Secure-Prototype-Backend,/usdot-fhwa-OPS/ITS-Secure-Prototype-Backend/blob/9dcbd08a73ab875f69fd1f1eb694f085faad5bca/requestConf_ocs/lambda_function.py,ITS-Secure-Prototype-Backend/requestConf_ocs/lambda_function.py at 9dcbd08a73...,2,1
+2024-09-16,2024-09-30,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub,usdot-fhwa-OPS/V2X-Hub: V2X Hub is a message handler that acts as a translato...,177,93
+2024-09-16,2024-09-30,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/tree/develop/src,V2X-Hub/src at develop · usdot-fhwa-OPS/V2X-Hub · GitHub,55,13
+2024-09-16,2024-09-30,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/tree/develop/src/v2i-hub,V2X-Hub/src/v2i-hub at develop · usdot-fhwa-OPS/V2X-Hub · GitHub,53,12
+2024-09-16,2024-09-30,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/blob/develop/configuration/README.md,V2X-Hub/configuration/README.md at develop · usdot-fhwa-OPS/V2X-Hub · GitHub,25,7
+2024-09-16,2024-09-30,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/pulls,Pull requests · usdot-fhwa-OPS/V2X-Hub · GitHub,24,6
+2024-09-16,2024-09-30,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/tree/develop/configuration,V2X-Hub/configuration at develop · usdot-fhwa-OPS/V2X-Hub · GitHub,21,11
+2024-09-16,2024-09-30,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/tree/develop/src/tmx,V2X-Hub/src/tmx at develop · usdot-fhwa-OPS/V2X-Hub · GitHub,18,5
+2024-09-16,2024-09-30,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/blob/develop/src/v2i-hub/MessageReceiverPlugin/src/MessageReceiverPlugin.cpp,V2X-Hub/src/v2i-hub/MessageReceiverPlugin/src/MessageReceiverPlugin.cpp at de...,17,6
+2024-09-16,2024-09-30,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/tree/develop/docs,V2X-Hub/docs at develop · usdot-fhwa-OPS/V2X-Hub · GitHub,14,9
+2024-09-16,2024-09-30,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/tree/develop,V2X-Hub/ at develop · usdot-fhwa-OPS/V2X-Hub,14,7
+2024-09-16,2024-09-30,usdot-fhwa-OPS,v2xhub-angular-ui-prototype,/usdot-fhwa-OPS/v2xhub-angular-ui-prototype,usdot-fhwa-OPS/v2xhub-angular-ui-prototype: V2X-Hub Prototype Angular UI,3,1
+2024-09-16,2024-09-30,usdot-fhwa-OPS,v2xhub-angular-ui-prototype,/usdot-fhwa-OPS/v2xhub-angular-ui-prototype/pull/1,Investigate Angular/Grafana integration by dan-du-car · Pull Request #1 · usd...,2,1
+2024-09-16,2024-09-30,usdot-fhwa-OPS,v2xhub-angular-ui-prototype,/usdot-fhwa-OPS/v2xhub-angular-ui-prototype/pull/1/files,Investigate Angular/Grafana integration by dan-du-car · Pull Request #1 · usd...,2,1
+2024-09-16,2024-09-30,usdot-fhwa-OPS,v2xhub-angular-ui-prototype,/usdot-fhwa-OPS/v2xhub-angular-ui-prototype/compare/prototype_dashboard,Comparing prototype...prototype_dashboard · usdot-fhwa-OPS/v2xhub-angular-ui-...,1,1
+2024-09-16,2024-09-30,usdot-fhwa-OPS,v2xhub-angular-ui-prototype,/usdot-fhwa-OPS/v2xhub-angular-ui-prototype/pulls,Pull requests · usdot-fhwa-OPS/v2xhub-angular-ui-prototype,1,1
+2024-09-16,2024-09-30,usdot-fhwa-OPS,v2xhub-angular-ui-prototype,/usdot-fhwa-OPS/v2xhub-angular-ui-prototype/tree/prototype_dashboard,usdot-fhwa-OPS/v2xhub-angular-ui-prototype at prototype_dashboard,1,1
