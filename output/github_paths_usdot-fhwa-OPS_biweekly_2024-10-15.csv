@@ -1,0 +1,16 @@
+Start date,End date,Org,Repo,Path,Title,Count,Unique
+2024-09-30,2024-10-14,usdot-fhwa-OPS,ITS-Secure-Prototype-App,/usdot-fhwa-OPS/ITS-Secure-Prototype-App,GitHub - usdot-fhwa-OPS/ITS-Secure-Prototype-App,1,1
+2024-09-30,2024-10-14,usdot-fhwa-OPS,ITS-Secure-Prototype-Backend,/usdot-fhwa-OPS/ITS-Secure-Prototype-Backend,GitHub - usdot-fhwa-OPS/ITS-Secure-Prototype-Backend: Repository for AWS back...,1,1
+2024-09-30,2024-10-14,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub,usdot-fhwa-OPS/V2X-Hub: V2X Hub is a message handler that acts as a translato...,113,61
+2024-09-30,2024-10-14,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/tree/develop/src,V2X-Hub/src at develop · usdot-fhwa-OPS/V2X-Hub · GitHub,17,10
+2024-09-30,2024-10-14,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/tree/develop/src/v2i-hub,V2X-Hub/src/v2i-hub at develop · usdot-fhwa-OPS/V2X-Hub · GitHub,16,8
+2024-09-30,2024-10-14,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/tree/j2735-2024-upgrade,usdot-fhwa-OPS/V2X-Hub at j2735-2024-upgrade,14,4
+2024-09-30,2024-10-14,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/tree/develop,usdot-fhwa-OPS/V2X-Hub: V2X Hub is a message handler that acts as a translato...,9,5
+2024-09-30,2024-10-14,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/blob/develop/src/v2i-hub/MessageReceiverPlugin/src/MessageReceiverPlugin.cpp,V2X-Hub/src/v2i-hub/MessageReceiverPlugin/src/MessageReceiverPlugin.cpp at de...,9,2
+2024-09-30,2024-10-14,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/tree/develop/docs,V2X-Hub/docs at develop · usdot-fhwa-OPS/V2X-Hub · GitHub,8,6
+2024-09-30,2024-10-14,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/tree/develop/configuration,V2X-Hub/configuration at develop · usdot-fhwa-OPS/V2X-Hub · GitHub,7,5
+2024-09-30,2024-10-14,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/blob/develop/configuration/README.md,V2X-Hub/configuration/README.md at develop · usdot-fhwa-OPS/V2X-Hub · GitHub,6,3
+2024-09-30,2024-10-14,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/pulls,Pull requests · usdot-fhwa-OPS/V2X-Hub · GitHub,6,3
+2024-09-30,2024-10-14,usdot-fhwa-OPS,v2xhub-angular-ui-prototype,/usdot-fhwa-OPS/v2xhub-angular-ui-prototype/pull/1,Investigate Angular/Grafana integration by dan-du-car · Pull Request #1 · usd...,4,3
+2024-09-30,2024-10-14,usdot-fhwa-OPS,v2xhub-angular-ui-prototype,/usdot-fhwa-OPS/v2xhub-angular-ui-prototype/pulls,Pull requests · usdot-fhwa-OPS/v2xhub-angular-ui-prototype,4,1
+2024-09-30,2024-10-14,usdot-fhwa-OPS,v2xhub-angular-ui-prototype,/usdot-fhwa-OPS/v2xhub-angular-ui-prototype,usdot-fhwa-OPS/v2xhub-angular-ui-prototype: V2X-Hub Prototype Angular UI,3,2

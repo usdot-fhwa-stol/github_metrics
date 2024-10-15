@@ -1,18 +1,16 @@
 count,org,repo,week,additions,deletions,commits,author,is a member
-1,usdot-fhwa-OPS,V2X-Hub,2021-01-03,45,55,1,afrye51,no
 1,usdot-fhwa-OPS,V2X-Hub,2019-05-19,3,1,1,MatthewJMcAllister,no
-1,usdot-fhwa-OPS,V2X-Hub,2024-08-25,71,0,1,maefromm,yes
 1,usdot-fhwa-OPS,V2X-Hub,2023-07-02,69,4,1,gainesaw,no
-1,usdot-fhwa-OPS,V2X-Hub,2022-03-27,1,1,1,dependabot[bot],no
-1,usdot-fhwa-OPS,V2X-Hub,2022-06-19,1,1,1,dependabot[bot],no
-1,usdot-fhwa-OPS,V2X-Hub,2022-10-30,4,2,1,oschwartz10612,no
-1,usdot-fhwa-OPS,V2X-Hub,2022-12-25,8,3,1,oschwartz10612,no
+1,usdot-fhwa-OPS,V2X-Hub,2024-08-25,71,0,1,maefromm,yes
+1,usdot-fhwa-OPS,V2X-Hub,2021-01-03,45,55,1,afrye51,no
 1,usdot-fhwa-OPS,V2X-Hub,2023-04-09,107,25,1,MishkaMN,yes
 1,usdot-fhwa-OPS,V2X-Hub,2024-03-17,33,25,1,MishkaMN,yes
 1,usdot-fhwa-OPS,V2X-Hub,2022-02-20,74,58,1,ajloughr-leidos,yes
 1,usdot-fhwa-OPS,V2X-Hub,2024-03-10,1,0,1,ajloughr-leidos,yes
 1,usdot-fhwa-OPS,V2X-Hub,2022-11-27,1,1,1,saina-ramyar,no
 1,usdot-fhwa-OPS,V2X-Hub,2023-04-09,128,10,1,saina-ramyar,no
+1,usdot-fhwa-OPS,V2X-Hub,2022-03-27,1,1,1,dependabot[bot],no
+1,usdot-fhwa-OPS,V2X-Hub,2022-06-19,1,1,1,dependabot[bot],no
 1,usdot-fhwa-OPS,V2X-Hub,2022-10-30,16,16,3,jwilliammartin,no
 1,usdot-fhwa-OPS,V2X-Hub,2022-05-08,737,88,1,abey-yoseph,yes
 1,usdot-fhwa-OPS,V2X-Hub,2022-05-15,46,30,2,abey-yoseph,yes
@@ -30,6 +28,13 @@ count,org,repo,week,additions,deletions,commits,author,is a member
 1,usdot-fhwa-OPS,V2X-Hub,2019-04-21,6,5,3,atgreenwood,yes
 1,usdot-fhwa-OPS,V2X-Hub,2019-04-28,16,0,1,atgreenwood,yes
 1,usdot-fhwa-OPS,V2X-Hub,2019-08-04,2,2,2,atgreenwood,yes
+1,usdot-fhwa-OPS,V2X-Hub,2023-08-27,661,1,1,willjohnsonk,no
+1,usdot-fhwa-OPS,V2X-Hub,2023-09-10,728,21,1,willjohnsonk,no
+1,usdot-fhwa-OPS,V2X-Hub,2024-07-28,72,12,3,willjohnsonk,no
+1,usdot-fhwa-OPS,V2X-Hub,2024-08-11,153,3,1,willjohnsonk,no
+1,usdot-fhwa-OPS,V2X-Hub,2024-08-18,4,54,1,willjohnsonk,no
+1,usdot-fhwa-OPS,V2X-Hub,2024-08-25,12,5,2,willjohnsonk,no
+1,usdot-fhwa-OPS,V2X-Hub,2024-09-01,23,18,6,willjohnsonk,no
 1,usdot-fhwa-OPS,V2X-Hub,2022-12-11,44,30,2,rob-baily,no
 1,usdot-fhwa-OPS,V2X-Hub,2022-12-18,53,146,2,rob-baily,no
 1,usdot-fhwa-OPS,V2X-Hub,2022-12-25,118,255,1,rob-baily,no
@@ -39,13 +44,6 @@ count,org,repo,week,additions,deletions,commits,author,is a member
 1,usdot-fhwa-OPS,V2X-Hub,2023-02-19,24,8,1,rob-baily,no
 1,usdot-fhwa-OPS,V2X-Hub,2023-02-26,181,153,1,rob-baily,no
 1,usdot-fhwa-OPS,V2X-Hub,2023-03-05,291,102,3,rob-baily,no
-1,usdot-fhwa-OPS,V2X-Hub,2023-08-27,661,1,1,willjohnsonk,no
-1,usdot-fhwa-OPS,V2X-Hub,2023-09-10,728,21,1,willjohnsonk,no
-1,usdot-fhwa-OPS,V2X-Hub,2024-07-28,72,12,3,willjohnsonk,no
-1,usdot-fhwa-OPS,V2X-Hub,2024-08-11,153,3,1,willjohnsonk,no
-1,usdot-fhwa-OPS,V2X-Hub,2024-08-18,4,54,1,willjohnsonk,no
-1,usdot-fhwa-OPS,V2X-Hub,2024-08-25,12,5,2,willjohnsonk,no
-1,usdot-fhwa-OPS,V2X-Hub,2024-09-01,23,18,6,willjohnsonk,no
 1,usdot-fhwa-OPS,V2X-Hub,2022-12-11,88,148,11,codygarver,no
 1,usdot-fhwa-OPS,V2X-Hub,2022-12-18,1,241,1,codygarver,no
 1,usdot-fhwa-OPS,V2X-Hub,2023-01-01,2,1,1,codygarver,no
@@ -309,6 +307,7 @@ count,org,repo,week,additions,deletions,commits,author,is a member
 1,usdot-fhwa-OPS,V2X-Hub,2024-07-28,1450,1053,2,paulbourelly999,yes
 1,usdot-fhwa-OPS,V2X-Hub,2024-08-25,62,5,1,paulbourelly999,yes
 1,usdot-fhwa-OPS,V2X-Hub,2024-09-01,250,42,1,paulbourelly999,yes
+1,usdot-fhwa-OPS,V2X-Hub,2024-09-29,1347,279,1,paulbourelly999,yes
 1,usdot-fhwa-OPS,V2X-Hub,2019-03-10,26055,107,5,animeshb27,yes
 1,usdot-fhwa-OPS,V2X-Hub,2019-03-17,7505,220,9,animeshb27,yes
 1,usdot-fhwa-OPS,V2X-Hub,2019-03-31,5,8,1,animeshb27,yes
@@ -379,6 +378,7 @@ count,org,repo,week,additions,deletions,commits,author,is a member
 5,usdot-fhwa-OPS,ITS-Secure-Prototype-Frontend,2023-11-12,217,4,2,ChrisC027,no
 5,usdot-fhwa-OPS,ITS-Secure-Prototype-Frontend,2023-10-22,201,0,1,kjrush,yes
 5,usdot-fhwa-OPS,ITS-Secure-Prototype-Frontend,2024-07-14,491,9,5,kjrush,yes
+6,usdot-fhwa-OPS,v2xhub-angular-ui-prototype,2024-09-29,57,8,1,dan-du-car,yes
 6,usdot-fhwa-OPS,v2xhub-angular-ui-prototype,2024-04-28,13463,2,2,paulbourelly999,yes
 6,usdot-fhwa-OPS,v2xhub-angular-ui-prototype,2024-05-05,1478,607,2,paulbourelly999,yes
 6,usdot-fhwa-OPS,v2xhub-angular-ui-prototype,2024-07-21,261,158,2,paulbourelly999,yes
